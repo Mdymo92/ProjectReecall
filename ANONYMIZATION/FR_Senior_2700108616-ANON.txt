@@ -1,0 +1,573 @@
+{
+  "transcription": {
+    "id": 359164667,
+    "call_id": 2700108616,
+    "call_created_at": "2025-04-01T09:05:30.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.8399999,
+          "end_time": 12.74,
+          "text": "Oui bonjour madame. Je vous appelle parce que j'ai un compte client chez vous et moi je suis encore à la maison là je voulais me connecter à mon compte et il ne veut pas mon mon email.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 12.719999,
+          "end_time": 13.219999,
+          "text": "Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 12.88,
+          "end_time": 13.599999,
+          "text": "Alors je ne comprends",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 13.44,
+          "end_time": 13.94,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 13.599999,
+          "end_time": 14.34,
+          "text": "pas pourquoi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 14.905,
+          "end_time": 17.725,
+          "text": "Alors c'est dans Alain Justaud, le le nom de la carte",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 18.595001,
+          "end_time": 23.815,
+          "text": "Le nom de, oui, mais le le nom de la messagerie, il est sur mon prénom à moi Myriam.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 23.465,
+          "end_time": 26.685,
+          "text": "Oui, c'est dans myriam juste arobase orange point f r.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 26.85,
+          "end_time": 27.49,
+          "text": "Voilà c'est ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 27.465,
+          "end_time": 27.965,
+          "text": "Ouais,",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 27.49,
+          "end_time": 28.050001,
+          "text": "et j'arrive",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 28.025,
+          "end_time": 28.525,
+          "text": "d'accord.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 28.050001,
+          "end_time": 29.67,
+          "text": "pas, il me dit qu'il ne veut pas.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 29.785,
+          "end_time": 34.17,
+          "text": "D'accord. Et donc le numéro de téléphone enregistré, c'est celui avec lequel vous appelez Donc c'est",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 34.05,
+          "end_time": 34.29,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 34.17,
+          "end_time": 34.41,
+          "text": "le",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 34.29,
+          "end_time": 34.45,
+          "text": "oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 34.41,
+          "end_time": 34.489998,
+          "text": "le",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 34.45,
+          "end_time": 34.95,
+          "text": "oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 34.489998,
+          "end_time": 44.364998,
+          "text": "bon également. Je vais vous vérifier les 2. Est-ce que vous pouvez essayer de vous reconnecter avec votre, enfin votre email ou votre numéro de téléphone et votre mot de passe habituel pour voir si ça",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 45.135,
+          "end_time": 45.635,
+          "text": "Alors,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 47.984997,
+          "end_time": 54.045,
+          "text": "fonctionne. Là, vous êtes bien sur l'application Campinterpark.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 55.85,
+          "end_time": 56.989998,
+          "text": "Oui, je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 56.91,
+          "end_time": 57.41,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 57.05,
+          "end_time": 57.995,
+          "text": "suis, enfin je suis parce que",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 57.95,
+          "end_time": 58.45,
+          "text": "parce",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 57.995,
+          "end_time": 65.229996,
+          "text": "je suis sur le téléphone et à la fois sur mon ordinateur et de nouveau il me dit erreur d'identification, il ne veut pas.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 64.75,
+          "end_time": 72.335,
+          "text": "que là si vous êtes sur l'ordinateur, vous allez plus vous pouvoir vous connecter à votre compte client. Ce sera que sur l'application camping-car parc, donc sur votre téléphone.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 73.515,
+          "end_time": 78.895,
+          "text": "D'accord. Donc qu'est-ce que je fais Parce que je l'ai essayé sur le téléphone aussi, mais il n'a pas voulu, il n'a pas voulu.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 78.475,
+          "end_time": 80.475,
+          "text": "Là, là vous pouvez réessayer,",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 80.25,
+          "end_time": 80.75,
+          "text": "Oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 80.475,
+          "end_time": 88.93,
+          "text": "je vous dis, en fait avec la nouvelle version de l'application, on vérifie en même temps les coordonnées s'ils sont bien à jour. Donc là, je vous ai validé l'adresse mail et le numéro de téléphone. Vous pouvez",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 88.81,
+          "end_time": 89.31,
+          "text": "oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 88.93,
+          "end_time": 93.11,
+          "text": "rester avec votre ancien mot de passe et si ça ne fonctionne pas, je pourrais vous modifier le mot de passe.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 93.69,
+          "end_time": 104.395,
+          "text": "D'accord. Mais comment je fais là Parce que concrètement, je ne peux pas, je suis là, je n'arrive pas, vous comprenez, je suis sur le téléphone, mais je n'arrive pas à me mettre ailleurs. Je ne suis pas",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 104.315,
+          "end_time": 104.815,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 104.395,
+          "end_time": 105.134995,
+          "text": "très douée.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 105.195,
+          "end_time": 115.2,
+          "text": "donc la lame vous pouvez, quand vous touchez votre écran de téléphone, normalement vous avez des petits des petits de formes en bas, un rond, un triangle, un carré.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 115.41,
+          "end_time": 116.23,
+          "text": "Oui, oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 116.159996,
+          "end_time": 123.619995,
+          "text": "Vous pouvez cliquer sur l'un d'eux et ensuite vous allez pouvoir aller donc accéder à votre téléphone pour aller sur l'application camping-car Park.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 123.985,
+          "end_time": 125.745,
+          "text": "Peu importe lequel, par exemple si",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 125.67999,
+          "end_time": 125.84,
+          "text": "Oui",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 125.745,
+          "end_time": 125.905,
+          "text": "je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 125.84,
+          "end_time": 126.159996,
+          "text": "oui",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 125.905,
+          "end_time": 126.225,
+          "text": "vais sur",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 126.159996,
+          "end_time": 126.659996,
+          "text": "oui.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 126.225,
+          "end_time": 157.83499,
+          "text": "un carré, c'est bon Alors, non, je ne vois pas, je ne vois pas, non, j'ai toujours que, mais j'essaye autre chose sur le rang, voilà sur le rang j'y suis. Alors, il faut que j'aille sur le, voilà alors mon mail, je je rentre mon mail,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 158.31,
+          "end_time": 160.25,
+          "text": "Oui, vous pouvez mettre votre adresse mail",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 161.89499,
+          "end_time": 163.09499,
+          "text": "voilà. Alors",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 163.075,
+          "end_time": 163.235,
+          "text": "et",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 163.09499,
+          "end_time": 163.33499,
+          "text": "il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 163.235,
+          "end_time": 163.735,
+          "text": "votre",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 163.33499,
+          "end_time": 186.46501,
+          "text": "me dit déjà, mail est valide déjà il me dit et mon mot de passe. Voilà et ça se met même pas, je ne peux même pas appuyer sur se connecter parce que ça reste en grisé. En fait c'est mon nom, c'est mon email qui qui ne convient pas. Je ne sais pas pourquoi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 186.38,
+          "end_time": 191.08499,
+          "text": "Et vous n'avez pas de d'espace ou quelque chose qui s'est ajouté à l'adresse mail Parfois",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 190.765,
+          "end_time": 196.125,
+          "text": "Donc, toujours mon mon prénom et mon nom tout attaché arobase orange point",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 195.94499,
+          "end_time": 196.44499,
+          "text": "ça",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 196.125,
+          "end_time": 199.36,
+          "text": "f r. Il me met bien mail invalide.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 201.305,
+          "end_time": 208.17,
+          "text": "peut fonctionner même avec le mot de passe. Et est-ce que vous pouvez avec le numéro de téléphone pour voir si ça vous fait la même chose",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 209.42,
+          "end_time": 212.355,
+          "text": "Avec le téléphone, Alors,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 212.15,
+          "end_time": 212.52333,
+          "text": "Mais normalement,",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 212.355,
+          "end_time": 212.855,
+          "text": "ah",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 212.52333,
+          "end_time": 217.61,
+          "text": "en en vous avez se connecter avec le numéro de téléphone ou l'adresse mail.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 217.395,
+          "end_time": 220.455,
+          "text": "d'accord. Donc je mets mon téléphone. 0",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 219.985,
+          "end_time": 220.885,
+          "text": "Oui, vous pouvez.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 221.155,
+          "end_time": 262.76,
+          "text": "6, 0 6, 0 6, trente-huit, quatre-vingt-dix-neuf, soixante-dix-huit, 4 quatre-vingt-dix-neuf soixante-quatorze quatre-vingt-cinq et je me remets mon mot de passe. Alors voilà, on dirait que ça veut marcher. Nous allons vérifier votre compte. Excusez-moi j'ai un double appel, ça tourne mal. Mais alors là je ne vois plus rien.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 264.43,
+          "end_time": 265.49,
+          "text": "Avec l'appel si",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 267.395,
+          "end_time": 270.035,
+          "text": "Je veux, c'est ma fille en plus, bon je rappellerai",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 269.87,
+          "end_time": 270.19,
+          "text": "terrible. Là",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 270.035,
+          "end_time": 270.195,
+          "text": "tout à",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 270.19,
+          "end_time": 270.35,
+          "text": "je",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 270.195,
+          "end_time": 270.695,
+          "text": "fait.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 270.35,
+          "end_time": 276.66998,
+          "text": "pense que vous avez pu être vous connecter parce que je vois que votre code s'est activé. Je pense que vous êtes connecté là. Donc vous devriez",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 276.515,
+          "end_time": 277.015,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 276.66998,
+          "end_time": 278.61844,
+          "text": "pouvoir voir votre salle de 16 euros vingt-neuf.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 279.715,
+          "end_time": 283.69843,
+          "text": "D'accord. Très bien, écoutez, je vais essayer. Je vous remercie.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 284.13843,
+          "end_time": 284.61844,
+          "text": "Bonne journée",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 284.47842,
+          "end_time": 284.79843,
+          "text": "Merci",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 284.61844,
+          "end_time": 285.27844,
+          "text": "à vous madame.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 284.79843,
+          "end_time": 286.81842,
+          "text": "beaucoup madame, bonne journée, au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_67"
+        },
+        {
+          "start_time": 286.53845,
+          "end_time": 287.03345,
+          "text": "Merci.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "transcription": {
+    "id": 359408054,
+    "call_id": 2700898055,
+    "call_created_at": "2025-04-01T12:54:35.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 0,
+          "end_time": 0.74,
+          "text": "Oui bonjour.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 2.3999999,
+          "end_time": 2.8999999,
+          "text": "Allô",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 3.04,
+          "end_time": 3.6999998,
+          "text": "Oui bonjour.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 4.72,
+          "end_time": 8.98,
+          "text": "Oui bonjour je suis sur l'aire de Roscov",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 9.76,
+          "end_time": 10.26,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 11.04,
+          "end_time": 15.94,
+          "text": "dans le vingt-neuf. Je voulais savoir s'il y avait d'un wifi parce que je n'arrive pas à me connecter.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 15.745,
+          "end_time": 17.825,
+          "text": "On va regarder ça ensemble monsieur,",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 17.815,
+          "end_time": 18.135,
+          "text": "S'il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 17.825,
+          "end_time": 18.325,
+          "text": "voir",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 18.135,
+          "end_time": 18.955,
+          "text": "vous plaît merci.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 18.625,
+          "end_time": 20.965,
+          "text": "si peut-être qu'elle a un petit défaut.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 20.775002,
+          "end_time": 21.275002,
+          "text": "C'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 21.345,
+          "end_time": 21.845,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 23.095001,
+          "end_time": 23.995,
+          "text": "pour ça que j'appelle.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 24.305,
+          "end_time": 39.309998,
+          "text": "vous avez bien fait Un horoscope, c'est l'instant. Alors est-ce que vous voyez apparaître un réseau camping-car parc ou pas du tout",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 40.64,
+          "end_time": 41.38,
+          "text": "Normalement oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 42.655,
+          "end_time": 44.754997,
+          "text": "Et là vous le voyez apparaître un CC Péroscope",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 46.615,
+          "end_time": 48.075,
+          "text": "c'est c'était en scof oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 48.335,
+          "end_time": 50.995,
+          "text": "D'accord et ensuite l'étape d'après qu'est-ce qu'il vous demande",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 53.815002,
+          "end_time": 69.84,
+          "text": "après je je clique dessus et j'arrive sur une page noire Il y a il y a il y a il y a un point d'interrogation dans un icône bon honnêtement je connais pas grand chose dans l'informatique c'est marqué limité ouvert.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 72.424995,
+          "end_time": 76.284996,
+          "text": "Et du coup, le wifi n'est pas actif sur votre téléphone. Oui,",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 77.145,
+          "end_time": 79.805,
+          "text": "Sur le sur mon petit p sur mon pc portable.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 80.265,
+          "end_time": 81.564995,
+          "text": "ça ne marche pas, d'accord.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 82.424995,
+          "end_time": 91.25,
+          "text": "Non non non ça marche pas quand j'arrive sur une page noire et il n'y a pas de il n'y a rien il y a marqué il y",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 91.18,
+          "end_time": 91.68,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 91.25,
+          "end_time": 92.79,
+          "text": "a toujours marqué non connecté.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 94.06,
+          "end_time": 119.549995,
+          "text": "Alors je vais tenter de de résumer tout ça, tac tac, donc, donc le client trouve bien le réseau, le réseau donc CCP coffe, Donc ensuite, vous avez une page noire où c'est écrit, limité ouvert.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 122.89,
+          "end_time": 129.565,
+          "text": "C'est marqué quand j'ouvre mes réseaux wifi c'est bien marqué CCP roscope",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 130.365,
+          "end_time": 130.865,
+          "text": "Bonsoir.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 130.425,
+          "end_time": 145.01999,
+          "text": "limiter une lumière et bon il y a un point et il y a un petit astérisque ce sont le côté avec un point d'interrogation. Par contre là enfin je lis sur cette page là il y a 2 réseaux sécurisés apparemment ouverts.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 148.5,
+          "end_time": 151.88,
+          "text": "2 réseaux et et vous pouvez basculer de l'un à l'autre ou pas",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 152.51999,
+          "end_time": 154.7,
+          "text": "Non non non non non il ne faut pas y aller.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 156.085,
+          "end_time": 170.56,
+          "text": "Écoutez-moi à mon niveau malheureusement, ça va être compliqué de vous aider. Là je viens de faire la demande au support technique. J'espère qu'ils seront en mesure de trouver une solution. Je vais passer les voir en parallèle dans tous les cas pour voir s'ils ont un dépannage rapide à me proposer. Je",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 170.53,
+          "end_time": 171.03,
+          "text": "D'accord",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 170.56,
+          "end_time": 173.14001,
+          "text": "reviens vers vous tout",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 173.33,
+          "end_time": 173.83,
+          "text": "merci",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 173.52,
+          "end_time": 459,
+          "text": "de suite monsieur. Oui",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 458.89,
+          "end_time": 459.39,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 459,
+          "end_time": 466.225,
+          "text": "monsieur, je suis de retour. Alors, est-ce que vous avez réussi à vous connecter plutôt dans la journée ou pas du tout À aucun moment",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 466.25,
+          "end_time": 468.35,
+          "text": "Ah non du tout, on est arrivé à midi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 468.685,
+          "end_time": 483.97,
+          "text": "D'accord, parce qu'en fait, a priori, nous ça fonctionne le wifi, on voit qu'on a des personnes qui sont connectées actuellement à. Est-ce qu'on pourrait faire la tentative si c'est possible pour vous de redémarrer votre ordinateur Pour pour essayer de retrouver le réseau.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 486.09,
+          "end_time": 496.99,
+          "text": "Ouais mais tu vas dire là quand on a mangé je l'avais arrêté et je ne l'ai pas je l'ai pas retrouvé j'ai redémarré mon pc je l'avais pas retrouvé",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 497.045,
+          "end_time": 501.225,
+          "text": "Et sur votre téléphone portable, est-ce que vous vous retrouvez ce, vous arrivez à vous connecter à ce wifi",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 503.185,
+          "end_time": 507.845,
+          "text": "sur le portable je sais pas puisque on a on a internet mais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 507.99,
+          "end_time": 508.49,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 508.225,
+          "end_time": 509.205,
+          "text": "sans passer par",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 509.99,
+          "end_time": 512.71,
+          "text": "Je comprends bien, je comprends bien, moi c'est juste pour trouver des",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 512.46,
+          "end_time": 512.96,
+          "text": "là",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 512.71,
+          "end_time": 513.21,
+          "text": "raisons.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 513.66003,
+          "end_time": 516.88,
+          "text": "j'ai une page noire et c'est marqué",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 523.895,
+          "end_time": 524.395,
+          "text": "Nomorfer.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 530.145,
+          "end_time": 530.645,
+          "text": "Une",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 532.215,
+          "end_time": 540.76996,
+          "text": "Oh là ça vient oui. Oui puis là c'est votre premier ce genre de l'année. De toute façon, donc il n'y a pas de raison que non.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 541.98,
+          "end_time": 550.95996,
+          "text": "Non mais bon à partir du moment où on me dit que oui il y a de la connexion bon ben c'est moi ou qui n'arrive pas ou mon matériel qui a quoi se connecter c'est tout quoi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 550.75,
+          "end_time": 562.865,
+          "text": "C'est pour ça que je vous inviterais à faire une tentative de redémarrage de votre ordinateur. Parce que nous, on a regardé, on a on a 2 personnes qui sont actuellement connectées dessus. Donc a priori, ça devrait",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 562.805,
+          "end_time": 563.305,
+          "text": "D'accord",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 562.885,
+          "end_time": 567.705,
+          "text": "fonctionner. Malheureusement, là, je ne saurais pas vous vous aider plus à mon niveau.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 567.285,
+          "end_time": 580.935,
+          "text": "oui non non non je vais pas vous faire perdre de temps inutilement c'était c'était pour me confirmer que le réseau il était bien dispo et puis bon ça peut tomber en carafe il y a des fois donc c'est pour ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 580.76,
+          "end_time": 581.26,
+          "text": "Oui,",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 581.095,
+          "end_time": 589.835,
+          "text": "pour ça que j'appelais quoi à partir du moment où vous me dites que oui il y a du réseau et tout bon ben je vais pas je vais pas vous embêter plus longtemps je vais essayer de me dépatouiller avec mon matériel quoi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_57"
+        },
+        {
+          "start_time": 589.6757,
+          "end_time": 596.7357,
+          "text": "Voilà, essayez un peu plus tard si vous voulez bien. Je vous souhaite une très bonne journée monsieur. Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        }
+      ]
+    }
+  }
+}

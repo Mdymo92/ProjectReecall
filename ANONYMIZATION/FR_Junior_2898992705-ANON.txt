@@ -1,0 +1,27 @@
+{
+  "transcription": {
+    "id": 421538188,
+    "call_id": 2898992705,
+    "call_created_at": "2025-06-20T12:28:05.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 3.12,
+          "end_time": 15.86,
+          "text": "Bonjour, vous êtes sur le répondeur du 0 7 quatre-vingt-trois 16 trente-sept quatre-vingt-six. Merci de laisser un message après le bip. À la fin de votre message, si vous souhaitez le modifier, tapez dièse.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_83"
+        },
+        {
+          "start_time": 16.974999,
+          "end_time": 52.118874,
+          "text": "Oui bonjour camping-car par Cagnol à Paris. Je vous appelle parce qu'on a regardé un peu votre compte parce qu'on voit que votre solde est en négatif et du coup on voulait juste savoir, on a vu que vous étiez entré le 14 juin à Arrado, et on voulait juste savoir si vous y étiez toujours ou s'il y avait eu plus un problème avec la barrière de sortie, dans ce cas-là on pourra rectifier du coup votre solde négatif. Dans tous les cas je vous invite à nous rappeler pour nous pour nous préciser tout ça au 0 un quatre-vingt-trois soixante-quatre soixante-neuf vingt-et-un. Je vous souhaite une bonne journée, au revoir.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "transcription": {
+    "id": 360074800,
+    "call_id": 2702998598,
+    "call_created_at": "2025-04-02T06:57:25.000Z",
+    "type": "call",
+    "content": {
+      "language": "de",
+      "utterances": [
+        {
+          "start_time": 0.06003,
+          "end_time": 7.6434,
+          "text": "Hello, good morning.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 5.20804,
+          "end_time": 13.29347,
+          "text": "Guten Morgen, Hello, ich bin von der E-Mail-Karte.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 9.78435,
+          "end_time": 11.34504,
+          "text": "do you speak English or only German?",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 13.29347,
+          "end_time": 14.01395,
+          "text": "Ja, nein, ich spreche auch Englisch.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 14.08626,
+          "end_time": 14.66652,
+          "text": "Okay, thank you.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 16.19541,
+          "end_time": 23.96063,
+          "text": "Okay, wir haben auf unserer Campingkarte 43 Euro auf der Karte parkt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 24.12073,
+          "end_time": 31.40562,
+          "text": "Und wir gehen aus Deutschland, oder eigentlich aus dem europäischen Kontinent, und wir möchten, dass das Geld zurückgebracht wird auf unsere Karte.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 31.816119999999998,
+          "end_time": 33.49754,
+          "text": "Okay, so you want to top up your account.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 34.647800000000004,
+          "end_time": 34.76788,
+          "text": "Ja.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 35.55928,
+          "end_time": 38.62186,
+          "text": "No, you want to add more money to your customer account?",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 38.716069999999995,
+          "end_time": 40.03662,
+          "text": "Nein, nein, ich möchte nicht.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 39.74281,
+          "end_time": 40.26325,
+          "text": "To close.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 40.03662,
+          "end_time": 44.898669999999996,
+          "text": "Nein, Okay, die Balance auf der Karte, ich würde es gerne haben, es auf meine Kreditkarte zu legen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 45.30751,
+          "end_time": 47.04898,
+          "text": "so you want to close your customer account.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 48.05999,
+          "end_time": 55.8364,
+          "text": "Ja, Okay, so your email address is charlegalstone060465 at gmail.com.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 57.063779999999994,
+          "end_time": 57.3639,
+          "text": "korrekt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 57.89814,
+          "end_time": 59.899829999999994,
+          "text": "Okay, so I will send you the form.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 60.72427,
+          "end_time": 64.10632,
+          "text": "um einen Closer für den Kunden zu fragen.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 65.48732,
+          "end_time": 66.96794,
+          "text": "Okay, Ist es okay, perfekt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 67.38832,
+          "end_time": 72.9517,
+          "text": "dieses E-Mail in Englisch zu bekommen?",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 70.47229999999999,
+          "end_time": 72.45657999999999,
+          "text": "Ja, absolut fantastisch.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 73.09178,
+          "end_time": 73.73217,
+          "text": "Okay, okay, okay.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 73.73217,
+          "end_time": 76.39379,
+          "text": "Ich schicke dir jetzt alle Informationen.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 76.39379,
+          "end_time": 79.39561,
+          "text": "Du bist willkommen.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 77.74797,
+          "end_time": 78.26908999999999,
+          "text": "Okay, danke.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 79.39561,
+          "end_time": 79.85589,
+          "text": "Tschüss.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 80.19323999999999,
+          "end_time": 80.75444999999999,
+          "text": "Hab einen tollen Tag.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        },
+        {
+          "start_time": 80.95487999999999,
+          "end_time": 81.37577999999999,
+          "text": "Okay, tschüss.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_41"
+        }
+      ]
+    }
+  }
+}

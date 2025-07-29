@@ -1,0 +1,503 @@
+{
+  "transcription": {
+    "id": 421556486,
+    "call_id": 2899035592,
+    "call_created_at": "2025-06-20T12:40:17.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 0.16,
+          "end_time": 26.525,
+          "text": "Allô Ah monsieur monsieur je suis désolé je vous entends très très mal. Alors je vous entends très très mal il y a un espèce d'écho",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 27.5,
+          "end_time": 28,
+          "text": "Attendez,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 27.705,
+          "end_time": 28.205,
+          "text": "alors",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 28.060001,
+          "end_time": 32.64,
+          "text": "je vais rajouter la haut-parleur",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 33.44,
+          "end_time": 34.34,
+          "text": "enlevez le haut-parleur",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 34.38,
+          "end_time": 34.46,
+          "text": "et",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 34.4,
+          "end_time": 34.64,
+          "text": "petit",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 34.46,
+          "end_time": 34.7,
+          "text": "là",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 34.64,
+          "end_time": 35.14,
+          "text": "point.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 34.7,
+          "end_time": 35.440002,
+          "text": "ça va mieux",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 35.52,
+          "end_time": 37.14,
+          "text": "Là, ça va un peu mieux, oui merci.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 38.22,
+          "end_time": 54.515,
+          "text": "Oui alors je vous disais j'ai mon compte et il me reste 0 parce que je viens de alors que je je je vais dans les champs bien me charger le problème c'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 54.274998,
+          "end_time": 54.774998,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 54.515,
+          "end_time": 61.879997,
+          "text": "que je pense que ça vient de j'ai essayé de me de créer un nouveau compte un compte",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 61.73,
+          "end_time": 62.23,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 61.879997,
+          "end_time": 79.715,
+          "text": "je croyais que j'étais pas je croyais comment dire inscrit alors que j'étais inscrit donc j'ai refait la procédure et du coup mon compte apparaît 0 est-ce que vous pouvez m'en dire plus",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 80.174995,
+          "end_time": 84.515,
+          "text": "Alors oui, je vais pouvoir vous dire, alors est-ce que vous avez une carte monsieur, une carte d'accès",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 84.62,
+          "end_time": 85.58,
+          "text": "Bien sûr, bien",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 85.4,
+          "end_time": 85.64,
+          "text": "Est-ce que",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 85.58,
+          "end_time": 86.08,
+          "text": "sûr.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 85.64,
+          "end_time": 88.06,
+          "text": "je peux avoir le numéro qu'il y a dessus s'il vous plaît",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 89.979996,
+          "end_time": 106.315,
+          "text": "Attendez. Annie, le numéro de la carte camping-car Park, un peu clé. Non Annie, le numéro de la carte quand même. Voilà, oui. Elle disparaît.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 107.335,
+          "end_time": 114.28,
+          "text": "Alors le numéro de la carte, Alors 1000",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 116.67,
+          "end_time": 118.13,
+          "text": "Oui, oui oui j'ai j'ai noté",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 118.579994,
+          "end_time": 118.82,
+          "text": "allô",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 118.59,
+          "end_time": 119.09,
+          "text": "1000.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 118.899994,
+          "end_time": 121.159996,
+          "text": "Mille-cent-soixante-et-onze cinquante-neuf.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 125.47,
+          "end_time": 127.09,
+          "text": "D'accord, vous êtes bien Georges Ducru",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 127.625,
+          "end_time": 128.365,
+          "text": "C'est ça.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 128.99501,
+          "end_time": 139.49501,
+          "text": "D'accord, alors effectivement, je vous ai bien trouvé, mais je vois que votre compte date de deux-mille-treize et du coup, vous m'aviez dit que vous aviez 0 euro sur votre compte",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 140.27,
+          "end_time": 143.25,
+          "text": "C'est ce qui apparaît quand je vais sur le site.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 143.41,
+          "end_time": 156.07,
+          "text": "D'accord, vous êtes bien au score là actuellement monsieur D'accord oui depuis le dix-neuf juin. Allô Vous y êtes depuis le dix-neuf juin",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 157.355,
+          "end_time": 157.56833,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 157.425,
+          "end_time": 157.925,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 157.56833,
+          "end_time": 160.33499,
+          "text": "On a passé une nuit oui depuis hier.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 161.02501,
+          "end_time": 169.52501,
+          "text": "D'accord. Alors là, je vois moi sur votre compte du coup à votre nom, puis il vous reste 60 euros dix-huit. Est-ce que je pourrais avoir votre adresse mail s'il vous plaît",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 170.06999,
+          "end_time": 171.21,
+          "text": "Mon adresse mail",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 171.42001,
+          "end_time": 172.72,
+          "text": "Oui. Oui.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 173.03,
+          "end_time": 175.45,
+          "text": "Georges point du creux arobase",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 175.02,
+          "end_time": 175.52,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 176.15,
+          "end_time": 177.37,
+          "text": "orange point f r.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 177.90001,
+          "end_time": 185.76001,
+          "text": "Donc là, je vois que j'ai bien un compte sous les yeux à votre nom avec la bonne adresse mail et le bon numéro de carte. Par contre, je ne vois pas du tout que vous êtes à 0 euro sur votre compte.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 186.345,
+          "end_time": 189.085,
+          "text": "Mais moi je vois que je suis à 0, c'est pour ça que je téléphone.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 189.72499,
+          "end_time": 192.785,
+          "text": "D'accord. Est-ce que du coup, vous me dites que vous avez recréé un nouveau compte",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 192.93,
+          "end_time": 206.135,
+          "text": "Je croyais que je ne m'étais pas inscrit alors donc j'avais essayé de m'inscrire et en finale ça me disait que j'étais déjà inscrit donc j'ai arrêté et",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 206.78,
+          "end_time": 215.885,
+          "text": "Oui du coup je pense que lorsque vous enfin là vous pour pouvoir que vous avez 0 euro sur votre compte vous devez être connecté avec enfin vous devez être connecté sur votre nouveau compte.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 217.075,
+          "end_time": 219.175,
+          "text": "voilà. Peut-être oui c'est ce que je pense oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 221.145,
+          "end_time": 227.245,
+          "text": "Alors, mais là je vois que du coup pour rentrer sur l'aire d'Osgoor, vous avez utilisé votre carte qui est liée du coup à votre compte plus ancien.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 228.03,
+          "end_time": 230.84999,
+          "text": "Oui oui puisque je viens de le faire là à présent.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 231.43,
+          "end_time": 249.255,
+          "text": "Alors du coup si vous passez par l'application, vous pouvez en fait vous vous pouvez vous vous déconnecter de l'application et entrer en fait l'adresse mail que vous m'avez donnée, celle qui est connectée à votre votre compte actuel. Comme ça en fait, vous n'avez, comme ça vous pouvez vous reconnecter sur ce compte-là et voir votre solde.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 251.08,
+          "end_time": 253.5,
+          "text": "Attendez juste je comprends pas ce que vous me dites ça.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 253.395,
+          "end_time": 255.655,
+          "text": "Alors là, vous êtes sur l'application, vous m'aviez dit.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 256.44,
+          "end_time": 260.44,
+          "text": "Écoutez oui mais pour le moment je suis en communication avec vous donc je peux",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 260.38,
+          "end_time": 260.62,
+          "text": "Oui",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 260.44,
+          "end_time": 260.68,
+          "text": "pas être",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 260.62,
+          "end_time": 260.78,
+          "text": "oui",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 260.68,
+          "end_time": 260.84,
+          "text": "sur",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 260.78,
+          "end_time": 261.02002,
+          "text": "non",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 260.84,
+          "end_time": 261.34,
+          "text": "l'application.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 261.02002,
+          "end_time": 278.225,
+          "text": "mais non mais il n'y a pas de souci vous le ferez après monsieur je vous excite juste que pour pouvoir résoudre ce problème-là en fait vous vous pouvez aller sur l'application pour vous déconnecter puisque là du coup comme vous vous me dites que vous avez créé un nouveau compte qui est du coup inutile pour pouvoir avoir accès à l'application, mais vous pouvez vous déconnecter et",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 278.085,
+          "end_time": 278.665,
+          "text": "Oui oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 278.225,
+          "end_time": 285.66498,
+          "text": "du coup une fois que vous essaierez de vous reconnecter, vous pouvez entrer l'adresse mail que vous m'avez donnée, Georges point du cru arobase orange point f r parce que cette adresse",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 285.47,
+          "end_time": 285.97,
+          "text": "Oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 285.66498,
+          "end_time": 288.32498,
+          "text": "mail-là, c'est celle qui est reliée à votre compte actuel.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 288.889,
+          "end_time": 293.229,
+          "text": "D'accord ok bon ben je vais essayer puis si ça va je vous rappelle.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 293.18,
+          "end_time": 294.48,
+          "text": "Oui, n'hésitez pas monsieur.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 294.96902,
+          "end_time": 295.789,
+          "text": "Merci madame.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 295.98,
+          "end_time": 297.52,
+          "text": "De rien, passez une bonne journée.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 297.609,
+          "end_time": 299.14902,
+          "text": "Bonne journée à vous, au revoir madame.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_76"
+        },
+        {
+          "start_time": 299.26,
+          "end_time": 299.92,
+          "text": "Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        }
+      ]
+    }
+  }
+}

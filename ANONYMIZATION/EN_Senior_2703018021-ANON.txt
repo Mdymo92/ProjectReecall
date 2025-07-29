@@ -1,0 +1,335 @@
+{
+  "transcription": {
+    "id": 360082134,
+    "call_id": 2703018021,
+    "call_created_at": "2025-04-02T07:07:46.000Z",
+    "type": "call",
+    "content": {
+      "language": "en",
+      "utterances": [
+        {
+          "start_time": 0.79999995,
+          "end_time": 5.06,
+          "text": "Hello. It is from the company. How can I help you?",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 5.68,
+          "end_time": 19.035,
+          "text": "Yes. Hello there. We're, in a place where we can't get out the the gate. I think what's going on I think what we'll have to realize, I don't think we've got enough had enough money on the, on the on the card.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 19.485,
+          "end_time": 22.865,
+          "text": "Okay. So do you have an access card number, please?",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 24.935001,
+          "end_time": 28.795,
+          "text": "The the card on the on your card is 100",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 29.085,
+          "end_time": 29.585,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 29.63,
+          "end_time": 33.97,
+          "text": "7 5 5 7 1 4.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 34.96,
+          "end_time": 42.5,
+          "text": "Thank you. It is just a flak, Yam Jan Dane.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 42.829998,
+          "end_time": 43.635,
+          "text": "That's right.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 43.44,
+          "end_time": 43.94,
+          "text": "Sorry.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 44.195,
+          "end_time": 44.754997,
+          "text": "I think",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 44.64,
+          "end_time": 45.14,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 44.754997,
+          "end_time": 48.135,
+          "text": "I might be managing to do it online at the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 49.065,
+          "end_time": 49.785,
+          "text": "Okay. At this",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 49.555,
+          "end_time": 50.055,
+          "text": "minute.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 49.785,
+          "end_time": 54.684998,
+          "text": "moment, you are in Marina Leila Leila. And,",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 54.434998,
+          "end_time": 55.315,
+          "text": "I think I'm on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 55.305,
+          "end_time": 55.805,
+          "text": "yes.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 55.315,
+          "end_time": 58.934998,
+          "text": "your app trying to do it now, I think.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 60.100002,
+          "end_time": 67.8,
+          "text": "Okay. Yes. Okay. I understand. Absolutely.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 68.18,
+          "end_time": 74.6,
+          "text": "Absolutely. I I see you have tried to to to make this payment, and that works, but",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 74.604996,
+          "end_time": 75.104996,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 74.66,
+          "end_time": 82.065,
+          "text": "there is. Okay. Allow just a little moment, please. I will, update this. It's not normal.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 82.445,
+          "end_time": 92.52,
+          "text": "It's because yeah. I don't know why. Hello. Just just one moment. Could you just wait a moment?",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 92.579994,
+          "end_time": 95.7,
+          "text": "Don't don't leave this call. Okay? I I'm",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 95.630005,
+          "end_time": 96.11,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 95.7,
+          "end_time": 96.6,
+          "text": "coming back.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 96.11,
+          "end_time": 96.85,
+          "text": "Yeah. Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 96.659996,
+          "end_time": 97.21999,
+          "text": "Thank you.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 97.15,
+          "end_time": 97.39,
+          "text": "I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 97.21999,
+          "end_time": 97.53999,
+          "text": "Thank you",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 97.39,
+          "end_time": 97.630005,
+          "text": "think",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 97.53999,
+          "end_time": 98.119995,
+          "text": "so much.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 97.630005,
+          "end_time": 99.89,
+          "text": "it says it's a valid statement now.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 100.875,
+          "end_time": 105.195,
+          "text": "Okay. Allow just a moment. Just, just one minute, please. Thank",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 105.075,
+          "end_time": 105.575,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 105.195,
+          "end_time": 105.695,
+          "text": "you.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 106.195,
+          "end_time": 107.335,
+          "text": "Two up on there.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 119.65,
+          "end_time": 206.26,
+          "text": "No. Hello? No. Okay. Hello?",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 207.28,
+          "end_time": 209.46,
+          "text": "Okay. Always managed to get out.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 210.435,
+          "end_time": 211.655,
+          "text": "Yeah. It it's okay?",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 212.61801,
+          "end_time": 214.138,
+          "text": "It's okay. Fine. Thank you very",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 213.955,
+          "end_time": 214.455,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 214.138,
+          "end_time": 214.638,
+          "text": "much.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 214.67499,
+          "end_time": 216.375,
+          "text": "Super. You're welcome. Perfect.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        },
+        {
+          "start_time": 216.53801,
+          "end_time": 219.438,
+          "text": "Uh-huh. Just give me your hand. Thank you very much.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_28"
+        },
+        {
+          "start_time": 219.155,
+          "end_time": 222.375,
+          "text": "You're welcome. Have a nice day. Enjoy. Bye.",
+          "participant_type": "internal",
+          "user_id": 1503114
+        }
+      ]
+    }
+  }
+}

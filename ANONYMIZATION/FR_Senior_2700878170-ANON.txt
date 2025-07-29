@@ -1,0 +1,209 @@
+{
+  "transcription": {
+    "id": 359381139,
+    "call_id": 2700878170,
+    "call_created_at": "2025-04-01T12:49:17.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.12,
+          "end_time": 3.22,
+          "text": "Monsieur Mario, bonjour ici.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 3.84,
+          "end_time": 15.285,
+          "text": "Oui, excusez-moi, bonjour. Dis-moi, je n'arrive pas à avoir un service client. J'ai un petit souci avec un client, il a changé d'adresse mail. Est-ce que tu peux lui changer son adresse ou pas toi",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 15.005,
+          "end_time": 23.505,
+          "text": "Ça va être ça va être compliqué là. Qu'ils prennent un peu, là il y a quoi Ça va, il y a 4 appels en attente.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 24.244999,
+          "end_time": 25.785,
+          "text": "Ah oui oui oui bon ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 25.58,
+          "end_time": 29.66,
+          "text": "Ça va, ça va. Il y a encore s'il y en avait une vingtaine, j'aurais compris, mais là, ouais. Là, ils",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 29.65,
+          "end_time": 29.81,
+          "text": "Ouais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 29.66,
+          "end_time": 29.9,
+          "text": "sont,",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 29.81,
+          "end_time": 30.31,
+          "text": "ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 29.9,
+          "end_time": 34.48,
+          "text": "ils sont, ils ne sont pas mal. Donc le 0 un quatre-vingt-trois, tu vas, il va les avoir. D'accord",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 35.09,
+          "end_time": 35.59,
+          "text": "0",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 35.26,
+          "end_time": 35.82,
+          "text": "Un petit peu",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 35.73,
+          "end_time": 36.23,
+          "text": "quatre-vingt-trois.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 35.82,
+          "end_time": 38.805,
+          "text": "de poste. Le 0 un quatre-vingt-trois, le numéro du service client.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 39.329998,
+          "end_time": 40.309998,
+          "text": "D'accord ok",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 39.925,
+          "end_time": 40.565,
+          "text": "Client. Il",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 40.53,
+          "end_time": 40.69,
+          "text": "ok",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 40.565,
+          "end_time": 40.805,
+          "text": "appelle,",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 40.69,
+          "end_time": 40.85,
+          "text": "ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 40.805,
+          "end_time": 40.885002,
+          "text": "il",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 40.85,
+          "end_time": 41.35,
+          "text": "marche.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 40.885002,
+          "end_time": 44.425,
+          "text": "y a 4 appels en attente, donc ça va être vite, ça va être vite pris en charge. D'accord",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 43.95175,
+          "end_time": 45.651752,
+          "text": "Ok, ça marche.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 45.525,
+          "end_time": 46.245,
+          "text": "Je t'en prie.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 45.95175,
+          "end_time": 46.43175,
+          "text": "Merci.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 46.245,
+          "end_time": 46.565,
+          "text": "Allez",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 46.43175,
+          "end_time": 46.93175,
+          "text": "Ouais,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        },
+        {
+          "start_time": 46.565,
+          "end_time": 47.545,
+          "text": "salut, bonne journée.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 47.151752,
+          "end_time": 48.21175,
+          "text": "bye bye, ciao.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_54"
+        }
+      ]
+    }
+  }
+}
