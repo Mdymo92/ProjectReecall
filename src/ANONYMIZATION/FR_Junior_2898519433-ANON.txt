@@ -1,0 +1,230 @@
+{
+  "transcription": {
+    "id": 421402914,
+    "call_id": 2898519433,
+    "call_created_at": "2025-06-20T09:52:53.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.04,
+          "end_time": 2.74,
+          "text": "Camping-car park Elisa, bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 3.6,
+          "end_time": 17.635,
+          "text": "Oui bonjour madame, excuse-moi de vous déranger, je suis client fidèle de camping-car-part et je voulais un petit renseignement. Nous allons équiper notre fourgon aménagé d'un climatiseur et je voulais savoir péter la la puissance des bandes délivrées sur l'ensemble du réseau.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 18.785,
+          "end_time": 23.695,
+          "text": "Alors ça va dépendre des des boards, mais principalement c'est 6 watts.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 25.3,
+          "end_time": 28.92,
+          "text": "En repérage, en repérage",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 30.14,
+          "end_time": 31.02,
+          "text": "Est-ce que vous avez",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 30.86,
+          "end_time": 31.36,
+          "text": "pardon.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 31.02,
+          "end_time": 33.68,
+          "text": "une aire pour que je vous dise précisément sur l'air",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 33.3,
+          "end_time": 42.285,
+          "text": "Pas du tout, non non, on va un peu partout, on va un peu partout sur Rose vert et on va partir au mois de juillet. J'avais juste une question de savoir par rapport à l'ampérage nécessaire pour la climatisation.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 45.165,
+          "end_time": 59.54,
+          "text": "Alors de toute façon je vous précise, je pense que vous devez peut-être le savoir, nous on a des bandes de rechargement, ce ne sont pas des bandes d'alimentation. Donc nous ça va vous ça va vous permettre de recharger vos batteries et vos batteries pourront alimenter du coup la clim en",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 59.440002,
+          "end_time": 60.106667,
+          "text": "Oui, mais la clim, elle est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 60.079998,
+          "end_time": 60.44,
+          "text": "question.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 60.106667,
+          "end_time": 60.800003,
+          "text": "sur le deux-cent-vingt",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 60.44,
+          "end_time": 61.3,
+          "text": "Ah d'accord,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 60.800003,
+          "end_time": 65.315,
+          "text": "direct. Une question est là, non non, ce n'est pas sur les batteries de la clim, elle est sur le deux-cent-vingt direct. Donc, c'est trop",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 65.04,
+          "end_time": 65.619995,
+          "text": "ah oui,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 65.375,
+          "end_time": 67.955,
+          "text": "peut-être trop technique pour vous, non, je ne vous en veux pas, ce n'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 67.52,
+          "end_time": 68.42,
+          "text": "un petit peu.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 68.335,
+          "end_time": 80.32,
+          "text": "pas. Non, non, mais pour moi aussi, donc bienvenue au club. C'était juste, côté je suis sidérant, on se dit différemment près de de professionnels. Je pense que bon, il doit y avoir un minimum d'ampérage, données livrées, mais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 80.655,
+          "end_time": 82.515,
+          "text": "Je vous laisse patienter, je vais me renseigner.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 82.86,
+          "end_time": 84.16,
+          "text": "c'est sympa, merci.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 122.13,
+          "end_time": 127.885,
+          "text": "Allô, Merci d'avoir patienter monsieur. Alors du coup j'ai pu avoir l'information, ça va être 6 ampères.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 128.52501,
+          "end_time": 131.6705,
+          "text": "Oui. 10 ampères d'accord sur sur l'ensemble du",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 131.545,
+          "end_time": 131.8005,
+          "text": "Voilà.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 131.6705,
+          "end_time": 131.8705,
+          "text": "du",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 131.8005,
+          "end_time": 132.3005,
+          "text": "Sur",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 131.8705,
+          "end_time": 132.85051,
+          "text": "réseau quoi",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 133.32051,
+          "end_time": 134.54051,
+          "text": "une majorité oui.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 134.99051,
+          "end_time": 137.7305,
+          "text": "D'accord, écoutez je vous remercie, belle journée à vous.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 137.5605,
+          "end_time": 138.7005,
+          "text": "Merci à vous aussi.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 138.43051,
+          "end_time": 139.0905,
+          "text": "Au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_95"
+        },
+        {
+          "start_time": 139.1605,
+          "end_time": 139.82051,
+          "text": "Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "transcription": {
+    "id": 359295582,
+    "call_id": 2700576079,
+    "call_created_at": "2025-04-01T11:15:17.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 0.16,
+          "end_time": 0.65999997,
+          "text": "Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 1.76,
+          "end_time": 9.22,
+          "text": "Oui bonjour monsieur, je suis monsieur tripot je suis en stationnement de sur l'aire de camping-car de Bléret en Indre-et-Loire",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 10,
+          "end_time": 10.5,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 11.04,
+          "end_time": 13.44,
+          "text": "et il nous est arrivé avec d'autres camping caristes que",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 13.424999,
+          "end_time": 13.924999,
+          "text": "D'accord",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 13.44,
+          "end_time": 22.215,
+          "text": "quand on est arrivé la barrière était levée et c'est suite à des travaux qui sont juste à côté de l'aire de camping-car, ils sont au travers de faire des travaux à la piscine de Bléret",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 22.625,
+          "end_time": 23.125,
+          "text": "d'accord",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 22.915,
+          "end_time": 32.17,
+          "text": "et le courant était coupé dans tout le secteur. Donc on a pu rentrer, on est d'accord et là pour sortir comme monsieur m'a expliqué, moi je ne savais pas,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 32.12,
+          "end_time": 32.2,
+          "text": "Vous",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 32.17,
+          "end_time": 32.21,
+          "text": "on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 32.2,
+          "end_time": 32.36,
+          "text": "n'êtes",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 32.21,
+          "end_time": 32.41,
+          "text": "ne peut",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 32.36,
+          "end_time": 32.86,
+          "text": "pas",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 32.41,
+          "end_time": 34.309998,
+          "text": "pas sortir parce que on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 34.12,
+          "end_time": 34.44,
+          "text": "dedans, vous",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 34.41,
+          "end_time": 34.809998,
+          "text": "n'a",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 34.44,
+          "end_time": 34.94,
+          "text": "vous.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 34.809998,
+          "end_time": 40.27,
+          "text": "pas pu, on n'a pas pu, on a badgé, mais on n'avait pas le, on ne peut plus sortir maintenant.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 40.68,
+          "end_time": 43.965,
+          "text": "Également c'est pour ça que hier vous n'avez pas pu avoir accès à l'eau également.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 44.614998,
+          "end_time": 47.515,
+          "text": "Voilà aussi puis j'en ai besoin parce que j'en ai plus.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 47.485,
+          "end_time": 50.864998,
+          "text": "Et je vais vous créer un séjour. Vous êtes arrivé hier Vers quelle heure",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 51.575,
+          "end_time": 52.855,
+          "text": "Il était quelle heure 15 heures",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 53.204998,
+          "end_time": 53.704998,
+          "text": "Il",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 53.655,
+          "end_time": 54.775,
+          "text": "À 15 heures 30. 15",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 54.625,
+          "end_time": 55.125,
+          "text": "est",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 54.775,
+          "end_time": 55.595,
+          "text": "heures 30.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 56.045,
+          "end_time": 75.854996,
+          "text": "16 heures comme ça, hop, trente-et-un mars, 16 heures. Attendez, excusez-moi. Très bien. Donc là maintenant, vous allez pouvoir si vous le souhaitez avoir accès à l'eau, ça",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 75.854996,
+          "end_time": 76.354996,
+          "text": "Oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 75.854996,
+          "end_time": 81.534996,
+          "text": "va fonctionner et donc pour ressortir vous avez donc jusqu'à aujourd'hui 16 heures pour être sortir et",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 81.455,
+          "end_time": 81.955,
+          "text": "oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 81.534996,
+          "end_time": 84.274994,
+          "text": "ne facturer que d'une seule nuit sur l'art de blairer.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 84.78,
+          "end_time": 89.42,
+          "text": "Bon d'accord alors je vais aller prévenir le monsieur le camping-cariste qui est à côté de moi qu'il a fait pareil et ça ne",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 89.38,
+          "end_time": 89.7445,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 89.42,
+          "end_time": 91.759995,
+          "text": "marchait pas donc je vais aller prévenir qu'il vous appelle alors.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 91.584496,
+          "end_time": 92.084496,
+          "text": "Exactement.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 93.1,
+          "end_time": 94.479996,
+          "text": "Bon ok je vais lui dire",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 95.0245,
+          "end_time": 95.9245,
+          "text": "Très bien monsieur.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 95.7845,
+          "end_time": 97.6245,
+          "text": "ok je vous remercie merci",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 97.584496,
+          "end_time": 97.7445,
+          "text": "Je",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 97.6245,
+          "end_time": 97.8645,
+          "text": "bien",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 97.7445,
+          "end_time": 97.904495,
+          "text": "vous",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 97.8645,
+          "end_time": 98.3645,
+          "text": "merci",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 97.904495,
+          "end_time": 99.2045,
+          "text": "en prie, très bonne journée.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        },
+        {
+          "start_time": 98.8245,
+          "end_time": 99.5645,
+          "text": "merci d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_71"
+        },
+        {
+          "start_time": 99.6645,
+          "end_time": 100.404495,
+          "text": "Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1463542
+        }
+      ]
+    }
+  }
+}

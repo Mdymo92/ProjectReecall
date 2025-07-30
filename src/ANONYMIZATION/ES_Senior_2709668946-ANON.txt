@@ -1,0 +1,237 @@
+{
+  "transcription": {
+    "id": 362131559,
+    "call_id": 2709668946,
+    "call_created_at": "2025-04-04T07:01:40.000Z",
+    "type": "call",
+    "content": {
+      "language": "es",
+      "utterances": [
+        {
+          "start_time": 2.5040999999999998,
+          "end_time": 3.5248099999999996,
+          "text": "Hola, buenos días.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 3.56484,
+          "end_time": 4.60557,
+          "text": "Llamo desde España.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 7.10733,
+          "end_time": 11.770599999999998,
+          "text": "Les pregunto por qué he visto que me han cobrado en mi cuenta bancaria el Pact Privilege.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 18.17509,
+          "end_time": 28.38225,
+          "text": "Sí, pero esto yo no sabía que se cobraba automáticamente cada año porque yo no tengo previsión de viajar a Francia próximamente y me gustaría esto activarlo cuando lo necesite.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 28.96265,
+          "end_time": 30.66385,
+          "text": "¿Puedo devolver el recibo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 31.888360000000002,
+          "end_time": 59.806219999999996,
+          "text": "Para este año no es posible porque recibí un correo electrónico dos meses antes del cobro y El cobro y el goberno.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 47.576840000000004,
+          "end_time": 54.06035,
+          "text": "tenía 30 días para responder si no quería este cobro.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 54.920820000000006,
+          "end_time": 60.203680000000006,
+          "text": "Pero no es posible para este año de ser reembolsado.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 61.15209,
+          "end_time": 67.85836,
+          "text": "pero puede enviar un correo electrónico para el próximo año, si quiere.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 69.35606,
+          "end_time": 74.90001,
+          "text": "De todas maneras, cuando lo contraté no vi en ningún sitio que esto se renovara automáticamente.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 75.36536,
+          "end_time": 76.00596,
+          "text": "Sí, sí, sí.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 77.14703,
+          "end_time": 86.59585,
+          "text": "Lo puede escribir en un correo electrónico que no quiere para el próximo año la reconducción del PEP Prevene.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 89.1902,
+          "end_time": 91.29169999999999,
+          "text": "Vale, o sea, que este año no hay manera de devolverlo.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 91.96807,
+          "end_time": 92.78867,
+          "text": "No, este año es...",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 92.78867,
+          "end_time": 96.47134,
+          "text": "No se lo puedo decir.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 95.39462999999999,
+          "end_time": 96.53544,
+          "text": "Está muy bien pensado esto.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 96.91570999999999,
+          "end_time": 97.15589,
+          "text": "Vale.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 98.98406,
+          "end_time": 101.80534999999999,
+          "text": "Vale, pues muchas gracias.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 101.99535,
+          "end_time": 102.29557,
+          "text": "De nada.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 102.51572999999999,
+          "end_time": 103.43639999999999,
+          "text": "Que tengan un buen día.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 104.42654999999999,
+          "end_time": 106.00726999999999,
+          "text": "¿No lo puede anular usted ya?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 106.32741,
+          "end_time": 107.58798999999999,
+          "text": "¿No hace falta que envíe el correo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 108.48006,
+          "end_time": 111.50225,
+          "text": "Para este año no lo puedo anular.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 111.82991999999999,
+          "end_time": 112.85038999999999,
+          "text": "No, no, para el año que viene.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 113.23056,
+          "end_time": 115.28499,
+          "text": "No lo podríamos dar de baja y que ponga en el correo, Pero sí, sí.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 115.68527999999999,
+          "end_time": 119.2879,
+          "text": "Lo puedo anular cuando quiera para el año próximo.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 122.89497,
+          "end_time": 124.99592999999999,
+          "text": "que no quiero que me lo actualicen, digamos.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 125.9805,
+          "end_time": 136.13105,
+          "text": "Sí, podría decir que no quiere la reconducción del Pacto Privilegio para el año próximo, la próxima vez.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 138.32433,
+          "end_time": 138.92597,
+          "text": "Vale, pues.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 139.48751000000001,
+          "end_time": 141.1763,
+          "text": "Vale, muchas gracias, Nada.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 142.13474000000002,
+          "end_time": 142.39545,
+          "text": "Leina.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_09"
+        },
+        {
+          "start_time": 143.93917,
+          "end_time": 144.29954,
+          "text": "Buen día.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "transcription": {
+    "id": 359456948,
+    "call_id": 2701091511,
+    "call_created_at": "2025-04-01T13:39:39.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.96,
+          "end_time": 3.34,
+          "text": "Camping-car partout, bonjour.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 3.8799999,
+          "end_time": 8.68,
+          "text": "This is, Jan Willem speaking from, The Netherlands from, Jagta",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 8.6399994,
+          "end_time": 9.139999,
+          "text": "Pardon",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 8.68,
+          "end_time": 12.86,
+          "text": "Fernade. You speak you speak English?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 14.5199995,
+          "end_time": 15.98,
+          "text": "Non, non, non, pas vraiment.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 16.564999999999998,
+          "end_time": 20.904999,
+          "text": "Okay. Do I can I have, can I have contact with somebody who speaks English?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 27.475,
+          "end_time": 102.825,
+          "text": "Je ne trouve pas mes mots. Ok ok ok. Je crois que c'est pour Narden. Je ne sais pas, ça, ce n'est pas mon problème. On ouvre des arts à l'étranger, mais par contre, moi, je n'ai pas envie de parler en anglais en support.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 107.590004,
+          "end_time": 167.87,
+          "text": "Ils sont tous, ils sont tous. Oui non mais après il n'y a pas de problème monsieur. Messieurs dames bonjour tu parles anglais toi Alexandre Ouais tu vois j'ai un mec de Dordogne qui veut parler en anglais Et j'ai absolument pas envie de fêter les parties d'anglais. Je ne sais pas l'anglais. Il y a tu parles anglais toi Tu parles anglais toi Tu as envie de parler anglais Ah oui Mais je veux, mais, puisque j'ai un technicien qui veut parler anglais, Moi j'ai promis en fait.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 167.87,
+          "end_time": 186.845,
+          "text": "Je ne sais pas. Je crois que c'est Norden. Oui, voilà. Écoute, vous aussi. J'ai personne.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 187.065,
+          "end_time": 219.875,
+          "text": "J'ai personne. Donc je fais comment Ça, je ne sais pas. Écoute, je vais essayer, mais ça va me faire chier vite. Allô, hello,",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 219.845,
+          "end_time": 220.345,
+          "text": "Hello?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 220.015,
+          "end_time": 220.515,
+          "text": "excuse-moi.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 220.405,
+          "end_time": 220.905,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 224.79001,
+          "end_time": 225.29001,
+          "text": "Ok",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 226.805,
+          "end_time": 246.06,
+          "text": "Yes, please. Well, yeah, I I'm the manager of the marina, and we have camping car park system. And, we have a customer, and she wants to upload the card, but it seems that the payment terminal is not working.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 246.29501,
+          "end_time": 247.91501,
+          "text": "Ah ok ok.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 250.015,
+          "end_time": 250.755,
+          "text": "Thank you.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 269.61,
+          "end_time": 269.995,
+          "text": "Ok.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 270.04,
+          "end_time": 271.34,
+          "text": "We we were. Yeah?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 271.595,
+          "end_time": 272.335,
+          "text": "Hier ok.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 277.885,
+          "end_time": 304.8,
+          "text": "Okay. I have to walk back. But, yeah, okay. Yeah. The the customer left because it was taking too long.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 306.275,
+          "end_time": 308.615,
+          "text": "Ah ok ok ok",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 308.42502,
+          "end_time": 312.585,
+          "text": "So she's still on-site. She's still on the site, but she's, back",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 312.37003,
+          "end_time": 312.87003,
+          "text": "Ok",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 312.585,
+          "end_time": 312.98502,
+          "text": "to the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 316.21002,
+          "end_time": 316.71002,
+          "text": "ok.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 322.82,
+          "end_time": 331,
+          "text": "Okay. So so payment terminal should be working. Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 370.815,
+          "end_time": 392.735,
+          "text": "Alors, Alors",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 410.3,
+          "end_time": 423.22498,
+          "text": "Yeah. And she want she wants to try tomorrow again.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 425.62997,
+          "end_time": 429.40997,
+          "text": "ici on te donne un reboot de système.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 430.22,
+          "end_time": 468.57,
+          "text": "Yeah. Okay. And there and there were no errors in. Yeah. I see.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 483.6,
+          "end_time": 497.62,
+          "text": "Okay. Yeah. Yeah. Try later or or tomorrow morning. Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 500.375,
+          "end_time": 502.555,
+          "text": "Une five five time minute",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 503.16498,
+          "end_time": 503.66498,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 503.18,
+          "end_time": 503.68,
+          "text": "minimum.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 511.94,
+          "end_time": 512.44,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 516.325,
+          "end_time": 516.825,
+          "text": "Ok",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 516.9,
+          "end_time": 522.6609,
+          "text": "Waiting time. Okay. Yeah. Okay. Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 522.7209,
+          "end_time": 523.0409,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        },
+        {
+          "start_time": 522.76044,
+          "end_time": 523.26044,
+          "text": "ok.",
+          "participant_type": "internal",
+          "user_id": 1503103
+        },
+        {
+          "start_time": 523.0409,
+          "end_time": 527.70087,
+          "text": "Thank you. Alright. Bye bye. Oh, you too. Bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_50"
+        }
+      ]
+    }
+  }
+}

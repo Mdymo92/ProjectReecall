@@ -1,0 +1,391 @@
+{
+  "transcription": {
+    "id": 412060284,
+    "call_id": 2868866202,
+    "call_created_at": "2025-06-10T07:58:37.000Z",
+    "type": "call",
+    "content": {
+      "language": "es",
+      "utterances": [
+        {
+          "start_time": 0.08,
+          "end_time": 0.42,
+          "text": "¿Bienvenido?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 0.5,
+          "end_time": 6.484,
+          "text": "Sí, Hola, estoy aquí en el aeropuerto de Flesberg.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 7.525,
+          "end_time": 12.749,
+          "text": "No puedo, la barrera no me abre.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 12.829,
+          "end_time": 18.995,
+          "text": "Voy a salir y no puedo salir de la comandante.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 18.525,
+          "end_time": 18.946,
+          "text": "de acuerdo.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 20.366,
+          "end_time": 21.886,
+          "text": "Voy a poder ayudarte, no te preocupes.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 24.167,
+          "end_time": 27.248,
+          "text": "Entonces, ¿eres el señor Gargalo Bussone?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 30.089,
+          "end_time": 31.893,
+          "text": "¿Están bien, ¿Voy a hablar español?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 31.113,
+          "end_time": 33.201,
+          "text": "señor?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 34.155,
+          "end_time": 34.275,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 34.445,
+          "end_time": 36.111,
+          "text": "No, inglés o francés, disculpe.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 37.538,
+          "end_time": 39.079,
+          "text": "Bien.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 39.239,
+          "end_time": 39.8,
+          "text": "Un momento.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 39.82,
+          "end_time": 59.796,
+          "text": "Bueno, dime un momento.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 60.725,
+          "end_time": 62.949,
+          "text": "¿Puedo tener tu nombre, por favor?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 64.505,
+          "end_time": 65.951,
+          "text": "Ricardo Gargallo.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 66.657,
+          "end_time": 68.821,
+          "text": "Ok, de acuerdo.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 68.822,
+          "end_time": 70.164,
+          "text": "Voy a poder hacer que salga.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 89.5,
+          "end_time": 96.342,
+          "text": "el autocaraván anterior y la tupé con la barrera.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 97.994,
+          "end_time": 99.154,
+          "text": "Sí, voy a...",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 99.155,
+          "end_time": 106.338,
+          "text": "Hay un problema en el aire, pero voy a poder hacer que salga, voy a dar un código.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 106.339,
+          "end_time": 106.498,
+          "text": "¿Aló?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 107.625,
+          "end_time": 107.765,
+          "text": "¿Aló?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 107.905,
+          "end_time": 108.025,
+          "text": "¿Sí?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 108.759,
+          "end_time": 109.96,
+          "text": "¿Estáis cerca de la vía?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 110.02,
+          "end_time": 113.422,
+          "text": "¿Puedo pedir que entre un código?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 113.423,
+          "end_time": 123.808,
+          "text": "Entonces, el código es 877...",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 122.88,
+          "end_time": 147.632,
+          "text": "8, 8, 7, 0 llegó, 1 1 1 1 perdón, 4, 1, 8, 5, otro 1, 5, 7 7 y 2 y apúyese en la flecha para confirmar vale, 7 y 2.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 153.032,
+          "end_time": 170.655,
+          "text": "La flecha, la entré, no, no, la aprieta la flecha, Sí, entonces, uy, va, índice de hora va, ¿podríamos intentar?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 170.417,
+          "end_time": 171.177,
+          "text": "¿tornemos a hacer un?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 171.957,
+          "end_time": 173.077,
+          "text": "Sí, bien, ¿Aló?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 173.137,
+          "end_time": 181.72,
+          "text": "Entonces, dime el código, el código, 8, 7, 8, 7.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 182.425,
+          "end_time": 193.437,
+          "text": "0, 01172 y enter.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 185.067,
+          "end_time": 185.928,
+          "text": "1, 1.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 188.44,
+          "end_time": 193.224,
+          "text": "y la flecha de entrada.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 194.518,
+          "end_time": 194.638,
+          "text": "Ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 196.499,
+          "end_time": 203.983,
+          "text": "Y la María es mi subgrupado.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 203.984,
+          "end_time": 204.644,
+          "text": "¡Uh!",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 204.494,
+          "end_time": 205.615,
+          "text": "¿Entra?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 204.645,
+          "end_time": 204.764,
+          "text": "Ya.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 205.655,
+          "end_time": 214.963,
+          "text": "Sí, podrán llamarnos.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 205.804,
+          "end_time": 206.465,
+          "text": "Merci.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 214.601,
+          "end_time": 219.043,
+          "text": "Sí, pues, está bien.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 218.136,
+          "end_time": 220.218,
+          "text": "¿Está bien para ustedes?",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 222.844,
+          "end_time": 228.246,
+          "text": "Voy a un mamá, y esto, y esto, y esto.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 228.507,
+          "end_time": 235.73,
+          "text": "Es igual.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 234.751,
+          "end_time": 238.274,
+          "text": "Ok, parten.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 236.49,
+          "end_time": 237.69,
+          "text": "Voy a un mamá, y un mamá.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 243.508,
+          "end_time": 259.833,
+          "text": "Eso sí, la barriera se permite con reclamo.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 260.674,
+          "end_time": 262.158,
+          "text": "Sí, ¿Estáis fuera?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 262.234,
+          "end_time": 263.824,
+          "text": "merci, De nada.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 263.555,
+          "end_time": 267.035,
+          "text": "d'accord, merci, Pasad una buena día.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 265.295,
+          "end_time": 267.096,
+          "text": "au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_13"
+        },
+        {
+          "start_time": 267.095,
+          "end_time": 267.296,
+          "text": "Adiós.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "transcription": {
+    "id": 413356103,
+    "call_id": 2872960346,
+    "call_created_at": "2025-06-11T09:31:47.000Z",
+    "type": "call",
+    "content": {
+      "language": "en",
+      "utterances": [
+        {
+          "start_time": 0.88,
+          "end_time": 3.04,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 3.6,
+          "end_time": 4.88,
+          "text": "We",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 6,
+          "end_time": 6.64,
+          "text": "I do.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 8.24,
+          "end_time": 10.639999,
+          "text": "are we are trying to exit Sands.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 10.48,
+          "end_time": 11.2,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 10.639999,
+          "end_time": 13.36,
+          "text": "Okay. And the body will not lift.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 13.84,
+          "end_time": 16.625,
+          "text": "Okay. Are you in front of the gate now?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 16.425,
+          "end_time": 17.945,
+          "text": "Yes. We are.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 18.065,
+          "end_time": 20.224998,
+          "text": "Okay. It's open?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 20.904999,
+          "end_time": 21.625,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 22.385,
+          "end_time": 23.105,
+          "text": "No?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 23.305,
+          "end_time": 24.024998,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 24.465,
+          "end_time": 25.105,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 24.505,
+          "end_time": 26.505,
+          "text": "We are trying to exit, and it is down.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 30.19,
+          "end_time": 34.75,
+          "text": "Okay. It's not open? Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 35.07,
+          "end_time": 35.47,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 36.35,
+          "end_time": 89.31,
+          "text": "Moment, please. Okay. Okay. It's",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 87.13,
+          "end_time": 89.69,
+          "text": "Okay. It's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 89.31,
+          "end_time": 90.189995,
+          "text": "open now?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 89.69,
+          "end_time": 90.65,
+          "text": "barrier barriers",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 90.35,
+          "end_time": 90.99,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 90.65,
+          "end_time": 91.93,
+          "text": "up. Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 91.869995,
+          "end_time": 94.59,
+          "text": "Can can you tell me when the buyer close, please?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 96.33,
+          "end_time": 98.33,
+          "text": "You want me you want me to drive through it now? I'm",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 98.255,
+          "end_time": 98.575,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 98.33,
+          "end_time": 99.21,
+          "text": "going out.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 98.575,
+          "end_time": 100.815,
+          "text": "Yeah. Yeah. Yeah. Yeah. Go go out.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 100.33,
+          "end_time": 100.73,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 101.375,
+          "end_time": 106.015,
+          "text": "Tell me when when you are",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 107.005,
+          "end_time": 108.045,
+          "text": "Okay. Oh, hold",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 108.015,
+          "end_time": 108.495,
+          "text": "outside.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 108.045,
+          "end_time": 109.244995,
+          "text": "on moment. I'm outside.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 109.240005,
+          "end_time": 110.6,
+          "text": "You are outside?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 110.685,
+          "end_time": 111.885,
+          "text": "Not yet. No. No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 111.880005,
+          "end_time": 112.92,
+          "text": "Okay. Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 115.170006,
+          "end_time": 116.61,
+          "text": "Okay. We are outside now.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 116.76,
+          "end_time": 122.92,
+          "text": "Okay. So tell me when the buyer close, please.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 130.995,
+          "end_time": 132.275,
+          "text": "The battery is still up.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 147.26,
+          "end_time": 148.29999,
+          "text": "It's open now.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 148.58,
+          "end_time": 151.70001,
+          "text": "Going down. Going down. Down. The",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 151.515,
+          "end_time": 152.315,
+          "text": "Down?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 151.70001,
+          "end_time": 153.22,
+          "text": "barrier is now down.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 153.035,
+          "end_time": 153.835,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 153.22,
+          "end_time": 153.78001,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 153.835,
+          "end_time": 154.79501,
+          "text": "Thank you.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 154.90001,
+          "end_time": 156.82,
+          "text": "No. Thank you very much for letting us out.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 158.075,
+          "end_time": 159.35501,
+          "text": "Have a nice day.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 159.4197,
+          "end_time": 162.0597,
+          "text": "Alright. And you thank thank you again for your help. Bye",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 161.915,
+          "end_time": 162.235,
+          "text": "My",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 162.0597,
+          "end_time": 162.61969,
+          "text": "bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        },
+        {
+          "start_time": 162.235,
+          "end_time": 163.595,
+          "text": "play my pleasure. Bye bye.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 163.81969,
+          "end_time": 164.37968,
+          "text": "Bye bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_03"
+        }
+      ]
+    }
+  }
+}

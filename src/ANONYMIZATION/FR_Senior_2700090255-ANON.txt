@@ -1,0 +1,2967 @@
+{
+  "transcription": {
+    "id": 359173250,
+    "call_id": 2700090255,
+    "call_created_at": "2025-04-01T09:01:12.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 0.24,
+          "end_time": 2.1,
+          "text": "Bonsoir. Allô.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 2.48,
+          "end_time": 3.3799999,
+          "text": "Oui bonjour madame.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 3.04,
+          "end_time": 18.455,
+          "text": "Allô. Oui bonjour madame. Excusez-moi de vous déranger. J'ai créé mon compte là et j'essaie de retourner dessus et Marc que c'est impossible de me connecter, que le mot de passe est pro alors que je viens de le réécrire, refaire, on est 2 et",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 18.125,
+          "end_time": 18.625,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 18.455,
+          "end_time": 19.355,
+          "text": "ça ne marche pas.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 19.485,
+          "end_time": 21.265,
+          "text": "Alors vous êtes sur l'application téléphonique",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 21.895,
+          "end_time": 22.395,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 22.685001,
+          "end_time": 26.285,
+          "text": "D'accord. Alors vous avez créé, est-ce",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 26.055,
+          "end_time": 26.375,
+          "text": "Je suis",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 26.285,
+          "end_time": 26.445,
+          "text": "que je",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 26.375,
+          "end_time": 27.035,
+          "text": "sur connexion.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 27.92,
+          "end_time": 33.44,
+          "text": "Tout à fait alors je vais je vais vous quel de quel email, quelle adresse mail avez-vous renseigné",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 34.32,
+          "end_time": 35.06,
+          "text": "Sylvie, donc",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 35.28,
+          "end_time": 35.78,
+          "text": "Ah.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 35.36,
+          "end_time": 37.620003,
+          "text": "Sylvie SYLVIE",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 37.28,
+          "end_time": 37.78,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 37.68,
+          "end_time": 39.440002,
+          "text": "point seigneur comme le",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 39.28,
+          "end_time": 39.6,
+          "text": "Est-ce",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 39.440002,
+          "end_time": 42.16,
+          "text": "seigneur SEIGNEUF",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 40.4,
+          "end_time": 41.585,
+          "text": "D'accord. Parfait",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 42.16,
+          "end_time": 43.940002,
+          "text": "arobase free point f r.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 44.605,
+          "end_time": 60.969997,
+          "text": "donc normalement je vous retrouve. Alors je n'ai pas de, je réessaye une fois mais SILVIE point seigneur comme le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 61.08,
+          "end_time": 61.58,
+          "text": "Ouais,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 61.309998,
+          "end_time": 64.729996,
+          "text": "seigneur arobase free point f",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 64.44,
+          "end_time": 65.64,
+          "text": "ouais. Pour ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 65.59,
+          "end_time": 66.075,
+          "text": "r.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 65.64,
+          "end_time": 69.26,
+          "text": "j'ai j'ai j'ai créé le compte, mais ça n'a pas pris en compte. Faut que je recommence.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 69.91499,
+          "end_time": 75.774994,
+          "text": "Alors non, mais on va on va recommencer ensemble. Avec cet email, ça ne marche pas. Vous avez rentré un numéro de téléphone",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 76.835,
+          "end_time": 77.335,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 77.755,
+          "end_time": 81.630005,
+          "text": "Non. Votre nom, éventuellement, nom de",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 81.475,
+          "end_time": 82.455,
+          "text": "Non. Moi, c'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 82.44501,
+          "end_time": 82.94501,
+          "text": "famille,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 82.835,
+          "end_time": 83.795,
+          "text": "Seigneur, comme le",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 83.76,
+          "end_time": 84.01,
+          "text": "est-ce",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 83.795,
+          "end_time": 84.295,
+          "text": "Seigneur.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 84.01,
+          "end_time": 96.685005,
+          "text": "d'accord, j'essaye. Alors donc et prénom Sylvie je suppose, je",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 96.46,
+          "end_time": 97.36,
+          "text": "Oui oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 97.545006,
+          "end_time": 115.08,
+          "text": "regarde Doc seigneur Lauriane Benjamin Benjamin Sophie. Le seigneur seigneur Oui alors a priori non j'ai pas de compte donc on",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 115.02,
+          "end_time": 115.1,
+          "text": "Alors",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 115.08,
+          "end_time": 115.4,
+          "text": "va",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 115.1,
+          "end_time": 115.5,
+          "text": "faut que je le",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 115.4,
+          "end_time": 115.9,
+          "text": "le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 115.5,
+          "end_time": 116,
+          "text": "recrée",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 116.12,
+          "end_time": 117.72,
+          "text": "on va le créer ensemble ça va être plus",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 117.659996,
+          "end_time": 117.74,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 117.72,
+          "end_time": 118.22,
+          "text": "simple",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 117.74,
+          "end_time": 119.2,
+          "text": "oui oui je connais qu'on y est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 119.16,
+          "end_time": 119.66,
+          "text": "ok",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 120.22,
+          "end_time": 120.96,
+          "text": "oui. Pierre",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 121.24,
+          "end_time": 121.9,
+          "text": "on va",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 121.42,
+          "end_time": 122.799995,
+          "text": "faut que montrer pour rentrer ce soir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 123.585,
+          "end_time": 125.445,
+          "text": "comme ça, on va le faire en direct.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 125.34,
+          "end_time": 131.225,
+          "text": "Oui parce que là là je vais me on se rend demain soir sur Bauval pour",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 131.025,
+          "end_time": 131.525,
+          "text": "D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 131.225,
+          "end_time": 141.405,
+          "text": "aller au zoo là et j'ai un bébé avec j'ai un bébé avec moi et justement on fait on a besoin du nerf ou qui a de l'électricité parce qu'il fait trop froid là",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 141.54999,
+          "end_time": 142.04999,
+          "text": "D'accord,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 141.705,
+          "end_time": 143.085,
+          "text": "il faut vraiment du chauffage.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 143.31,
+          "end_time": 143.81,
+          "text": "d'accord.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 143.76,
+          "end_time": 145.29999,
+          "text": "Oui oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 144.82999,
+          "end_time": 151.985,
+          "text": "Alors je je suis en train de renseigner donc prénom Sylvie, non seigneur, je mets le mail que vous m'avez donné sylvie point",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 151.51999,
+          "end_time": 152.18,
+          "text": "oui oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 153.085,
+          "end_time": 153.82501,
+          "text": "seigneur arobase",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 154.72,
+          "end_time": 154.95999,
+          "text": "Arobase",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 154.845,
+          "end_time": 155.345,
+          "text": "free",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 154.95999,
+          "end_time": 160.595,
+          "text": "prix point FRR",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 155.725,
+          "end_time": 158.625,
+          "text": "point f r, votre code postal s'il vous plaît.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 160.595,
+          "end_time": 161.255,
+          "text": "vingt-cinq cinq-cent-cinquante, Renan.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 163.74,
+          "end_time": 165.52,
+          "text": "Parfait toc et",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 165.875,
+          "end_time": 166.375,
+          "text": "0",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 166.14,
+          "end_time": 170.08,
+          "text": "donc France votre numéro de portable 0",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 170.995,
+          "end_time": 173.33,
+          "text": "6 0 6 soixante-quinze",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 174.395,
+          "end_time": 177.85501,
+          "text": "Vingt-trois 14, merci.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 180.67,
+          "end_time": 181.17,
+          "text": "vingt-trois",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 181.27501,
+          "end_time": 182.49501,
+          "text": "Vous êtes en camping-car",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 182.23001,
+          "end_time": 185.01,
+          "text": "14. Oui, camping-car oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 185.27501,
+          "end_time": 204.735,
+          "text": "Parfait, langue français, voilà, créer. Voilà, donc votre compte existe, ok. Voilà, ça existe. Alors maintenant pour activer la carte si si on le,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 205.40999,
+          "end_time": 205.90999,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 205.595,
+          "end_time": 207.355,
+          "text": "vous êtes devant une aire là ou pas du tout",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 208.45,
+          "end_time": 209.25,
+          "text": "Non non là on est dans",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 209.115,
+          "end_time": 209.615,
+          "text": "Non.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 209.25,
+          "end_time": 211.34999,
+          "text": "une ère mais on est sur La Rochelle là pour l'instant.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 211.435,
+          "end_time": 212.815,
+          "text": "D'accord très bien.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 212.61,
+          "end_time": 215.11,
+          "text": "Mais nous c'est, mais nous on n'est pas sur une ère de camping-car",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 214.89,
+          "end_time": 215.39,
+          "text": "D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 215.17,
+          "end_time": 216.95,
+          "text": "Park, il n'y en avait pas ici à La Rochelle.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 217.37,
+          "end_time": 235.345,
+          "text": "ok pas de souci. Alors pour activer le compte, remarquez ça va être, je vais peut-être vous le laisser faire sur l'appli parce que soit je vais vous l'activer avec moi là et en fait je vais vous demander donc de payer les 8 euros de du démarrage de la création du compte",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 235.62001,
+          "end_time": 237,
+          "text": "Oui oui on va le faire oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 236.925,
+          "end_time": 245.76,
+          "text": "ou alors vous essayez je vous donne donc un mot de passe que je vais créer et vous essayez sur l'application de de rentrer sur votre compte, de vous connecter.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 246.445,
+          "end_time": 249.345,
+          "text": "Mais on peut pas le faire ensemble pour être sûr que ça marche bien",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 249.42,
+          "end_time": 250.4,
+          "text": "Si sans problème.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 250.445,
+          "end_time": 254.925,
+          "text": "parce que je préfère, je préfère parce que comme là il y a le bébé il a 4 mois",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 254.69499,
+          "end_time": 255.19499,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 254.925,
+          "end_time": 257.04498,
+          "text": "là, il tousse alors je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 257.01498,
+          "end_time": 257.095,
+          "text": "Pas",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 257.04498,
+          "end_time": 257.165,
+          "text": "ne",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 257.095,
+          "end_time": 257.595,
+          "text": "de",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 257.165,
+          "end_time": 258.065,
+          "text": "veux encore pas.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 257.975,
+          "end_time": 261.195,
+          "text": "souci. Oui, vous avez autre chose à faire.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 261.05,
+          "end_time": 261.87,
+          "text": "Oui, c'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 263.735,
+          "end_time": 264.29498,
+          "text": "Tout à fait.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 264.21,
+          "end_time": 264.71,
+          "text": "voilà.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 264.29498,
+          "end_time": 267.095,
+          "text": "Alors j'ouvre, voilà",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 267.05,
+          "end_time": 267.28998,
+          "text": "Du",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 267.095,
+          "end_time": 267.595,
+          "text": "donc.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 267.28998,
+          "end_time": 270.49,
+          "text": "moins, moi moi ça va, c'est la fille t'as le bébé, moi je suis",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 270.47,
+          "end_time": 270.97,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 270.49,
+          "end_time": 274.43,
+          "text": "la je suis la mamie donc voilà. Comme on veut l'emmener au zoo.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 275.03,
+          "end_time": 280.01,
+          "text": "D'accord. J'en profite pour vous demander votre adresse postale, comme ça je la rentre.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 279.94498,
+          "end_time": 288.76498,
+          "text": "Alors c'est 20 rue de la Pérusse PRU 2 s e vingt-cinq 550 Renan. Je pense qu'il faut la carte bleue.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 289.035,
+          "end_time": 292.41498,
+          "text": "Parfait oui après donc RINAN renan",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 293.46002,
+          "end_time": 298.68,
+          "text": "Non alors RA YNANS.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 301.33,
+          "end_time": 301.83,
+          "text": "Renan",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 301.41998,
+          "end_time": 301.91998,
+          "text": "Non",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 301.88998,
+          "end_time": 305.03,
+          "text": "n s, voilà RAYNANS.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 305.30002,
+          "end_time": 306.975,
+          "text": "C'est bien ça, Vingt-cinq,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 307.825,
+          "end_time": 311.58502,
+          "text": "Parfait. Voilà donc je vais vous demander effectivement le numéro de",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 311.515,
+          "end_time": 312.015,
+          "text": "sept-cent-cinquante.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 311.58502,
+          "end_time": 319.92502,
+          "text": "votre carte bancaire, si si vous souhaitez la mémoriser, elle est mémorisée, si vous ne souhaitez pas la mémoriser, je ne la mémorise pas.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 320.36,
+          "end_time": 322.44,
+          "text": "Non mais vous ne la mémorisez pas, on la remettra",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 322.23,
+          "end_time": 322.73,
+          "text": "D'accord,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 322.44,
+          "end_time": 323.5,
+          "text": "à chaque fois je préfère.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 323.51,
+          "end_time": 326.01,
+          "text": "pas de souci. Donc je je vous",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 327.15997,
+          "end_time": 328.62,
+          "text": "Alors cinquante-et-un, soixante-deux,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 328.71002,
+          "end_time": 329.53,
+          "text": "écoute. Oui",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 331.56,
+          "end_time": 333.19,
+          "text": "vingt-cinq, vingt-cinq, vingt-cinquante-six, vingt-sept,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 333.59,
+          "end_time": 357.65,
+          "text": "Oui oui, très bien. Date d'expiration et les 3 chiffres. Voilà. Voilà comme ça votre compte est activé. J'espère que ça va me donner le code.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 362.165,
+          "end_time": 374.98502,
+          "text": "Super. Voilà. Donc les pour pour les nouveaux clients, pour les les, on a un peu changé notre système, on n'a pas de carte physique maintenant. Je vais vous donner un un code à 6",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 374.495,
+          "end_time": 374.995,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 375.36502,
+          "end_time": 376.505,
+          "text": "chiffres qui est unique,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 376.495,
+          "end_time": 376.995,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 376.97,
+          "end_time": 385.07,
+          "text": "unique et personnel d'accord et ce voilà c'est ce code qui va vous permettre d'entrer sortir des airs et caetera.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 385.78998,
+          "end_time": 386.28998,
+          "text": "Oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 386.25,
+          "end_time": 395.765,
+          "text": "D'accord Par contre il faudra à un moment donné quand vous aurez le temps il faudra télécharger l'application téléphonique et essayer de vous connecter. Donc je vais vous donner des informations.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 397.065,
+          "end_time": 401.725,
+          "text": "Oui, mais je je je l'ai téléchargé l'application maintenant, je j'essaierai de me reconnecter, ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 401.505,
+          "end_time": 406.705,
+          "text": "Tout à fait voilà et je vous donnerai un mot de passe pour vous connecter et caetera. Donc",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 406.68,
+          "end_time": 406.76,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 406.705,
+          "end_time": 406.865,
+          "text": "le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 406.76,
+          "end_time": 407.08,
+          "text": "mon",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 406.865,
+          "end_time": 407.365,
+          "text": "fameux,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 407.08,
+          "end_time": 410.06,
+          "text": "compagnon fera sur le sien comme ça on sera sûr que ça marche.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 410.2,
+          "end_time": 413.42,
+          "text": "d'accord, donc ce fameux code",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 413.8,
+          "end_time": 413.88,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 413.80002,
+          "end_time": 414.30002,
+          "text": "qui",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 413.88,
+          "end_time": 414.86,
+          "text": "Code, oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 415.08002,
+          "end_time": 416.76,
+          "text": "sera toujours le même d'accord Donc celui-là",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 416.76,
+          "end_time": 417.26,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 416.76,
+          "end_time": 418.2,
+          "text": "c'est vraiment c'est comme si",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 417.96,
+          "end_time": 418.44,
+          "text": "Pour rentrer",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 418.2,
+          "end_time": 418.7,
+          "text": "c'était,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 418.44,
+          "end_time": 419.99,
+          "text": "sur les airs d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 419.56,
+          "end_time": 421.56,
+          "text": "voilà rentrer, sortir, utiliser les",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 421.385,
+          "end_time": 421.785,
+          "text": "Rentrer",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 421.56,
+          "end_time": 422.06,
+          "text": "services.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 421.785,
+          "end_time": 423.005,
+          "text": "sortir ça c'est le code.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 423.945,
+          "end_time": 424.445,
+          "text": "Voilà.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 424.02502,
+          "end_time": 424.52502,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 424.745,
+          "end_time": 426.285,
+          "text": "C'est le vingt-six",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 428.265,
+          "end_time": 428.765,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 428.905,
+          "end_time": 431.885,
+          "text": "dix-huit vingt-trois.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 432.505,
+          "end_time": 433.48502,
+          "text": "Oui. D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 433.865,
+          "end_time": 445.06,
+          "text": "D'accord donc ce code vous le gardez bien. Seule particularité pour pour éviter les fraudes, quand vous arriverez sur l'aire de Saint-Aignan,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 445.05,
+          "end_time": 445.55,
+          "text": "Ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 445.92,
+          "end_time": 446.58,
+          "text": "à l'arrivée,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 446.265,
+          "end_time": 446.765,
+          "text": "Oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 446.64,
+          "end_time": 449.54,
+          "text": "quand vous êtes devant la grille, il faudra tout simplement",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 449.545,
+          "end_time": 450.045,
+          "text": "ouais,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 449.92,
+          "end_time": 453.405,
+          "text": "ouvrir votre application et vous connecter, d'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 453.70502,
+          "end_time": 454.20502,
+          "text": "oui,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 453.725,
+          "end_time": 459.665,
+          "text": "Et il y a un gros onglet très facile à trouver que sur la première page où il y a marqué accéder avec une petite barrière,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 461.16,
+          "end_time": 461.66,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 461.485,
+          "end_time": 481.71,
+          "text": "d'accord Il faudra cliquer sur accéder, ce qui active votre code pendant 5 minutes et ensuite vous l'entrez sur la borne. D'accord Ça, c'est à l'entrée des airs. À la sortie, vous n'avez pas à faire ça, vous tapez simplement votre code et valider en fait, il faut juste valider",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 482.19498,
+          "end_time": 482.69498,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 482.41,
+          "end_time": 493.58502,
+          "text": "à la fin, vous tapez le code à 6 chiffres et vous validez en bas à droite, il y a une petite flèche tout simplement. C'est simplement à l'entrée des airs pour éviter les fraudes parce que si quelqu'un vous voit taper le code,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 496.44,
+          "end_time": 496.94,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 496.84003,
+          "end_time": 497.72,
+          "text": "D'accord donc à",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 497.485,
+          "end_time": 497.985,
+          "text": "d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 497.72,
+          "end_time": 499,
+          "text": "l'entrée il faut simplement",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 498.845,
+          "end_time": 499.085,
+          "text": "À",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 499,
+          "end_time": 499.5,
+          "text": "ouvrir",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 499.085,
+          "end_time": 501.26498,
+          "text": "l'entrée on clique sur sur accéder",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 501.40002,
+          "end_time": 501.72,
+          "text": "sur",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 501.405,
+          "end_time": 501.725,
+          "text": "ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 501.72,
+          "end_time": 502.2,
+          "text": "accéder",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 501.725,
+          "end_time": 502.225,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 502.2,
+          "end_time": 504.92,
+          "text": "sur votre application téléphonique, ça active",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 504.685,
+          "end_time": 504.925,
+          "text": "Elle",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 504.92,
+          "end_time": 505.24002,
+          "text": "le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 504.925,
+          "end_time": 505.245,
+          "text": "va nous",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 505.24002,
+          "end_time": 505.74002,
+          "text": "code.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 505.245,
+          "end_time": 510.44498,
+          "text": "donner une méthode provisoire. Attendez il y a mon compagnon qui me parle en même temps pour qu'il essaie d'accéder mais je vous",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 510.365,
+          "end_time": 510.865,
+          "text": "Ouais,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 510.44498,
+          "end_time": 512.205,
+          "text": "dis qu'il faut qu'il l'attende parce que vous lui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 512.045,
+          "end_time": 512.545,
+          "text": "voilà,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 512.205,
+          "end_time": 513.06,
+          "text": "donniez un code.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 513.725,
+          "end_time": 514.045,
+          "text": "tout à",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 514.02,
+          "end_time": 514.52,
+          "text": "Voilà.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 514.045,
+          "end_time": 525.39,
+          "text": "fait. Il faut que je vous donne un mot de passe pour vous connecter sur sur l'appli. Voilà, donc je vous réexpliquerai la démarche. Donc je crée je vais créer votre mot de passe donc l'identifiant",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 524.98,
+          "end_time": 525.64,
+          "text": "Ok. D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 525.77,
+          "end_time": 527.69,
+          "text": "c'est le mail que vous m'avez donné suivi",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 527.635,
+          "end_time": 528.135,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 527.69,
+          "end_time": 529.39,
+          "text": "point senior que j'approuve",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 529.155,
+          "end_time": 530.455,
+          "text": "ça c'est une heure, ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 530.49,
+          "end_time": 534.33,
+          "text": "et en mot de passe et bien comment",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 533.995,
+          "end_time": 534.495,
+          "text": "Après",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 534.33,
+          "end_time": 535.47003,
+          "text": "ça il y a deux-cent-soixante-et-un",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 538.03503,
+          "end_time": 538.615,
+          "text": "tu changesas,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 539.53503,
+          "end_time": 540.015,
+          "text": "en mot",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 539.875,
+          "end_time": 540.195,
+          "text": "après",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 540.015,
+          "end_time": 540.59503,
+          "text": "de passe,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 540.195,
+          "end_time": 541.175,
+          "text": "on pourra changer.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 541.53503,
+          "end_time": 542.495,
+          "text": "oui oui oui vous pourrez",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 542.34,
+          "end_time": 542.84,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 542.495,
+          "end_time": 548.895,
+          "text": "changer le mot de passe. Dans votre profil, si ça n'apparaît pas tout de suite, c'est que ça va ça va venir d'ici peu, c'est une",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 548.72253,
+          "end_time": 549.22253,
+          "text": "oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 548.895,
+          "end_time": 570.945,
+          "text": "fonctionnalité qui doit qui va de toute façon être disponible à un moment donné. Je vais vous donner comme mot de passe votre numéro de téléphone sans le 0 départ, donc 6 0 6 soixante-quinze vingt-trois 14, ça vous convient",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 570.69995,
+          "end_time": 572.45996,
+          "text": "D'accord. Oui oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 572.065,
+          "end_time": 572.565,
+          "text": "6",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 572.45996,
+          "end_time": 572.95996,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 572.625,
+          "end_time": 574.325,
+          "text": "0 6 soixante-quinze",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 574.3,
+          "end_time": 574.8,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 574.465,
+          "end_time": 575.365,
+          "text": "vingt-trois 14.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 576.06,
+          "end_time": 576.22,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 576.065,
+          "end_time": 576.465,
+          "text": "D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 576.22,
+          "end_time": 576.62,
+          "text": "comme sur",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 576.465,
+          "end_time": 576.965,
+          "text": "votre",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 576.62,
+          "end_time": 577.36,
+          "text": "le métier nazi.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 578.865,
+          "end_time": 580.645,
+          "text": "numéro de téléphone sort le 0.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 580.54,
+          "end_time": 581.92,
+          "text": "Ok. Ouais, ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 582.49,
+          "end_time": 589.14996,
+          "text": "Je viens de le confirmer. Donc vous, si jamais il essaye de se connecter là, il peut essayer en direct,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 590.205,
+          "end_time": 590.705,
+          "text": "Ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 590.73,
+          "end_time": 592.58997,
+          "text": "voir si tout va bien, si ça marche.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 595.65,
+          "end_time": 596.15,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 596.135,
+          "end_time": 602.635,
+          "text": "Et il faut bien mettre à jour l'application parce que comme on a, nous-mêmes là on on l'a récemment,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 603.09,
+          "end_time": 604.07,
+          "text": "ça marche oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 604.215,
+          "end_time": 606.395,
+          "text": "ok donc ça marche",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 606.05005,
+          "end_time": 608.39,
+          "text": "Soixante-quinze, vingt-trois, soixante-six. Moi moi ça marche",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 608.19,
+          "end_time": 608.69,
+          "text": "Ok",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 609.435,
+          "end_time": 612.875,
+          "text": "Alors une, alors une question donc quand quand, il faut",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 612.83,
+          "end_time": 613.33,
+          "text": "super.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 612.875,
+          "end_time": 617.675,
+          "text": "qu'on recharge, donc qu'on mette de l'argent dessus pour accéder au camp, au",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 617.47003,
+          "end_time": 617.97003,
+          "text": "Voilà.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 617.675,
+          "end_time": 618.735,
+          "text": "camping. Ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 618.35004,
+          "end_time": 624.545,
+          "text": "Alors voilà le si vous voulez pour pour rentrer ça ne vous bloquera pas si vous avez 0 sur votre compte, ça vous bloquera à la",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 624.44,
+          "end_time": 624.94,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 624.545,
+          "end_time": 625.045,
+          "text": "sortie.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 625.8,
+          "end_time": 626.3,
+          "text": "d'accord",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 626.305,
+          "end_time": 632.32495,
+          "text": "D'accord À l'entrée vous pouvez très bien rentrer si vous n'avez pas le temps de recharger, vous pouvez rentrer comme ça.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 632.6,
+          "end_time": 633.1,
+          "text": "ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 633.02496,
+          "end_time": 633.26495,
+          "text": "Par",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 633.16,
+          "end_time": 633.48,
+          "text": "D'accord",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 633.26495,
+          "end_time": 633.745,
+          "text": "contre",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 633.48,
+          "end_time": 633.98,
+          "text": "et",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 633.745,
+          "end_time": 635.365,
+          "text": "avant de sortir il faut recharger.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 636.255,
+          "end_time": 641.055,
+          "text": "Et ce soir donc quand on arrive, on, qu'est-ce qu'on fait Donc on va devant, on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 640.92004,
+          "end_time": 641.08,
+          "text": "Vous",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 641.055,
+          "end_time": 641.375,
+          "text": "on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 641.08,
+          "end_time": 641.48004,
+          "text": "allez devant",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 641.375,
+          "end_time": 641.53503,
+          "text": "va",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 641.48004,
+          "end_time": 641.64,
+          "text": "la",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 641.53503,
+          "end_time": 641.81506,
+          "text": "donc",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 641.64,
+          "end_time": 642.14,
+          "text": "grille.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 641.81506,
+          "end_time": 646.995,
+          "text": "sur accueil, je vais sur accueil et c'est où qu'on qu'on trouve la barrière là.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 647.48004,
+          "end_time": 651.665,
+          "text": "Alors vous avez sur votre sur votre page d'accueil, vous avez un",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 651.47,
+          "end_time": 651.97,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 651.665,
+          "end_time": 653.695,
+          "text": "gros un gros onglet en haut, accéder.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 654.99,
+          "end_time": 663.31,
+          "text": "Non moi j'ai, quand je vais sur accueil, j'ai découvert vos prochaines étapes via mon solde et recharger. Bonjour",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 663.3,
+          "end_time": 663.8,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 663.31,
+          "end_time": 663.81,
+          "text": "information.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 664.33997,
+          "end_time": 664.83997,
+          "text": "attendez,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 664.35504,
+          "end_time": 665.17505,
+          "text": "Et puis en haut",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 665.14,
+          "end_time": 665.64,
+          "text": "donc",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 666.335,
+          "end_time": 666.835,
+          "text": "j'ai",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 667.3,
+          "end_time": 668.1,
+          "text": "vous êtes sur",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 667.995,
+          "end_time": 668.495,
+          "text": "un",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 668.1,
+          "end_time": 669.76,
+          "text": "votre accueil,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 669.655,
+          "end_time": 670.155,
+          "text": "caddie.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 670.42,
+          "end_time": 671.8,
+          "text": "vous avez un caddie en",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 671.315,
+          "end_time": 671.815,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 673.22,
+          "end_time": 673.86,
+          "text": "haut, vous n'avez",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 673.635,
+          "end_time": 673.955,
+          "text": "Il y",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 673.86,
+          "end_time": 674.36,
+          "text": "pas",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 673.955,
+          "end_time": 674.85504,
+          "text": "a marqué bonjour",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 675.3,
+          "end_time": 678.74506,
+          "text": "bonjour et en dessous, il n'y a pas marqué accéder un",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 678.515,
+          "end_time": 678.99,
+          "text": "information.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 678.74506,
+          "end_time": 679.30505,
+          "text": "onglet bleu",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 679.14996,
+          "end_time": 679.39,
+          "text": "Non,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 679.30505,
+          "end_time": 679.80505,
+          "text": "marine",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 679.39,
+          "end_time": 688.69,
+          "text": "il y a marqué information mot soft 0. Oui, mais toi tu l'as, mais regarde-moi je ne l'ai pas. Ah si excusez-moi je ne vais pas, je ne vais pas remonter assez.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 689.385,
+          "end_time": 690.04504,
+          "text": "D'accord ok",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 689.70996,
+          "end_time": 691.07,
+          "text": "D'accord. Excusez-moi",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 690.825,
+          "end_time": 691.325,
+          "text": "voilà",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 691.07,
+          "end_time": 693.63,
+          "text": "de vous faire peur. D'accord, oui je l'ai. Donc on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 693.58,
+          "end_time": 694.08,
+          "text": "voilà",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 693.63,
+          "end_time": 694.52997,
+          "text": "compte la sous.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 694.62,
+          "end_time": 700.94,
+          "text": "alors il faut tout à fait alors simple précaution il faut si vous êtes pas vous êtes habitué sur les",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 700.735,
+          "end_time": 701.235,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 700.94,
+          "end_time": 701.76,
+          "text": "airs ou pas",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 702.335,
+          "end_time": 702.97504,
+          "text": "Non non, c'est la",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 702.95,
+          "end_time": 703.45,
+          "text": "Non",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 702.97504,
+          "end_time": 704.015,
+          "text": "première fois qu'on va sur un",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 703.98505,
+          "end_time": 704.465,
+          "text": "d'accord.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 704.015,
+          "end_time": 704.755,
+          "text": "air de.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 704.465,
+          "end_time": 710.80505,
+          "text": "Donc il il faut bien bien mettre votre véhicule vraiment près de la barrière, il faut être à 30 centimètres de la barrière, d'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 711.14996,
+          "end_time": 713.17,
+          "text": "D'accord ok",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 713.18506,
+          "end_time": 713.625,
+          "text": "Ok",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 713.31,
+          "end_time": 713.81,
+          "text": "d'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 714.065,
+          "end_time": 714.465,
+          "text": "Ensuite, vous",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 714.43,
+          "end_time": 714.67,
+          "text": "la",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 714.465,
+          "end_time": 714.86505,
+          "text": "ouvrez",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 714.67,
+          "end_time": 715.17,
+          "text": "faux.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 714.86505,
+          "end_time": 720.48,
+          "text": "votre application téléphonique, vous vous appuyez sur accéder, ce qui active votre code",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 721.23,
+          "end_time": 721.98,
+          "text": "Oui, oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 721.74,
+          "end_time": 730.62,
+          "text": "et ensuite vous le tapez sur la borne vingt-six, dix-huit, vingt-trois sur la borne verte, sur la borne d'entrée et vous et vous faites entrer. Il y a une",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 730.315,
+          "end_time": 730.815,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 730.62,
+          "end_time": 731.02,
+          "text": "une flèche",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 730.875,
+          "end_time": 731.03503,
+          "text": "Là",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 731.02,
+          "end_time": 731.1,
+          "text": "en",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 731.03503,
+          "end_time": 731.195,
+          "text": "je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 731.1,
+          "end_time": 731.26,
+          "text": "bas",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 731.195,
+          "end_time": 731.695,
+          "text": "commence.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 731.26,
+          "end_time": 736.375,
+          "text": "à droite sur le clavier. Et la barrière s'ouvre.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 736.47504,
+          "end_time": 737.7,
+          "text": "Ok, Ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 737.875,
+          "end_time": 738.375,
+          "text": "D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 739.44,
+          "end_time": 745.62,
+          "text": "D'accord. Donc on on clique sur accéder, on tape notre code déjà sur notre téléphone et ou ou",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 746.19495,
+          "end_time": 746.51495,
+          "text": "Non pas",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 746.48,
+          "end_time": 746.98,
+          "text": "On",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 746.51495,
+          "end_time": 748.115,
+          "text": "sur le téléphone, sur le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 747.92,
+          "end_time": 748.42,
+          "text": "l'aborde,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 748.115,
+          "end_time": 748.47,
+          "text": "téléphone,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 748.48,
+          "end_time": 749.14,
+          "text": "on l'aborde.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 748.70996,
+          "end_time": 749.58997,
+          "text": "sur la sur la",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 749.475,
+          "end_time": 749.975,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 749.58997,
+          "end_time": 751.02997,
+          "text": "borne quand vous cliquerez",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 750.755,
+          "end_time": 751.255,
+          "text": "ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 751.02997,
+          "end_time": 755.37,
+          "text": "sur quand vous cliquez sur accéder, vous voyez votre code et il tourne",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 755.39496,
+          "end_time": 756.695,
+          "text": "Oui oui, y est, ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 756.55,
+          "end_time": 761.52997,
+          "text": "voilà et ça vous met activé jusqu'à dans 5 minutes en fait. D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 761.71497,
+          "end_time": 763.815,
+          "text": "Jusqu'à 11 heures dix-neuf, ok, ok,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 763.365,
+          "end_time": 764.725,
+          "text": "Exactement, donc vous vous faites vous",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 764.595,
+          "end_time": 765.095,
+          "text": "super.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 764.725,
+          "end_time": 765.865,
+          "text": "faites ça à l'entrée.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 766.77997,
+          "end_time": 767.27997,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 768.245,
+          "end_time": 768.485,
+          "text": "Et",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 768.38,
+          "end_time": 768.88,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 768.485,
+          "end_time": 774.66,
+          "text": "le, si vous avez le moindre souci, vous nous appelez sur le numéro que vous avez vous avez fait. S'il y a le",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 774.62,
+          "end_time": 775.12,
+          "text": "Ouais.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 774.66,
+          "end_time": 777.36,
+          "text": "moindre souci à la barrière ou ou",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 777.1,
+          "end_time": 777.76,
+          "text": "Tu perds.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 777.44,
+          "end_time": 778.52,
+          "text": "sur place.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 779.28503,
+          "end_time": 783.22504,
+          "text": "Voilà. Et c'est combien le prix des airs chez vous",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 783.14,
+          "end_time": 783.38,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 783.28503,
+          "end_time": 783.60504,
+          "text": "par",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 783.38,
+          "end_time": 783.62,
+          "text": "je vais",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 783.60504,
+          "end_time": 784.10504,
+          "text": "nuit",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 783.62,
+          "end_time": 786.44,
+          "text": "vous je vais vous dire pour Saint-Aignan, c'est ça",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 787.205,
+          "end_time": 787.705,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 787.72504,
+          "end_time": 788.465,
+          "text": "Saint-Aignan, alors je",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 792.80005,
+          "end_time": 792.88,
+          "text": "Il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 792.84503,
+          "end_time": 793.34503,
+          "text": "regarde,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 792.88,
+          "end_time": 794.96,
+          "text": "y a beaucoup de places entre enseignants ou pas",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 794.84503,
+          "end_time": 795.245,
+          "text": "justement je",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 794.96,
+          "end_time": 795.46,
+          "text": "beaucoup",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 795.245,
+          "end_time": 796.705,
+          "text": "vais je vais regarder.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 797.3867,
+          "end_time": 797.60004,
+          "text": "On ne peut",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 797.485,
+          "end_time": 797.805,
+          "text": "Moi",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 797.60004,
+          "end_time": 798.24005,
+          "text": "pas réserver",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 797.805,
+          "end_time": 798.555,
+          "text": "je suis,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 798.24005,
+          "end_time": 798.98004,
+          "text": "chez vous.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 799.05,
+          "end_time": 800.17,
+          "text": "si, mais",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 799.84,
+          "end_time": 800.34,
+          "text": "Non.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 800.17,
+          "end_time": 804.83,
+          "text": "alors il y a actuellement il y a vingt-sept places disponibles sur vingt-neuf, donc tout va bien",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 805.66504,
+          "end_time": 806.16504,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 805.93,
+          "end_time": 809.31,
+          "text": "et l'air est à 15 euros trente-deux pour les vingt-quatre heures.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 810.465,
+          "end_time": 811.745,
+          "text": "S trente-deux oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 811.705,
+          "end_time": 811.945,
+          "text": "Tout",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 811.745,
+          "end_time": 812.305,
+          "text": "j'ai vingt-quatre",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 811.945,
+          "end_time": 812.445,
+          "text": "compris,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 812.305,
+          "end_time": 812.805,
+          "text": "heures.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 812.825,
+          "end_time": 813.065,
+          "text": "tout",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 812.865,
+          "end_time": 813.365,
+          "text": "Ok",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 813.065,
+          "end_time": 813.565,
+          "text": "compris",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 813.425,
+          "end_time": 813.925,
+          "text": "d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 814.745,
+          "end_time": 816.84503,
+          "text": "taxes de séjour, services, et caetera.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 817.88,
+          "end_time": 818.38,
+          "text": "Ok",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 819.78503,
+          "end_time": 821.245,
+          "text": "Voilà, donc il y a plein de places.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 823.16003,
+          "end_time": 823.91003,
+          "text": "d'accord ok.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 824.72,
+          "end_time": 855.23,
+          "text": "Sur l'appli, vous pouvez regarder, vous vous regardez dans les airs, vous vous regardez Saint-Aignan, vous avez la disponibilité directement. Alors pour, voilà. Et si jamais vous souhaitez faire des réservations, du coup il faut souscrire à un abonnement qui coûte vingt-neuf euros pour l'année qui s'appelle le pack privilège qui vous donne la possibilité de réserver, annuler vos réservations jusqu'à quarante-huit heures avant la date, et caetera. D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 855.25,
+          "end_time": 855.75,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 855.93,
+          "end_time": 859.93,
+          "text": "Donc si jamais vous faites le choix de ou si vous avez besoin de",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 859.865,
+          "end_time": 860.365,
+          "text": "D'accord,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 859.93,
+          "end_time": 869.665,
+          "text": "faire des réservations, il faudra donc du coup dans le panier se rajoutera ces vingt-neuf euros pour l'année pour un an. D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 870.335,
+          "end_time": 872.205,
+          "text": "d'accord, ok, d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 871.805,
+          "end_time": 874.625,
+          "text": "Voilà. Très bien.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 874.17004,
+          "end_time": 876.09,
+          "text": "C'est tout bien. Et et sur vos airs, il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 876.08997,
+          "end_time": 876.58997,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 876.09,
+          "end_time": 879.21,
+          "text": "y a quoi comme service L'eau, les, la tour",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 879.29,
+          "end_time": 902.815,
+          "text": "l'eau, la vidange, l'eau, vous avez des bornes donc électriques. Par contre, j'attire votre attention sur le fait que les bornes, c'est que 6 ampères, elles sont faites pour recharger les batteries du camping-car en fait. D'accord Voilà, parce que si jamais on branche un chauffage directement sur la borne, plus un je ne sais quoi, ça saute. D'accord",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 902.57,
+          "end_time": 903.07,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 903.635,
+          "end_time": 903.955,
+          "text": "Donc il",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 903.85,
+          "end_time": 904.01,
+          "text": "Non",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 903.955,
+          "end_time": 904.455,
+          "text": "faut,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 904.01,
+          "end_time": 906.19,
+          "text": "non nous on a quand même un petit chauffage ça va.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 906.02997,
+          "end_time": 907.17,
+          "text": "d'accord et",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 906.89,
+          "end_time": 907.71,
+          "text": "On verra.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 907.79,
+          "end_time": 921.285,
+          "text": "éventuellement donc utiliser l'électricité pour recharger votre batterie et et brancher vos appareils à l'intérieur sur sur votre batterie du coup ou au ou au gaz enfin voilà.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 922.185,
+          "end_time": 922.685,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 922.88495,
+          "end_time": 923.44495,
+          "text": "Et donc et",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 923.305,
+          "end_time": 923.54504,
+          "text": "Ok,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 923.44495,
+          "end_time": 923.605,
+          "text": "donc",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 923.54504,
+          "end_time": 924.04504,
+          "text": "d'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 923.605,
+          "end_time": 931.46497,
+          "text": "sinon il YA0 là là il y a l'eau, la vidange, il y a de l'eau de rinçage pour votre bac et caetera.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 932.48,
+          "end_time": 934.64,
+          "text": "D'accord ok. C'est tout.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 934.57196,
+          "end_time": 935.07196,
+          "text": "Écoutez,",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 934.64,
+          "end_time": 935.74,
+          "text": "Bien je vous remercie. Super.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 936.092,
+          "end_time": 938.092,
+          "text": "je vous en prie, bonne bonne",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 937.84,
+          "end_time": 938.34,
+          "text": "Merci",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 938.092,
+          "end_time": 938.73193,
+          "text": "journée et",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 938.72,
+          "end_time": 938.96,
+          "text": "bonne",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 938.73193,
+          "end_time": 939.39197,
+          "text": "bonne visite.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 938.96,
+          "end_time": 939.46,
+          "text": "journée.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        },
+        {
+          "start_time": 939.69196,
+          "end_time": 940.352,
+          "text": "Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1522955
+        },
+        {
+          "start_time": 940.16,
+          "end_time": 941.06,
+          "text": "Oui au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_60"
+        }
+      ]
+    }
+  }
+}

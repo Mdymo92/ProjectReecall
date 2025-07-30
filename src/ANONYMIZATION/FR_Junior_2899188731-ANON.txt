@@ -1,0 +1,272 @@
+{
+  "transcription": {
+    "id": 421600638,
+    "call_id": 2899188731,
+    "call_created_at": "2025-06-20T13:21:26.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.8399999,
+          "end_time": 3.46,
+          "text": "Camping-car par Kizza bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 4.16,
+          "end_time": 13.46,
+          "text": "Bonjour madame Perrot, je cherche à joindre le responsable des prestations externes sur l'établissement s'il vous plaît, soit les achats ou le les services généraux.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 15.435,
+          "end_time": 16.335,
+          "text": "C'est pour",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 17.064999,
+          "end_time": 21.805,
+          "text": "C'est pour faire le point sur les prestations et l'environnement du travail. La personne est disponible",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 22.075,
+          "end_time": 23.295,
+          "text": "Oui, je vais me renseigner.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 24.185,
+          "end_time": 25.244999,
+          "text": "Ok super merci.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 70.455,
+          "end_time": 70.535,
+          "text": "Allô",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 72.195,
+          "end_time": 72.695,
+          "text": "Oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 75.495,
+          "end_time": 76.235,
+          "text": "Oui bonjour",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 77.635,
+          "end_time": 80.615,
+          "text": "Bonjour, je suis madame, ah oui, je suis, je peux revenir à la caille",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 80.535,
+          "end_time": 82.135,
+          "text": "madame. Oui, vous êtes au service création",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 82.035,
+          "end_time": 82.195,
+          "text": "Ah",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 82.135,
+          "end_time": 82.375,
+          "text": "client,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 82.195,
+          "end_time": 82.695,
+          "text": "oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 82.375,
+          "end_time": 85.619995,
+          "text": "je vous écoute. Comment je peux vous aider Dites-moi, vous cherchez",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 85.395,
+          "end_time": 85.875,
+          "text": "Je cherche",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 85.619995,
+          "end_time": 86.1,
+          "text": "à joindre",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 85.875,
+          "end_time": 86.455,
+          "text": "à joindre",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 86.1,
+          "end_time": 86.6,
+          "text": "qui",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 86.9,
+          "end_time": 89.06,
+          "text": "le responsable des achats ou des services",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 89.03333,
+          "end_time": 89.53333,
+          "text": "C'est",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 89.06,
+          "end_time": 90.2,
+          "text": "généraux s'il vous",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 90.5,
+          "end_time": 90.659996,
+          "text": "à",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 90.58,
+          "end_time": 91.08,
+          "text": "plaît.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 90.659996,
+          "end_time": 92.04,
+          "text": "quel sujet exactement",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 92.34,
+          "end_time": 92.58,
+          "text": "C'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 92.5,
+          "end_time": 92.74,
+          "text": "C'est",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 92.58,
+          "end_time": 92.82,
+          "text": "pour faire",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 92.74,
+          "end_time": 93.24,
+          "text": "pour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 92.82,
+          "end_time": 95.8,
+          "text": "le point sur les prestations externes et l'environnement du travail.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 96.58,
+          "end_time": 115.92,
+          "text": "Parce que là, je n'ai personne de disponible là cet après-midi, donc je ne peux pas vous transférer l'appel. Est-ce que vous pouvez envoyer un Alors attendez, il faut juste que je retrouve l'adresse email. Ça va être administratif arobase camping-car parc point com.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 117.51,
+          "end_time": 120.09,
+          "text": "D'accord et le nom de la personne qui est en charge de ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 120.64,
+          "end_time": 124.02,
+          "text": "Le, je n'ai que le nom de du directeur financier, c'est monsieur Deferroir.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 125.206184,
+          "end_time": 127.46619,
+          "text": "D'accord, très bien. Merci beaucoup.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 127.6,
+          "end_time": 129.14,
+          "text": "Je vous en prie, au revoir madame.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 128.96619,
+          "end_time": 130.26619,
+          "text": "Bonne journée, au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_94"
+        },
+        {
+          "start_time": 129.92,
+          "end_time": 130.67613,
+          "text": "Merci, au revoir.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        }
+      ]
+    }
+  }
+}

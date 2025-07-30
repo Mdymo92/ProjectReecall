@@ -1,0 +1,755 @@
+{
+  "transcription": {
+    "id": 420597176,
+    "call_id": 2895986520,
+    "call_created_at": "2025-06-19T13:24:56.000Z",
+    "type": "call",
+    "content": {
+      "language": "en",
+      "utterances": [
+        {
+          "start_time": 0.56,
+          "end_time": 2.8,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 2.8,
+          "end_time": 11.679999,
+          "text": "Hello. Do you speak English, please? Hello? Oh, so",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 11.12,
+          "end_time": 12.32,
+          "text": "Yes. I do.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 12,
+          "end_time": 15.04,
+          "text": "I'm I'm currently at La Petrie,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 15.679999,
+          "end_time": 16,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 17.474998,
+          "end_time": 20.435,
+          "text": "and I thought I'd paid for two nights,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 20.615,
+          "end_time": 21.335,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 21.715,
+          "end_time": 24.195,
+          "text": "but it says I I'm going tomorrow.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 24.615,
+          "end_time": 25.415,
+          "text": "Mhmm.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 26.595,
+          "end_time": 27.074999,
+          "text": "Also,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 27.654999,
+          "end_time": 27.975,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 28.77,
+          "end_time": 38.53,
+          "text": "I went to the machine, and I thought I added two more nights. And, it's still saying I've gotta go tomorrow. It's really bad.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 40.15,
+          "end_time": 43.19,
+          "text": "Yeah. You have to go tomorrow? What do you mean?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 43.285,
+          "end_time": 45.685,
+          "text": "No. I don't want to go tomorrow.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 45.655,
+          "end_time": 46.375,
+          "text": "Yeah?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 45.685,
+          "end_time": 49.205,
+          "text": "But when I I look on on the app,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 49.415,
+          "end_time": 50.135,
+          "text": "Mhmm.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 49.445,
+          "end_time": 53.925,
+          "text": "it says, leave on the twentieth.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 55.815,
+          "end_time": 62.28,
+          "text": "Okay. As I see ah, oh, you want you wanted to book for",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 63.31,
+          "end_time": 65.39,
+          "text": "I want four nights in total.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 65.88,
+          "end_time": 86.065,
+          "text": "okay. Oh, I think it's maybe you didn't understand all the hub work. It's happened a lot with people. They don't know that there is one you choose when you arrive. And on the bottom, you have another window when you can put the day you wanna leave.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 86.065,
+          "end_time": 86.945,
+          "text": "And a lot of people",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 87.26,
+          "end_time": 88.7,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 87.27,
+          "end_time": 90.149994,
+          "text": "don't understand that and just see that",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 89.9,
+          "end_time": 90.3,
+          "text": "It's not",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 90.149994,
+          "end_time": 90.46999,
+          "text": "this",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 90.3,
+          "end_time": 90.54,
+          "text": "very",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 90.46999,
+          "end_time": 90.63,
+          "text": "is",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 90.54,
+          "end_time": 91.340004,
+          "text": "clear.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 91.42999,
+          "end_time": 96.63,
+          "text": "yes. You just have another window on the bottom. That's why.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 97.18,
+          "end_time": 97.5,
+          "text": "Can",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 97.35,
+          "end_time": 98.07,
+          "text": "I",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 97.5,
+          "end_time": 97.98,
+          "text": "you do it?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 98.07,
+          "end_time": 104.505005,
+          "text": "see yes. I see that you have booked for tomorrow to the '21.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 106.205,
+          "end_time": 106.525,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 107.065,
+          "end_time": 112.425,
+          "text": "Okay. So you want the for today to the 2023?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 113.479996,
+          "end_time": 115.079994,
+          "text": "Four nights in total.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 115.465004,
+          "end_time": 129.9,
+          "text": "Okay. So that's why. I'm gonna delete your your booking. Okay.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 131.625,
+          "end_time": 136.185,
+          "text": "I thought I'd done it on the machine here, but obviously not.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 137.535,
+          "end_time": 154.04999,
+          "text": "Let's look back. Okay. So it's for today. Now to to show '1, 02/03. Yeah.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 154.04999,
+          "end_time": 156.45,
+          "text": "To the '23. Okay?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 157.16501,
+          "end_time": 160.845,
+          "text": "Is it the twenty third? What what day is it today, John?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 161.625,
+          "end_time": 161.94499,
+          "text": "We",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 161.645,
+          "end_time": 162.285,
+          "text": "Oh,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 161.94499,
+          "end_time": 163.465,
+          "text": "we are the '19.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 163.085,
+          "end_time": 165.485,
+          "text": "it's the nineteenth. Oh, okay. Yes. To the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 165.465,
+          "end_time": 165.70499,
+          "text": "So",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 165.485,
+          "end_time": 165.80501,
+          "text": "twenty",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 165.70499,
+          "end_time": 166.345,
+          "text": "nineteenth",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 165.80501,
+          "end_time": 166.205,
+          "text": "third.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 166.345,
+          "end_time": 168.025,
+          "text": "to the '23,",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 167.75,
+          "end_time": 168.39,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 168.665,
+          "end_time": 179.93,
+          "text": "and the reservation starts now. So that's three and a half PM, and you will have to leave on the '23 before three",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 179.83,
+          "end_time": 180.06999,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 179.93,
+          "end_time": 180.17,
+          "text": "and",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 180.06999,
+          "end_time": 180.23,
+          "text": "It'd",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 180.17,
+          "end_time": 180.33,
+          "text": "a",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 180.23,
+          "end_time": 180.55,
+          "text": "be the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 180.33,
+          "end_time": 180.89,
+          "text": "half PM.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 180.55,
+          "end_time": 184.48502,
+          "text": "twenty fourth, won't it? It'll be twenty fourth. We want four nights.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 184.955,
+          "end_time": 187.115,
+          "text": "Yes. But you have four nights if you start",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 187.045,
+          "end_time": 187.84502,
+          "text": "Ah,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 187.115,
+          "end_time": 188.235,
+          "text": "now. You have",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 188.16501,
+          "end_time": 188.96501,
+          "text": "okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 188.235,
+          "end_time": 190.955,
+          "text": "the the this two nights, the one",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 190.80501,
+          "end_time": 191.205,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 190.955,
+          "end_time": 196.155,
+          "text": "between '20 and '21, 2021, '22, and '22, '23. This is four nights.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 197.12,
+          "end_time": 198.40001,
+          "text": "Okay. Leave",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 198.76,
+          "end_time": 199.24,
+          "text": "Do you",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 199.2,
+          "end_time": 199.44,
+          "text": "on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 199.24,
+          "end_time": 199.4,
+          "text": "want",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 199.44,
+          "end_time": 200.64001,
+          "text": "Monday morning.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 202.2,
+          "end_time": 203.64,
+          "text": "yes. On",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 203.6,
+          "end_time": 203.84,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 203.64,
+          "end_time": 207.08,
+          "text": "Monday morning or in the beginning of the afternoon, if you want. You have",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 207.015,
+          "end_time": 207.73502,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 207.08,
+          "end_time": 209.88,
+          "text": "you have to leave before three and a half PM.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 210.695,
+          "end_time": 212.13501,
+          "text": "Thank you. Lovely.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 211.75499,
+          "end_time": 213.515,
+          "text": "Okay. Is it great for you?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 213.975,
+          "end_time": 215.015,
+          "text": "Yes. It's great. It's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 214.955,
+          "end_time": 215.515,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 215.015,
+          "end_time": 215.655,
+          "text": "fantastic.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 215.515,
+          "end_time": 215.99501,
+          "text": "I",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 215.655,
+          "end_time": 216.77501,
+          "text": "Thank you very, very much.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 217.995,
+          "end_time": 221.19499,
+          "text": "will pay with the money you have on your account. Isn't great.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 221.12999,
+          "end_time": 226.01,
+          "text": "Yes. Thank you. But I've already paid for, I thought, two nights, but",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 225.96,
+          "end_time": 226.44,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 226.01,
+          "end_time": 226.65,
+          "text": "obviously",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 226.44,
+          "end_time": 226.68001,
+          "text": "I",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 226.65,
+          "end_time": 227.29001,
+          "text": "not.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 226.68001,
+          "end_time": 228.2,
+          "text": "delete them, so the",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 228.01,
+          "end_time": 228.73,
+          "text": "Alright.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 228.2,
+          "end_time": 228.76,
+          "text": "money is back",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 228.73,
+          "end_time": 229.45,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 228.76,
+          "end_time": 229.72,
+          "text": "on your account.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 229.93,
+          "end_time": 230.81,
+          "text": "Thank you.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 231.64,
+          "end_time": 259.47845,
+          "text": "Okay. Okay. Great. So now we have a reservation, sorry, from the nineteenth, so today, to the '23, Okay?",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 259.425,
+          "end_time": 259.745,
+          "text": "Thank",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 259.47845,
+          "end_time": 259.79846,
+          "text": "For",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 259.745,
+          "end_time": 259.905,
+          "text": "you",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 259.79846,
+          "end_time": 260.03845,
+          "text": "four",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 259.905,
+          "end_time": 260.145,
+          "text": "very",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 260.03845,
+          "end_time": 260.67847,
+          "text": "nights.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 260.145,
+          "end_time": 262.065,
+          "text": "much. Lovely.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        },
+        {
+          "start_time": 262.59845,
+          "end_time": 263.55844,
+          "text": "Have a good day.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 264.145,
+          "end_time": 268.145,
+          "text": "And you. Thank you very much. Bye bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_33"
+        }
+      ]
+    }
+  }
+}

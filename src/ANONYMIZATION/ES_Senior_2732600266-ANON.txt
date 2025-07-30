@@ -1,0 +1,307 @@
+{
+  "transcription": {
+    "id": 369220839,
+    "call_id": 2732600266,
+    "call_created_at": "2025-04-14T12:45:05.000Z",
+    "type": "call",
+    "content": {
+      "language": "es",
+      "utterances": [
+        {
+          "start_time": 0.04,
+          "end_time": 0.42,
+          "text": "¿Ya me pongo?",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 2.812,
+          "end_time": 3.152,
+          "text": "Sí, hola.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 4.082,
+          "end_time": 4.883,
+          "text": "Hola, gracias.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 7.776,
+          "end_time": 8.516,
+          "text": "¿En español habla?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 9.285,
+          "end_time": 9.786,
+          "text": "Sí, un poco.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 12.739,
+          "end_time": 17.53,
+          "text": "Sí, oye, ¿Está en señas?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 20.825,
+          "end_time": 27.096,
+          "text": "no, he salido ya de Sex Noise, pero me sale como que estoy todavía adentro, Oh, porque hemos tenido que salir por la puerta de entrada, vale.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 28.29,
+          "end_time": 30.712,
+          "text": "estaba rota el ticket.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 32.181,
+          "end_time": 35.304,
+          "text": "El lado de barrera no funcionaba y hemos tenido que salir todos por la entrada.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 35.828,
+          "end_time": 36.068,
+          "text": "Ok, ok.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 37.809,
+          "end_time": 42.813,
+          "text": "¿Se quedan en el área por un día o más?",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 42.27,
+          "end_time": 45.753,
+          "text": "No, no, estoy fuera, yo ya no estoy en el área, no estoy.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 45.255,
+          "end_time": 46.416,
+          "text": "Sí, sí.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 46.556,
+          "end_time": 50.6,
+          "text": "Estaba en el área por un día solamente.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 51.438,
+          "end_time": 58.264,
+          "text": "No, llevaba varios días ya y tenía ya todo pagado para justo salir hoy, antes de las seis.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 61.32,
+          "end_time": 62.781,
+          "text": "¿Hoy o de ayer?",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 62.732,
+          "end_time": 63.601,
+          "text": "Sí, Hoy.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 64.994,
+          "end_time": 67.236,
+          "text": "hoy antes de las seis tenía para salir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 67.744,
+          "end_time": 67.864,
+          "text": "Ok.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 68.104,
+          "end_time": 69.865,
+          "text": "Voy a registrar su salida.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 73.681,
+          "end_time": 75.482,
+          "text": "¿Le hace falta el número matrícula o algo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 76.368,
+          "end_time": 78.729,
+          "text": "Con su número de teléfono tengo su cuenta.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 79.05,
+          "end_time": 80.41,
+          "text": "Ignacio Uriagorja.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 79.646,
+          "end_time": 82.668,
+          "text": "Ah, eso es, eso es, sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 83.512,
+          "end_time": 83.752,
+          "text": "Bien.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 83.852,
+          "end_time": 85.113,
+          "text": "A las 6.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 86.934,
+          "end_time": 87.094,
+          "text": "Ok.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 87.314,
+          "end_time": 90.856,
+          "text": "Está registrado que no está en el área.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 91.484,
+          "end_time": 92.645,
+          "text": "Ahora, ya ha salido.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 92.68,
+          "end_time": 94.521,
+          "text": "Ahora está registrado que le he salido ya.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 94.822,
+          "end_time": 96.523,
+          "text": "Vale, Sí, sí, perfecto, perfecto.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 96.524,
+          "end_time": 100.886,
+          "text": "Es que además iba a volver en un par de días y iba a tener luego problemas para entrar o lo que sea.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 101.346,
+          "end_time": 102.787,
+          "text": "Ahora entonces está todo correcto, ¿no?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 104.134,
+          "end_time": 106.556,
+          "text": "sí.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 104.648,
+          "end_time": 105.048,
+          "text": "Vale.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 105.449,
+          "end_time": 106.93,
+          "text": "Muchísimas gracias, muy amable.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 106.596,
+          "end_time": 106.957,
+          "text": "De nada.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 107.377,
+          "end_time": 108.278,
+          "text": "Que tengan buen día.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 107.87,
+          "end_time": 108.511,
+          "text": "Hasta luego.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 108.738,
+          "end_time": 109.318,
+          "text": "Hasta luego.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        },
+        {
+          "start_time": 109.091,
+          "end_time": 110.292,
+          "text": "Lo mismo, hasta luego.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_96"
+        },
+        {
+          "start_time": 110.319,
+          "end_time": 111.12,
+          "text": "Gracias, hasta luego.",
+          "participant_type": "internal",
+          "user_id": 1460746
+        }
+      ]
+    }
+  }
+}

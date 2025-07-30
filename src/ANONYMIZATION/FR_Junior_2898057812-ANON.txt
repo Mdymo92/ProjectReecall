@@ -1,0 +1,279 @@
+{
+  "transcription": {
+    "id": 421265700,
+    "call_id": 2898057812,
+    "call_created_at": "2025-06-20T07:59:34.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 5.8399997,
+          "end_time": 6.3399997,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 6,
+          "end_time": 15.46,
+          "text": "Allô, allô, oui bonjour madame, coupez haut-parleur. Monsieur Pouplier, je ne sais pas si vous arrivez à accéder à mon",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 15.295,
+          "end_time": 15.8550005,
+          "text": "Oui oui je",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 15.725,
+          "end_time": 16.045,
+          "text": "à mon",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 15.8550005,
+          "end_time": 16.095,
+          "text": "l'ai",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 16.045,
+          "end_time": 16.545,
+          "text": "profil,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 16.095,
+          "end_time": 16.595,
+          "text": "oui.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 17.165,
+          "end_time": 27.244999,
+          "text": "vous l'avez. Bon, si vous voyez, je suis sur actuellement sur le gros du roi, dans l'aire du gros du roi. Donc j'ai prolongé mon mon séjour, c'est-à-dire que j'ai refait une",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 27.24,
+          "end_time": 27.74,
+          "text": "Oui",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 27.244999,
+          "end_time": 34.04,
+          "text": "réservation derrière et j'ai 3 minutes d'écart entre ma sortie et mon entrée.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 34.28,
+          "end_time": 42.47,
+          "text": "Alors ce n'est pas très grave, vous avez 5 minutes en soi de de de battements qui sont gratuits, ça ne va pas vous payer quoi que ce soit, d'accord",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 42.995003,
+          "end_time": 49.655003,
+          "text": "De toute façon, je ne vais pas payer puisque moi j'ai le le souci, c'est que je veux savoir juste si je dois sortir ou pas.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 49.655003,
+          "end_time": 51.095,
+          "text": "Non non non ça va se reprendre, vous",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 51.075,
+          "end_time": 51.235,
+          "text": "Je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 51.095,
+          "end_time": 51.415,
+          "text": "restez",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 51.235,
+          "end_time": 51.555,
+          "text": "ne dois pas",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 51.415,
+          "end_time": 51.575,
+          "text": "sur",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 51.555,
+          "end_time": 52.055,
+          "text": "faire",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 51.575,
+          "end_time": 52.075,
+          "text": "l'air,",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 52.067,
+          "end_time": 52.567,
+          "text": "de",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 52.375,
+          "end_time": 52.615,
+          "text": "non",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 52.579002,
+          "end_time": 53.079002,
+          "text": "sorte,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 52.615,
+          "end_time": 53.115,
+          "text": "non",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 53.091,
+          "end_time": 53.591,
+          "text": "je",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 53.335,
+          "end_time": 53.655003,
+          "text": "non, il",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 53.603,
+          "end_time": 54.103,
+          "text": "peux",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 53.655003,
+          "end_time": 54.135002,
+          "text": "n'y a pas de",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 54.115,
+          "end_time": 54.435,
+          "text": "faire,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 54.135002,
+          "end_time": 54.635002,
+          "text": "souci.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 54.435,
+          "end_time": 59.39,
+          "text": "je peux rester sur l'air et pas ressortir et rerentrer parce que j'ai 3 minutes de département. De l'attente,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 59.22,
+          "end_time": 63.96,
+          "text": "Oui mais comme je vous ai dit il y a il y a 5 minutes de de latence donc tout va bien.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 64.57,
+          "end_time": 66.33,
+          "text": "bon donc il n'y a pas de souci, je peux rester",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 66.1,
+          "end_time": 66.6,
+          "text": "Oui.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 66.33,
+          "end_time": 69.01775,
+          "text": "sans souci jusque dimanche vingt-neuf, voilà.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 68.85775,
+          "end_time": 69.75775,
+          "text": "C'est ça.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 70.35775,
+          "end_time": 73.417755,
+          "text": "Ok, bon c'est très bien, bonjour merci, bon courage à vous.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        },
+        {
+          "start_time": 73.57775,
+          "end_time": 74.63775,
+          "text": "Voilà. Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1625621
+        },
+        {
+          "start_time": 74.197754,
+          "end_time": 75.737755,
+          "text": "Bonne fin de journée, au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_90"
+        }
+      ]
+    }
+  }
+}

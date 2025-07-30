@@ -1,0 +1,111 @@
+{
+  "transcription": {
+    "id": 421463885,
+    "call_id": 2898735133,
+    "call_created_at": "2025-06-20T10:58:48.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.92,
+          "end_time": 12.179999,
+          "text": "Bonjour monsieur Christian, air de camping-car Azur dans les Landes. Je vous appelle parce que vous m'avez laissé un message il y a un petit moment, il y a 3 quarts d'heure je pense.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 12,
+          "end_time": 12.5,
+          "text": "Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 13.165,
+          "end_time": 13.665,
+          "text": "Alors",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 13.599999,
+          "end_time": 13.759999,
+          "text": "Oui,",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 13.745,
+          "end_time": 14.245,
+          "text": "de",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 13.759999,
+          "end_time": 14.58,
+          "text": "je regarde",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 14.325001,
+          "end_time": 15.405001,
+          "text": "quoi s'agit-il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 15.28,
+          "end_time": 15.645,
+          "text": "ça.",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 15.485001,
+          "end_time": 15.885,
+          "text": "s'il vous",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 15.805,
+          "end_time": 16.305,
+          "text": "Je",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 15.885,
+          "end_time": 16.385,
+          "text": "plaît",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 17.805,
+          "end_time": 39.71,
+          "text": "reprends le dossier. Ok. En fait, on a la bande de sortie qui est déconnectée et la connexion est vraiment très instable. C'est pour savoir si possible de se rendre sur place pour la redémarrer manuellement et qu'on regarde, qu'on fasse des vérifications.",
+          "participant_type": "internal",
+          "user_id": 1586976
+        },
+        {
+          "start_time": 40.545,
+          "end_time": 46.164997,
+          "text": "Oui, d'accord. Bon, écoutez, je vais voir ça tout à l'heure. Je je vous appelle quand je suis sur place.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_87"
+        },
+        {
+          "start_time": 46.502125,
+          "end_time": 47.562122,
+          "text": "Ok, je vous remercie.",
+          "participant_type": "internal",
+          "user_id": 1586976
+        }
+      ]
+    }
+  }
+}

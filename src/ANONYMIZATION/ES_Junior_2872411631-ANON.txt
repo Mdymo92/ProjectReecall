@@ -1,0 +1,384 @@
+{
+  "transcription": {
+    "id": 413194967,
+    "call_id": 2872411631,
+    "call_created_at": "2025-06-11T07:19:10.000Z",
+    "type": "call",
+    "content": {
+      "language": "es",
+      "utterances": [
+        {
+          "start_time": 0.58,
+          "end_time": 11.186,
+          "text": "¡Hola!",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 2.452,
+          "end_time": 3.832,
+          "text": "Hola, hola señor.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 4.153,
+          "end_time": 4.853,
+          "text": "¿Hablas inglés?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 9.454,
+          "end_time": 9.654,
+          "text": "Hola.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 10.435,
+          "end_time": 10.755,
+          "text": "Sí, sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 10.935,
+          "end_time": 11.515,
+          "text": "I am English.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 12.715,
+          "end_time": 13.036,
+          "text": "English.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 13.827,
+          "end_time": 14.567,
+          "text": "¿Sí?",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 14.636,
+          "end_time": 14.756,
+          "text": "OK.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 15.797,
+          "end_time": 26.02,
+          "text": "I am trying to exit the camping car park at Onda, Spain, and the barrier is not working.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 28.052,
+          "end_time": 31.313,
+          "text": "Ok, estás en Honda y no está funcionando, déjame ver.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 31.314,
+          "end_time": 35.334,
+          "text": "Sí, en realidad está descargado.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 35.335,
+          "end_time": 41.416,
+          "text": "Déjame ver si puedo abrirlo de otra manera.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 40.134,
+          "end_time": 50.558,
+          "text": "Ok, voy a darles un código.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 41.596,
+          "end_time": 45.257,
+          "text": "Sí, ese será probablemente un código que te daré a la izquierda.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 45.258,
+          "end_time": 57.36,
+          "text": "Ok, podría intentar hablar español, pero...",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 50.638,
+          "end_time": 51.098,
+          "text": "Gracias.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 51.258,
+          "end_time": 55.66,
+          "text": "Lo repetiré.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 57.4,
+          "end_time": 61.101,
+          "text": "porque no soy tan bueno en esa lengua.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 62.353,
+          "end_time": 62.753,
+          "text": "No, no.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 63.193,
+          "end_time": 68.215,
+          "text": "Your English is very good and mi español no bueno.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 67.103,
+          "end_time": 70.884,
+          "text": "Español es un poquito no bien.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 74.377,
+          "end_time": 75.877,
+          "text": "Muy bien, señor, muy bien.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 75.965,
+          "end_time": 77.505,
+          "text": "Es más difícil en español.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 80.326,
+          "end_time": 86.888,
+          "text": "No sé, no sé si es la palabra para trabajar en la lengua.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 87.188,
+          "end_time": 167.22,
+          "text": "no tengo esas palabras en español, así que en la c, bien, así que tengo dos códigos que me dijeron que funcionaba, déjame ver el anuncio, el anuncio, tengo que ver el anuncio, oh sí, eran 10 días, no 5 o 6 días atrás oh si, probablemente les dieron un código ok, entonces tengo que codificar tu lo escribes y me dirás si está funcionando o no así que el primero 5, 2, 1 7 6 1 0 8 y la cinta, sí.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 93.62,
+          "end_time": 125.982,
+          "text": "anda también y también ya la familia ya se han ido y tienen el mismo problema.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 125.983,
+          "end_time": 130.766,
+          "text": "Sí, sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 130.767,
+          "end_time": 145.018,
+          "text": "¿De acuerdo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 145.138,
+          "end_time": 147.48,
+          "text": "Sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 151.403,
+          "end_time": 152.083,
+          "text": "Sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 152.084,
+          "end_time": 152.123,
+          "text": "Sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 152.124,
+          "end_time": 152.324,
+          "text": "Siete.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 152.325,
+          "end_time": 152.564,
+          "text": "Sí.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 154.532,
+          "end_time": 199.032,
+          "text": "1 0 8 y entra Jack con la botona con la cinta esa es la no no solo dice no nada solo entra otro tu código nada ha pasado 7, 6, 3, 8, 8, 6, 2, y luego Entra.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 167.24,
+          "end_time": 169.421,
+          "text": "¿Está mostrando un trato encore?",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 172.063,
+          "end_time": 172.183,
+          "text": "No.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 173.544,
+          "end_time": 174.204,
+          "text": "Ponga el código.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 177.984,
+          "end_time": 210.57,
+          "text": "si, si, ok, ok, ah, entonces el otro, 763-8862, si, ok, mmm ¿Está listo?",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 199.072,
+          "end_time": 205.717,
+          "text": "No, nada más.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 205.777,
+          "end_time": 208.66,
+          "text": "Sí, la barrera está arriba.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 208.98,
+          "end_time": 210.061,
+          "text": "La barrera está arriba.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 210.062,
+          "end_time": 211.642,
+          "text": "Muchas gracias, de verdad.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 211.391,
+          "end_time": 217.715,
+          "text": "No hay problema.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 211.702,
+          "end_time": 213.224,
+          "text": "¿De acuerdo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 213.225,
+          "end_time": 213.764,
+          "text": "De acuerdo.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 214.649,
+          "end_time": 220.9,
+          "text": "Y tu inglés es muy, muy bueno.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 219.116,
+          "end_time": 219.837,
+          "text": "Buenos días.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 221.02,
+          "end_time": 222.502,
+          "text": "Bueno, ya.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 222.503,
+          "end_time": 223.123,
+          "text": "Hasta luego.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        },
+        {
+          "start_time": 224.24,
+          "end_time": 224.36,
+          "text": "Adiós.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 224.44,
+          "end_time": 224.76,
+          "text": "Adiós.",
+          "participant_type": "internal",
+          "user_id": 1616846
+        },
+        {
+          "start_time": 225.748,
+          "end_time": 227.07,
+          "text": "Adiós.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_24"
+        }
+      ]
+    }
+  }
+}

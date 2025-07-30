@@ -1,0 +1,552 @@
+{
+  "transcription": {
+    "id": 421613396,
+    "call_id": 2899201098,
+    "call_created_at": "2025-06-20T13:24:31.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.52,
+          "end_time": 2.72,
+          "text": "Donc je crois qu'on me situe",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 2.56,
+          "end_time": 3.06,
+          "text": "Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 2.72,
+          "end_time": 11.5199995,
+          "text": "à la carte. Bonjour. J'aurais aimé savoir où on pouvait acheter la carte, votre carte. Il",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 11.36,
+          "end_time": 11.5199995,
+          "text": "La",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 11.5199995,
+          "end_time": 11.92,
+          "text": "connaît",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 11.5199995,
+          "end_time": 12.16,
+          "text": "carte d'accès",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 11.92,
+          "end_time": 12.24,
+          "text": "où",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 12.16,
+          "end_time": 15.175,
+          "text": "camping-car parc. Est-ce que vous avez déjà un compte",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 14.96,
+          "end_time": 15.165,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 15.175,
+          "end_time": 22.075,
+          "text": "chez nous ou pas du tout Alors du coup vous allez avoir 2 possibilités, soit sur une de nos aires vous allez pouvoir",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 22.685,
+          "end_time": 23.185,
+          "text": "Non.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 22.695,
+          "end_time": 29.41,
+          "text": "vous créer un compte sur sur une borne et du coup faire l'achat de la carte. Sinon vous pouvez créer un",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 29.18,
+          "end_time": 35.52,
+          "text": "Mais mais alors elle sera, où est-ce qu'elle sera, ah on n'a pas de carte physique, c'est ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 35.25,
+          "end_time": 43.325,
+          "text": "Ah si vous pouvez acheter une carte physique auprès de auprès de l'automate sur sur l'air où vous souhaitez aller. Sinon la deuxième possibilité c'est vous faites l'achat",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 43.155,
+          "end_time": 43.655,
+          "text": "Mais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 43.325,
+          "end_time": 44.205,
+          "text": "d'une d'une carte",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 44.195,
+          "end_time": 44.695,
+          "text": "mais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 44.205,
+          "end_time": 48.465,
+          "text": "digitale sur l'application et là auquel cas vous n'avez pas de carte vous avez un code.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 51.155,
+          "end_time": 56.25,
+          "text": "on est devant une, on est devant",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 57.12,
+          "end_time": 57.62,
+          "text": "D'accord.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 57.75,
+          "end_time": 63.85,
+          "text": "on est devant une de vos stations, mais on n'a pas vu comment on pouvait acheter une carte.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 64,
+          "end_time": 66.42,
+          "text": "Et vous avez créé votre compte sur l'automate",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 66.71,
+          "end_time": 67.21,
+          "text": "Non.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 67.36,
+          "end_time": 77.545,
+          "text": "Alors sur sur l'air normalement il y a une borne blanche, une grosse borne blanche à l'entrée de l'air. Vous allez pouvoir créer votre compte et faire l'achat de la carte sur sur cet automate-là.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 79.315,
+          "end_time": 81.495,
+          "text": "Une bosse gris plutôt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 81.765,
+          "end_time": 83.685,
+          "text": "Oui gris blanche oui effectivement",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 83.555,
+          "end_time": 84.055,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 83.685,
+          "end_time": 84.06,
+          "text": "gris.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 85.270004,
+          "end_time": 89.13,
+          "text": "Oui, accéder à l'air, c'est ça",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 90.06,
+          "end_time": 91.28,
+          "text": "Vous êtes sur quelle heure madame",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 95.785,
+          "end_time": 109.085,
+          "text": "Vos vos gels grunes. Rosel Grüne, l'île du Rhin. Là on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 108.875,
+          "end_time": 109.375,
+          "text": "Parfait.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 109.085,
+          "end_time": 115.505,
+          "text": "n'arrive pas, on n'arrive pas à voir grand-chose. Ouais, c'est qui. À cause du soleil.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 116.439995,
+          "end_time": 124.455,
+          "text": "Alors si vous voulez, moi je peux faire la création de votre carte et après j'essaierai de vous délivrer une carte. Alors",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 124.34,
+          "end_time": 124.82,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 124.455,
+          "end_time": 124.855,
+          "text": "je vais",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 124.82,
+          "end_time": 125.32,
+          "text": "Oui.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 124.855,
+          "end_time": 140.75,
+          "text": "avoir besoin d'un de quelques informations. On va pouvoir commencer. Je vais prendre un prénom s'il vous plaît. Un prénom, un nom pardon,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 142.295,
+          "end_time": 142.795,
+          "text": "Serge.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 146.09001,
+          "end_time": 158.995,
+          "text": "une famille. HMB0E. Une adresse mail.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 177.77,
+          "end_time": 180.95001,
+          "text": "Non, turbulence bébé.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 180.995,
+          "end_time": 181.235,
+          "text": "Alors",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 181.05,
+          "end_time": 181.55,
+          "text": "Bon,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 181.235,
+          "end_time": 183.095,
+          "text": "est-ce que vous pouvez me l'appeler s'il vous plaît",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 183.61,
+          "end_time": 223.485,
+          "text": "TUTURBULL pardon pardon pardon pardon pardon pardon vous en êtes où Non TURTUR turbulence. TURBULENCE, ensuite b b brigitte brigitte at gmail point com.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 224.15,
+          "end_time": 227.45,
+          "text": "gmail point com. Alors je vais pouvoir prendre un code postal.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 230.01999,
+          "end_time": 230.92,
+          "text": "30 cent-soixante-dix.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 234.79501,
+          "end_time": 236.01501,
+          "text": "Un numéro de téléphone.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 238.34,
+          "end_time": 243.64,
+          "text": "0 7 quatre-vingt-un 50 trente-quatre quatre-vingt-trois.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 250.83,
+          "end_time": 252.45001,
+          "text": "Vous avez quoi comme type de véhicule",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 255.31499,
+          "end_time": 255.81499,
+          "text": "Karman.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 256.67,
+          "end_time": 257.65,
+          "text": "C'est un camping-car.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 258.72,
+          "end_time": 260.99002,
+          "text": "Oui. Non non, c'est un fourbeau.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 261.92502,
+          "end_time": 309.71,
+          "text": "Pourquoi Parfait. Donc ce qu'on va pouvoir faire, c'est faire l'achat de la carte plus un rechargement. Vous souhaitez un temps sur l'air",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 311.835,
+          "end_time": 318.16,
+          "text": "Ah non non, on ne va pas, on on voulait pas aller sur l'air de toute façon on n'a pas de place.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 319.355,
+          "end_time": 323.615,
+          "text": "Ah d'accord, mais vous souhaitez quand même avoir une carte camping-car Park.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 324.22,
+          "end_time": 336.795,
+          "text": "Voilà, on veut juste la casse parce que parce que parfois on en a besoin enfin on peut en avoir besoin et on n'a pas la carte.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 337.08002,
+          "end_time": 359.90002,
+          "text": "D'accord. Alors, Donc, ça vous fait un total de 5 euros pour la carte plus 3 euros de frais de traitement.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 361.005,
+          "end_time": 361.505,
+          "text": "D'accord.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 364.615,
+          "end_time": 369.195,
+          "text": "Je vais pouvoir prendre vos numéros de carte bancaire.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 390.635,
+          "end_time": 398.815,
+          "text": "Le haut-parleur. Ah oui, quarante-neuf soixante-quatorze,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 412.46,
+          "end_time": 413.68,
+          "text": "Alors je vais répéter avec,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 413.625,
+          "end_time": 414.125,
+          "text": "oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 413.9,
+          "end_time": 421.445,
+          "text": "je vais répéter avec vous quarante-neuf soixante-quatorze 14 soixante-seize 0 8",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 421.3725,
+          "end_time": 421.8725,
+          "text": "oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 421.445,
+          "end_time": 454.45502,
+          "text": "quatre-vingt-onze soixante-seize 40. La date d'expiration 0 9 vingt-sept et le petit cryptogramme Je devais même mon logiciel à planter, on va recommencer.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 458.61,
+          "end_time": 463.19,
+          "text": "Si on peut l'acheter quelque part, ah oui vous nous dites que sinon c'est",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 462.87,
+          "end_time": 463.85,
+          "text": "Financer à l'auto,",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 464.77,
+          "end_time": 465.27,
+          "text": "pardon.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 469.35,
+          "end_time": 473.93,
+          "text": "financier à l'automate, l'automate gris que vous avez vu de au",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 473.655,
+          "end_time": 474.155,
+          "text": "Mais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 474.07,
+          "end_time": 475.53,
+          "text": "à l'entrée de la de l'air.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 477.175,
+          "end_time": 477.895,
+          "text": "oui, mais comment",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 477.675,
+          "end_time": 478.175,
+          "text": "Oui",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 477.895,
+          "end_time": 480.555,
+          "text": "est-ce qu'il peut, il peut me donner une carte",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_88"
+        },
+        {
+          "start_time": 481.03497,
+          "end_time": 525.3676,
+          "text": "bien sûr. Alors moi je peux vous je peux vous refaire l'encaissement. Est-ce que vous pouvez me redonner vos numéros de carte bancaire s'il vous plaît madame. Allô Allô allô Allô Madame, je ne vous entends plus. Allô allô.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 525.3676,
+          "end_time": 527.14764,
+          "text": "Camping-car parc Elisa, bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        }
+      ]
+    }
+  }
+}

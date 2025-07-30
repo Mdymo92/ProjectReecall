@@ -1,0 +1,167 @@
+{
+  "transcription": {
+    "id": 421304794,
+    "call_id": 2898189803,
+    "call_created_at": "2025-06-20T08:33:25.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 1.04,
+          "end_time": 2,
+          "text": "Je mets mon truc devant",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 1.92,
+          "end_time": 2.42,
+          "text": "Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 2,
+          "end_time": 5.7799997,
+          "text": "la barrière qui s'ouvre, vous le tiens qui se barre, la barrière qui s'ouvre, qui se baisse. Allô",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 5.8399997,
+          "end_time": 6.74,
+          "text": "Quentin bonjour. Bonjour.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 8,
+          "end_time": 23.735,
+          "text": "Oui bonjour madame je suis à la la au camping-car de Cléderre. Voilà ce qui m'amène, j'ai une réservation, je mets ma carte par étape devant l'appareil, pouf, ça s'ouvre, mais quelques secondes après ça se referme au chasse et c'est parti. Alors j'ai voulu réouvrir la barrière, ça ne marche pas. Comment je fais",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 23.565,
+          "end_time": 26.785,
+          "text": "Alors est-ce que je pourrais avoir votre numéro de carte d'accès monsieur s'il vous plaît",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 26.35,
+          "end_time": 31.01,
+          "text": "oui monsieur alors c'est numéro 104 100 quatre-vingt 0 quatre-vingt-sept",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 31.6,
+          "end_time": 32.98,
+          "text": "Merci. Votre nom",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 33.39,
+          "end_time": 36.85,
+          "text": "Meurick m comme Marcel EURIC oui",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 37.2,
+          "end_time": 40.5,
+          "text": "Michel. Alors.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 43.845,
+          "end_time": 48.585,
+          "text": "Il y a un allemand qui veut sortir aussi, il a des problèmes de cartes, bref, moi je veux rentrer.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 51.395,
+          "end_time": 53.495,
+          "text": "Alors vous vous êtes bien de voir l'appareil votre véhicule",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 53.845,
+          "end_time": 84.46999,
+          "text": "Non non il y a un allemand qui veut sortir avant moi là, il veut sortir lui et moi je voudrais rentrer mais l'allemand il recule qu'est-ce que c'est ce truc. Ça c'est pas possible. Je me présente à quelqu'un ça, à l'instant madame, je suis je manoeuvre par là. Voilà, je pense plus par là, voilà, voilà. Je m'excuse un peu c'est un peu c'est souple ce matin ici j'ai l'impression.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 89.729996,
+          "end_time": 119,
+          "text": "Attends là voilà attends voilà C'est partagé pour entrer ici au plus, j'ai mon vécu depuis sept-mille-cinquante. Voilà je suis je suis devant la porte madame. Je suis, je suis, ah ça y est c'est bon c'est ouvert. Ouais merci madame.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 119.53,
+          "end_time": 120.03,
+          "text": "Allez-y.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 120.9,
+          "end_time": 122.36,
+          "text": "Ah c'est ça merde, attends.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 128.065,
+          "end_time": 128.805,
+          "text": "Vous êtes rentrés",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 129.485,
+          "end_time": 133.825,
+          "text": "Voilà ça y est japonais je je suis rentré là ça y est c'est bon je suis passé madame",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 133.985,
+          "end_time": 135.44499,
+          "text": "Bon c'est parfait alors.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 135.4915,
+          "end_time": 137.1115,
+          "text": "Merci beaucoup, au revoir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        },
+        {
+          "start_time": 136.94499,
+          "end_time": 138.325,
+          "text": "Avec plaisir, au revoir.",
+          "participant_type": "internal",
+          "user_id": 1596949
+        },
+        {
+          "start_time": 138.1315,
+          "end_time": 138.79149,
+          "text": "Au moment.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_97"
+        }
+      ]
+    }
+  }
+}

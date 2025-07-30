@@ -1,0 +1,195 @@
+{
+  "transcription": {
+    "id": 421590703,
+    "call_id": 2899157992,
+    "call_created_at": "2025-06-20T13:13:45.000Z",
+    "type": "call",
+    "content": {
+      "language": "fr",
+      "utterances": [
+        {
+          "start_time": 0,
+          "end_time": 42.24,
+          "text": "Bonjour. Bonjour. Oui. D'accord, je vais regarder ça. Alors vous êtes bien Rudy Van H D'accord, vous êtes bien à Libram D'accord, je vais pouvoir vous faire sortir, on a un problème au niveau de la barrière Alors, c'est normal, on a un problème de connexion au niveau des barrières.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 42.24,
+          "end_time": 47.775,
+          "text": "Je vais pouvoir vous donner un code de secours. Alors vous êtes devant la barrière",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 48.895,
+          "end_time": 49.455,
+          "text": "Really?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 49.675,
+          "end_time": 51.455,
+          "text": "Alors vous pouvez entrer le code douze",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 52.575,
+          "end_time": 53.295,
+          "text": "Large.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 55.035,
+          "end_time": 55.535,
+          "text": "quatre-vingt-cinq",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 57.535,
+          "end_time": 59.455,
+          "text": "Large. Large",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 59.36,
+          "end_time": 59.86,
+          "text": "Quatre-vingt-cinq,",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 59.455,
+          "end_time": 59.935,
+          "text": "size.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 61.68,
+          "end_time": 62.18,
+          "text": "trente-deux",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 63.19,
+          "end_time": 66.95,
+          "text": "D three, t as in Patrick. D three.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 67.03,
+          "end_time": 67.94,
+          "text": "et et huit.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 69.03,
+          "end_time": 69.99,
+          "text": "And Patrick.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 73.15501,
+          "end_time": 90.88,
+          "text": "Et vous appuyez sur la flèche pour valider après. D'accord, est-ce que vous voyez un message sur l'écran D'accord, super. Vous vous allez",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 90.759995,
+          "end_time": 91.799995,
+          "text": "Gracia.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 90.88,
+          "end_time": 93.38,
+          "text": "pouvoir sortir et moi je note que vous êtes bien sorti.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 94.36,
+          "end_time": 95,
+          "text": "Gravy.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 96.64,
+          "end_time": 97.44,
+          "text": "C'est bon pour vous",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 98.52,
+          "end_time": 99.71999,
+          "text": "Gravy. Sausage.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 100.8,
+          "end_time": 101.28,
+          "text": "Oui, vous me",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 101.24,
+          "end_time": 101.64,
+          "text": "Gravy.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 101.28,
+          "end_time": 107.075,
+          "text": "dites quand vous êtes sortez avant que la barrière se referme. D'accord,",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 106.895004,
+          "end_time": 108.575005,
+          "text": "Just soft meat.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 109.454994,
+          "end_time": 110.274994,
+          "text": "parfait monsieur.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        },
+        {
+          "start_time": 111.935005,
+          "end_time": 112.33501,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_73"
+        },
+        {
+          "start_time": 114.41499,
+          "end_time": 116.354996,
+          "text": "De rien, il n'y a pas de problème. Au revoir.",
+          "participant_type": "internal",
+          "user_id": 1616843
+        }
+      ]
+    }
+  }
+}

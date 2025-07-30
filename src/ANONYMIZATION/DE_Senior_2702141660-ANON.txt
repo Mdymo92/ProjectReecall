@@ -1,0 +1,776 @@
+{
+  "transcription": {
+    "id": 359790577,
+    "call_id": 2702141660,
+    "call_created_at": "2025-04-01T18:35:14.000Z",
+    "type": "call",
+    "content": {
+      "language": "de",
+      "utterances": [
+        {
+          "start_time": 1.37,
+          "end_time": 2.68,
+          "text": "Und ich werde es auch noch einmal erzählen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 226.39,
+          "end_time": 240.61,
+          "text": "Wir haben vorhin Freunde von uns eingebucht mit einer Campingcar-Card.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 228.4,
+          "end_time": 232.63,
+          "text": "Ja, hallo, hallo, hallo, Hallo?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 233.06,
+          "end_time": 233.72,
+          "text": "ja guten Tag.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 241.15,
+          "end_time": 246.44,
+          "text": "Also die haben eine neue gekauft und die ist nicht aktiviert worden.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 246.44,
+          "end_time": 249.7,
+          "text": "Da hatten wir schon mal mit dem Kundendienst mit ihrem Kollegen geredet.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 250.32,
+          "end_time": 254.12,
+          "text": "Der Kollege hat da eine neue Karte rausgeholt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 254.52,
+          "end_time": 258.55,
+          "text": "Und mit der neuen Karte konnte unser Freund eigentlich einfahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 258.59,
+          "end_time": 262.37,
+          "text": "Aber bis er im Auto saß, war die Kranke wieder unten.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 263.45,
+          "end_time": 267.11,
+          "text": "Dann haben wir versucht, euch wieder zu erreichen und das ging so unendlich lange.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 267.19,
+          "end_time": 272.35,
+          "text": "Und inzwischen war der halbe Campingplatz bei uns versammelt und hat uns gute Ratschläge gegeben.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 272.37,
+          "end_time": 279.92,
+          "text": "Und einer hat uns gesagt, wir sollen mit der Karte jetzt quasi wie als wenn wir auffahren würden.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 280.74,
+          "end_time": 284.08,
+          "text": "Und dann würde sich ja die Kranke öffnen und dann könnte man reinfahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 284.68,
+          "end_time": 290.31,
+          "text": "Wir haben jetzt aber morgen Sorgen, ob wir dann mit dieser Karte auch wieder ausbauen können.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 293.33,
+          "end_time": 301.84,
+          "text": "Also sprechen Sie über Sie oder über Ihre Freundin.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 297.57,
+          "end_time": 299.05,
+          "text": "Ich spreche über unseren Freund.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 299.11,
+          "end_time": 301.01,
+          "text": "Wir sind ganz normal reingekommen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 302.38,
+          "end_time": 304.38,
+          "text": "Okay, Ihre Freundin hat eine Zugangskarte.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 304.64,
+          "end_time": 309.83,
+          "text": "Hat eine Karte, das ist eine neue Karte gekauft, Ich brauche die Nummer.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 310.4,
+          "end_time": 316.32,
+          "text": "das ist die 101 067 Hm, 009.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 310.64,
+          "end_time": 312.02,
+          "text": "Ich brauche die Nummer der Karte.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 317.61,
+          "end_time": 317.97,
+          "text": "Danke.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 319.77,
+          "end_time": 320.67,
+          "text": "Okay, Mr.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 320.87,
+          "end_time": 322.24,
+          "text": "Hood Wolfgang.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 322.29,
+          "end_time": 323.31,
+          "text": "Der Herr Hood, genau.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 324.56,
+          "end_time": 326,
+          "text": "Und was passiert mit Herr Hood?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 326.39,
+          "end_time": 331.13,
+          "text": "Also der Herr Hood, wir haben die Karte aktiviert und dann ist der Herr Hood...",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 331.47,
+          "end_time": 335.17,
+          "text": "aber nicht schnell genug im Auto gewesen, um reinzufahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 335.23,
+          "end_time": 336.86,
+          "text": "Die Schranke ging runter.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 338.5,
+          "end_time": 340.38,
+          "text": "Und dann kam er nicht rein.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 340.44,
+          "end_time": 344.54,
+          "text": "Dann haben wir wieder versucht anzurufen, kamen aber halt ganz lange nicht durch.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 344.56,
+          "end_time": 345.9,
+          "text": "Wir waren ganz durchgefroren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 346.46,
+          "end_time": 352.78,
+          "text": "Und dann kamen andere Leute vom Park und haben gesagt, wir sollen ausfahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 352.8,
+          "end_time": 355.12,
+          "text": "Wir sollen wieder, als wenn wir rausfahren würden.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 356.24,
+          "end_time": 359.34,
+          "text": "Haben wir gemacht, dann ging die Schranke hoch, er fuhr rein.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 360.07,
+          "end_time": 363.57,
+          "text": "Aber jetzt haben wir natürlich Angst, dass wir morgen nicht rauskommen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 364.98,
+          "end_time": 373.65,
+          "text": "Okay, also Madame, Herr Ruhig, ich durch oder aus der Stellplätze?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 374.22,
+          "end_time": 377.76,
+          "text": "Er ist jetzt auf dem Stellplatz, aber er muss ja morgen rauskommen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 378.91,
+          "end_time": 383.95,
+          "text": "Okay, aber ich sehe hier, mein Kollege hat die Schranke für ihn geöffnet.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 382.44,
+          "end_time": 384.52,
+          "text": "Moment, ich verstehe Sie ganz, ganz schlecht.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 385.32,
+          "end_time": 386.34,
+          "text": "Sie sind ganz leise.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 385.88,
+          "end_time": 387.31,
+          "text": "Also, Sie sind ganz leise.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 387.24,
+          "end_time": 387.52,
+          "text": "hallo?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 388.02,
+          "end_time": 388.14,
+          "text": "Ja.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 388.99,
+          "end_time": 390.18,
+          "text": "Ja, Jetzt hören Sie mich?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 391.19,
+          "end_time": 392.53,
+          "text": "Jetzt höre ich Sie ein bisschen besser.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 392.17,
+          "end_time": 392.58,
+          "text": "jetzt höre ich Sie ein bisschen besser, Hallo?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 393.01,
+          "end_time": 393.97,
+          "text": "Ja, hallo?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 395.32,
+          "end_time": 397.4,
+          "text": "Haben Sie Ihre Lautsprecher aktiviert, oder?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 397.63,
+          "end_time": 398.01,
+          "text": "Nein?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 399.42,
+          "end_time": 400.96,
+          "text": "Okay, hören Sie mich jetzt, oder?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 401.23,
+          "end_time": 402.11,
+          "text": "Ja, ich höre Sie.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 403.32,
+          "end_time": 412,
+          "text": "Okay, ich habe gesagt, Luke Mark, mein Kollege Luke Mark, ja, hat die Schranke für Herrn Hood geöffnet.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 411.02,
+          "end_time": 411.68,
+          "text": "Geöffnet.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 411.98,
+          "end_time": 415.14,
+          "text": "geöffnet, Ja, genau, aber ich sehe hier...",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 412.3,
+          "end_time": 412.64,
+          "text": "Genau.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 415.64,
+          "end_time": 423.96,
+          "text": "Ich sehe hier, Herr Ruth hat mit seiner Karte die Schanke geöffnet, um rauszufahren.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 424.11,
+          "end_time": 426.49,
+          "text": "Ja, Bei mir also.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 425.87,
+          "end_time": 429.23,
+          "text": "aber er ist ja gar nicht reingefahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 426.55,
+          "end_time": 428.81,
+          "text": "Bei mir also.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 430.37,
+          "end_time": 434.79,
+          "text": "Ja, für mich, Herr Ruth ist nie auf dem Stellplatz.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 434.87,
+          "end_time": 435.33,
+          "text": "Für mich.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 435.64,
+          "end_time": 439.96,
+          "text": "Ja, okay, aber er ist jetzt auf dem Stellplatz.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 439.9,
+          "end_time": 441.28,
+          "text": "Okay, Moment, Moment.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 441.72,
+          "end_time": 444.34,
+          "text": "Ich gebe das Gespräch an meine Kollegen.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 490.95,
+          "end_time": 491.81,
+          "text": "Wer ist im Apparat?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 491.85,
+          "end_time": 493.59,
+          "text": "Ich bin Luc Machweder von Frankreich.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 495.53,
+          "end_time": 496.93,
+          "text": "Hallo, ich bin Luc Machweder.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 497.31,
+          "end_time": 498.19,
+          "text": "Wer ist im Apparat?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 498.54,
+          "end_time": 502.61,
+          "text": "Baumgart, Also, ich bin schon wieder.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 499.35,
+          "end_time": 503.73,
+          "text": "Nein, Hallo, ja Frau Böhmgau, ich bin schon wieder.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 501.65,
+          "end_time": 502.35,
+          "text": "was ist denn los?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 503.05,
+          "end_time": 505.51,
+          "text": "Also, Ja, Sie haben ja vorhin uns die Tranche geöffnet.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 505.83,
+          "end_time": 508.59,
+          "text": "ja genau, Dann war der Herr Huth aber noch draußen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 506.79,
+          "end_time": 507.27,
+          "text": "ja genau.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 508.69,
+          "end_time": 513.24,
+          "text": "Bis er im Auto saß und geplattet hat, war die Tranche wieder ohne.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 513.92,
+          "end_time": 516.22,
+          "text": "Dann haben wir wieder versucht, sie zu erreichen.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 516.94,
+          "end_time": 519.6,
+          "text": "Und waren ewig lang in der Warteslange.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 517.94,
+          "end_time": 520.73,
+          "text": "Ja, Und waren ewig lang in der Warteschlange.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 523.29,
+          "end_time": 525.07,
+          "text": "okay.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 525.33,
+          "end_time": 531.59,
+          "text": "Ist doch ganz einfach, hebt die Karte an die Ausfahrt und fahrt wieder raus, dann geht die Schranke auf, dann können wir reinfahren.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 533.59,
+          "end_time": 539.11,
+          "text": "Im ersten Moment haben wir dann gesagt, ja klar, machen wir, haben wir gemacht, aber ich denke, wir kommen so morgen nicht raus.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 541.17,
+          "end_time": 543.19,
+          "text": "Weil wir sind ja für sie gar nicht drauf.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 541.34,
+          "end_time": 542.92,
+          "text": "Ja, natürlich können Sie raus.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 545.1,
+          "end_time": 553.73,
+          "text": "Ja, noch nicht, aber Monsieur Hood ist drauf, immer noch, vor der Schranke ist er vor der Schranke jetzt.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 553.92,
+          "end_time": 555.34,
+          "text": "Er ist auf dem Stellplatz.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 554.53,
+          "end_time": 557.93,
+          "text": "Ist der vor der Strecke?",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 555.72,
+          "end_time": 557.4,
+          "text": "Er ist auf dem Stellplatz.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 558.17,
+          "end_time": 559.43,
+          "text": "Auf dem Stellplatz.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 559.51,
+          "end_time": 559.91,
+          "text": "Ja, ok.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 560.69,
+          "end_time": 561.21,
+          "text": "Mache ich wieder.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 561.6,
+          "end_time": 562.02,
+          "text": "Ja, ok.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 562.88,
+          "end_time": 566.1,
+          "text": "Mache ich eine Eingang.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 566.82,
+          "end_time": 568.16,
+          "text": "muss ich wieder drauf gehen.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 568.24,
+          "end_time": 569.06,
+          "text": "Ok, alles klar.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 569.06,
+          "end_time": 571.04,
+          "text": "Wir haben für gute Unterhaltung gesorgt.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 569.9,
+          "end_time": 571.06,
+          "text": "Jetzt ist er wieder drin.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 572.3,
+          "end_time": 573.38,
+          "text": "Ok, alles klar.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 573.67,
+          "end_time": 574.69,
+          "text": "Jetzt ist er wieder drin.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 574.53,
+          "end_time": 577.07,
+          "text": "Okay, Ok, ist er wieder drin auf dem Stelle.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 576.18,
+          "end_time": 577.52,
+          "text": "Vielen herzlichen Dank.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 577.19,
+          "end_time": 578.67,
+          "text": "Ok, vielen herzlichen Dank.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 577.45,
+          "end_time": 577.87,
+          "text": "alles klar.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 577.58,
+          "end_time": 578.74,
+          "text": "Ja, Das ist ganz lieb.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 578.55,
+          "end_time": 579.89,
+          "text": "Ja, Das ist ganz lieb.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 578.86,
+          "end_time": 579.24,
+          "text": "Danke.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 579.07,
+          "end_time": 581.05,
+          "text": "ich bedanke mich auch.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        },
+        {
+          "start_time": 580.64,
+          "end_time": 582.78,
+          "text": "Bis bald wieder, Tschüss.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_25"
+        },
+        {
+          "start_time": 581.59,
+          "end_time": 582.97,
+          "text": "Bis bald wieder.",
+          "participant_type": "internal",
+          "user_id": 1503108
+        }
+      ]
+    }
+  }
+}

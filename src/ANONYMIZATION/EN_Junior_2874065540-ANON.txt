@@ -1,0 +1,2260 @@
+{
+  "transcription": {
+    "id": 413720631,
+    "call_id": 2874065540,
+    "call_created_at": "2025-06-11T14:10:36.000Z",
+    "type": "call",
+    "content": {
+      "language": "en",
+      "utterances": [
+        {
+          "start_time": 0,
+          "end_time": 0.79999995,
+          "text": "English.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 2.8799999,
+          "end_time": 4.64,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 11.759999,
+          "end_time": 18.805,
+          "text": "Yes. Okay. I will give you to my husband because he can talk a little bit better English.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 18.305,
+          "end_time": 19.105,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 19.125,
+          "end_time": 23.765,
+          "text": "We want to pay, but we don't know how to do it.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 23.985,
+          "end_time": 24.785,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 25.125,
+          "end_time": 25.525,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 25.904999,
+          "end_time": 28.705,
+          "text": "Do do you have already an account, Camping Car Park?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 29.99,
+          "end_time": 32.23,
+          "text": "No. He has not sent across.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 31.72,
+          "end_time": 34.2,
+          "text": "You don't have an account? Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 33.83,
+          "end_time": 34.63,
+          "text": "No. No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 35.64,
+          "end_time": 50.095,
+          "text": "So you you you can make an account on the app on your phone. And on this app, you can, recharge your account.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 51.555,
+          "end_time": 60.55,
+          "text": "No. We can't do that. I have no mail to it. Sorry. We can't do that because we have no mail on the phone.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 60.55,
+          "end_time": 64.549995,
+          "text": "We only have a phone to talk, but not to mail.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 64.46,
+          "end_time": 64.94,
+          "text": "You",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 64.63,
+          "end_time": 64.95,
+          "text": "I'm",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 64.94,
+          "end_time": 65.18,
+          "text": "don't",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 64.95,
+          "end_time": 65.19,
+          "text": "very",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 65.18,
+          "end_time": 65.340004,
+          "text": "have",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 65.19,
+          "end_time": 65.59,
+          "text": "sorry.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 65.340004,
+          "end_time": 66.14,
+          "text": "email?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 66.604996,
+          "end_time": 68.045,
+          "text": "No. I have no email",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 67.66,
+          "end_time": 68.22,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 68.045,
+          "end_time": 68.284996,
+          "text": "on",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 68.22,
+          "end_time": 68.54,
+          "text": "So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 68.284996,
+          "end_time": 68.924995,
+          "text": "the phone.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 68.54,
+          "end_time": 69.020004,
+          "text": "you",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 68.924995,
+          "end_time": 69.645,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 69.020004,
+          "end_time": 80.585,
+          "text": "you can you can create an account at the at the enter of the of the area. On the on the automat, on the gray machine, at the enter, you can",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 80.524994,
+          "end_time": 81.005,
+          "text": "I'm",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 80.585,
+          "end_time": 81.065,
+          "text": "create an",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 81.005,
+          "end_time": 82.445,
+          "text": "standing",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 81.065,
+          "end_time": 84.345,
+          "text": "account without email, just with",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 84.03,
+          "end_time": 84.83,
+          "text": "okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 84.345,
+          "end_time": 84.985,
+          "text": "your phone.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 85.07,
+          "end_time": 89.47,
+          "text": "We are standing for that camping car",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 89.47,
+          "end_time": 90.19,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 89.47,
+          "end_time": 90.35,
+          "text": "park.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 90.19,
+          "end_time": 92.350006,
+          "text": "What is the name of this area?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 92.990005,
+          "end_time": 96.11,
+          "text": "The number of this area, how where do I see that?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 96.43,
+          "end_time": 97.310005,
+          "text": "The name of",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 97.035,
+          "end_time": 98.475006,
+          "text": "Sands",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 97.310005,
+          "end_time": 97.950005,
+          "text": "the area.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 98.475006,
+          "end_time": 102.715004,
+          "text": "Floor 8. Sands Floor 8.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 103.335,
+          "end_time": 103.975006,
+          "text": "8.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 105.115005,
+          "end_time": 113.24,
+          "text": "Sands Floor Mhmm. Floor 8. That's that's with the 1 E C, Wheat 8.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 116.3,
+          "end_time": 121.18,
+          "text": "Okay. I have an area. The name is Saint Flor Lezorg.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 123.155,
+          "end_time": 129.315,
+          "text": "No. There is standing Sand Floor, and then there is this number H.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 129.445,
+          "end_time": 136.085,
+          "text": "Okay. Are you in in front of the automat of the screen?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 136.355,
+          "end_time": 137.555,
+          "text": "Yes. I'm in front",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 137.365,
+          "end_time": 138.085,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 137.555,
+          "end_time": 139.33,
+          "text": "of the automat. Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 139.365,
+          "end_time": 140.725,
+          "text": "Can I see my mouse?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 141.65,
+          "end_time": 143.73001,
+          "text": "I see your mouse. Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 143.58,
+          "end_time": 148.06,
+          "text": "Okay. Perfect. So sorry.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 147.41,
+          "end_time": 147.81,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 149.09999,
+          "end_time": 150.14,
+          "text": "English.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 151.595,
+          "end_time": 152.395,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 151.98,
+          "end_time": 153.09999,
+          "text": "Which is your vehicle?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 154.235,
+          "end_time": 155.675,
+          "text": "A motorhome.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 155.88501,
+          "end_time": 156.60501,
+          "text": "Motor.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 156.235,
+          "end_time": 159.755,
+          "text": "Over camper, I don't know how to motorhome.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 159.085,
+          "end_time": 163.005,
+          "text": "Okay. How many night do you want to tap up your",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 162.955,
+          "end_time": 163.275,
+          "text": "One",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 163.005,
+          "end_time": 163.725,
+          "text": "account?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 163.275,
+          "end_time": 164.075,
+          "text": "night, please.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 163.965,
+          "end_time": 164.84502,
+          "text": "One night?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 165.18001,
+          "end_time": 165.90001,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 165.965,
+          "end_time": 172.22002,
+          "text": "Okay. Create an account. And what is your country?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 173.58,
+          "end_time": 175.66,
+          "text": "My country is Holland.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 175.90001,
+          "end_time": 176.62001,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 175.98,
+          "end_time": 177.74,
+          "text": "Lapayiba. Okay?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 177.74,
+          "end_time": 183.225,
+          "text": "Yeah. 31.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 183.955,
+          "end_time": 184.43501,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 184.825,
+          "end_time": 185.22499,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 184.91501,
+          "end_time": 197.86,
+          "text": "And then I have to put on my number. It's from Holland. Okay. I will charge Netherlands. Oh oh oh oh.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 199.54,
+          "end_time": 200.98,
+          "text": "One moment, please.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 200.65001,
+          "end_time": 201.53001,
+          "text": "Nederland?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 200.98,
+          "end_time": 202.58,
+          "text": "Netherlands. Yes. Netherlands.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 203.53,
+          "end_time": 204.09,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 205.29999,
+          "end_time": 209.38501,
+          "text": "And then I have to put on my telephone number?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 209.375,
+          "end_time": 210.895,
+          "text": "Yes. Your phone number.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 211.30501,
+          "end_time": 214.825,
+          "text": "Is it 060",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 214.335,
+          "end_time": 214.735,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 214.825,
+          "end_time": 232.45999,
+          "text": "606 No. 3 No. It doesn't take it good. I have to do it again. 0.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 232.45999,
+          "end_time": 233.5,
+          "text": "No. That's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 233.13501,
+          "end_time": 234.175,
+          "text": "No. No.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 233.9,
+          "end_time": 234.3,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 234.175,
+          "end_time": 234.575,
+          "text": "No.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 234.3,
+          "end_time": 234.54,
+          "text": "The.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 234.575,
+          "end_time": 235.05501,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 236.955,
+          "end_time": 237.755,
+          "text": "Yeah. What",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 238.41501,
+          "end_time": 241.45502,
+          "text": "A moment. Alright. Just a moment.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 242.315,
+          "end_time": 247.835,
+          "text": "+1 377579. Yes. That's the number",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 247.695,
+          "end_time": 248.095,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 247.835,
+          "end_time": 251.81001,
+          "text": "for me. Would you like to try it",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 251.77,
+          "end_time": 252.33,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 251.81001,
+          "end_time": 252.29001,
+          "text": "again?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 252.33,
+          "end_time": 256.17,
+          "text": "Okay. Okay. Okay. Yes. I know.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 256.17,
+          "end_time": 256.89,
+          "text": "Okay. Moment.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 265.265,
+          "end_time": 265.665,
+          "text": "I'm",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 265.405,
+          "end_time": 266.36502,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 265.665,
+          "end_time": 266.065,
+          "text": "talking to.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 266.765,
+          "end_time": 303.465,
+          "text": "Yes. Okay. Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 307.11002,
+          "end_time": 308.79,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 307.785,
+          "end_time": 308.585,
+          "text": "Your postcode?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 310.39,
+          "end_time": 318.235,
+          "text": "6129 and then okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 318.44998,
+          "end_time": 318.77,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 318.555,
+          "end_time": 336.29,
+          "text": "And and and and what's the license of your that I put on the license, a CarGD. Car here, D. Yes. I put on the number, and",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 336.195,
+          "end_time": 336.595,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 336.29,
+          "end_time": 338.61002,
+          "text": "then I have to confirm. Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 339.09,
+          "end_time": 340.21,
+          "text": "It's okay?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 340.85,
+          "end_time": 341.49,
+          "text": "It's okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 341.81,
+          "end_time": 345.88998,
+          "text": "Okay. Your name?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 347.91498,
+          "end_time": 352.475,
+          "text": "My no.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 352.535,
+          "end_time": 354.055,
+          "text": "No. No. No. No worries.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 354.475,
+          "end_time": 372.62003,
+          "text": "It's not not it's not good. I have to go back and one more bag. No. It doesn't. Oh, it's not good.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 372.94,
+          "end_time": 377.885,
+          "text": "Okay. Yes. It's no. It's 0. Oh, yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 377.885,
+          "end_time": 379.24503,
+          "text": "It's it's right.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 379.065,
+          "end_time": 381.065,
+          "text": "Okay. The",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 380.92502,
+          "end_time": 381.245,
+          "text": "name",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 381.065,
+          "end_time": 381.385,
+          "text": "name?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 381.245,
+          "end_time": 394.74,
+          "text": "and then Yeah. Yeah. Yeah. This is this is the name. No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 396.72,
+          "end_time": 397.6,
+          "text": "Moments. Van.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 399.13998,
+          "end_time": 413.085,
+          "text": "Then yeah. And then I want to have spaCy, and then I have to do the e v a what do you email,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 412.495,
+          "end_time": 413.29498,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 413.085,
+          "end_time": 415.485,
+          "text": "I don't have I don't have email.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 414.97498,
+          "end_time": 426.24002,
+          "text": "Yeah. Okay. No email. Okay. That's the price?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 426.24002,
+          "end_time": 426.80002,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 427.48,
+          "end_time": 431.24,
+          "text": "Why I have to pay and then I become a card. Which card?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 432.08002,
+          "end_time": 435.28,
+          "text": "Yeah. It's a car to get in and get out.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 436.065,
+          "end_time": 438.625,
+          "text": "Oh, to get in and to get out. Okay. And",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 438.545,
+          "end_time": 439.025,
+          "text": "And",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 438.625,
+          "end_time": 439.105,
+          "text": "now I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 439.025,
+          "end_time": 439.425,
+          "text": "now",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 439.105,
+          "end_time": 439.505,
+          "text": "have to",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 439.425,
+          "end_time": 439.905,
+          "text": "you you",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 439.745,
+          "end_time": 440.385,
+          "text": "yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 439.905,
+          "end_time": 442.86502,
+          "text": "can insert your card in the terminal.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 443.345,
+          "end_time": 446.305,
+          "text": "Okay. Yes, sir.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 446.305,
+          "end_time": 447.585,
+          "text": "Visa or Mastercard?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 449.93002,
+          "end_time": 460.01,
+          "text": "Bonk Passive. Uh-huh. Well, I have to put it. Sorry. Well, I have to put it.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 460.01,
+          "end_time": 483.7,
+          "text": "Oh, okay. While I have to do it a very I can't see it. I have to pay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 483.82,
+          "end_time": 484.14,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 484.9,
+          "end_time": 493.58502,
+          "text": "Yes. But they're standing stop or I had to do the card before?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 493.745,
+          "end_time": 497.265,
+          "text": "It doesn't work under the payment terminal?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 497.98502,
+          "end_time": 499.42502,
+          "text": "No. It doesn't work.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 499.66498,
+          "end_time": 506.83002,
+          "text": "Oh, what do we see? The message error. Okay. Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 506.11,
+          "end_time": 507.71002,
+          "text": "Yeah. That I cannot put.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 507.95,
+          "end_time": 514.91003,
+          "text": "No. I I think the the automatic don't work. So I",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 514.99,
+          "end_time": 516.27,
+          "text": "I when",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 516.27,
+          "end_time": 516.43,
+          "text": "I",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 516.27,
+          "end_time": 518.11,
+          "text": "when",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 516.43,
+          "end_time": 518.27,
+          "text": "have another I have another solutions.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 519.175,
+          "end_time": 521.255,
+          "text": "you have another solutions?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 521.13495,
+          "end_time": 526.495,
+          "text": "Yeah. Okay. The solution up.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 527.175,
+          "end_time": 528.535,
+          "text": "Okay. Thank you all.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 529.295,
+          "end_time": 538.14,
+          "text": "Is it possible to make the payment with me by phone? And after, I will distribute the card for you. Okay? Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 537.08,
+          "end_time": 544.2,
+          "text": "I don't understand what you mean. I want you made the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 543.66,
+          "end_time": 552.175,
+          "text": "Okay. I say, is it possible to make the payments with me by phone with your credit card number? And",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 551.965,
+          "end_time": 552.445,
+          "text": "the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 552.175,
+          "end_time": 552.815,
+          "text": "after",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 552.445,
+          "end_time": 553.405,
+          "text": "when I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 554.09503,
+          "end_time": 554.575,
+          "text": "yes?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 554.445,
+          "end_time": 562.93005,
+          "text": "I can make a payment with my phone if you give me where I have to pay to. Telephone.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 566.09,
+          "end_time": 570.49,
+          "text": "But is it possible with me by phone? Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 569.97003,
+          "end_time": 574.115,
+          "text": "It's possible to make by phone telephone telephone. Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 573.69,
+          "end_time": 574.01,
+          "text": "So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 574.115,
+          "end_time": 578.035,
+          "text": "I I yeah. It's possible to make it by phone. Yes. That's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 577.945,
+          "end_time": 578.665,
+          "text": "yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 578.035,
+          "end_time": 578.835,
+          "text": "possible.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 579.145,
+          "end_time": 579.78503,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 579.71497,
+          "end_time": 581.155,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 581.145,
+          "end_time": 582.425,
+          "text": "So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 581.235,
+          "end_time": 581.635,
+          "text": "You",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 582.985,
+          "end_time": 583.865,
+          "text": "just a moment.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 588.12994,
+          "end_time": 590.52997,
+          "text": "What what do I have to do, sir?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 591.12994,
+          "end_time": 591.69,
+          "text": "Just your",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 591.56995,
+          "end_time": 592.69,
+          "text": "My",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 591.69,
+          "end_time": 592.81,
+          "text": "credit card number.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 594.05,
+          "end_time": 599.25,
+          "text": "credit card. I have no credit card number. I have only a card number. Bank card.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 599.245,
+          "end_time": 599.64496,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 599.25,
+          "end_time": 599.81,
+          "text": "A bank",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 599.64496,
+          "end_time": 600.045,
+          "text": "But",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 599.81,
+          "end_time": 600.12994,
+          "text": "card.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 600.045,
+          "end_time": 603.565,
+          "text": "bank bank account number, it's it's it's the same thing.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 605.135,
+          "end_time": 607.775,
+          "text": "Bank card number. It's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 607.40497,
+          "end_time": 608.20496,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 607.775,
+          "end_time": 610.335,
+          "text": "it's, oh, it's 05",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 610.045,
+          "end_time": 610.685,
+          "text": "Hey. 1",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 610.575,
+          "end_time": 611.055,
+          "text": "zero.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 610.685,
+          "end_time": 612.44495,
+          "text": "moment. Just a moment, please.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 617.7,
+          "end_time": 627.09503,
+          "text": "That's my number from the where you where I can pay with. Or do you have a a personal number? I don't know what you want. What",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 627.075,
+          "end_time": 627.635,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 627.09503,
+          "end_time": 627.895,
+          "text": "you mean?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 627.635,
+          "end_time": 631.715,
+          "text": "Yeah. Yeah. It's only possible with Visa or Mastercard. Do",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 632.215,
+          "end_time": 633.41504,
+          "text": "Mastercard.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 635.075,
+          "end_time": 636.59503,
+          "text": "you have a an Visa or",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 636.455,
+          "end_time": 636.935,
+          "text": "We",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 636.59503,
+          "end_time": 637.395,
+          "text": "Mastercard?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 636.935,
+          "end_time": 638.455,
+          "text": "have a Mastercard.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 637.875,
+          "end_time": 638.59503,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 638.455,
+          "end_time": 639.335,
+          "text": "We",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 639.155,
+          "end_time": 640.35504,
+          "text": "I hear I hear",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 640.135,
+          "end_time": 640.455,
+          "text": "What",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 640.35504,
+          "end_time": 640.59503,
+          "text": "you.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 640.455,
+          "end_time": 643.06,
+          "text": "kind of card? A credit card is that.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 643.27,
+          "end_time": 643.99,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 643.62,
+          "end_time": 645.78,
+          "text": "Is that good? A credit card.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 646.15,
+          "end_time": 646.87,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 647.38,
+          "end_time": 653.22,
+          "text": "Yes. Okay. And then you you want to have the number of the credit card?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 652.95,
+          "end_time": 653.75,
+          "text": "Yes, please.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 654.89996,
+          "end_time": 655.38,
+          "text": "5",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 656.135,
+          "end_time": 656.855,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 656.615,
+          "end_time": 658.055,
+          "text": "22",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 658.375,
+          "end_time": 659.895,
+          "text": "Yes. Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 659.735,
+          "end_time": 660.615,
+          "text": "0",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 660.615,
+          "end_time": 662.295,
+          "text": "Yeah. Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 662.615,
+          "end_time": 664.53503,
+          "text": "78",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 664.695,
+          "end_time": 665.495,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 665.255,
+          "end_time": 666.135,
+          "text": "0",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 666.215,
+          "end_time": 667.175,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 666.615,
+          "end_time": 667.09503,
+          "text": "5.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 667.655,
+          "end_time": 668.135,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 671.56,
+          "end_time": 673.39996,
+          "text": "That's part of the number.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 675.61005,
+          "end_time": 679.61005,
+          "text": "52207805 and",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 680.6,
+          "end_time": 682.19995,
+          "text": "69",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 681.69,
+          "end_time": 682.81,
+          "text": "six nine.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 683.63995,
+          "end_time": 685.555,
+          "text": "07",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 685.825,
+          "end_time": 687.425,
+          "text": "Yes. Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 687.235,
+          "end_time": 691.71497,
+          "text": "3349.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 693.505,
+          "end_time": 695.265,
+          "text": "The expiry date?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 696.515,
+          "end_time": 697.075,
+          "text": "The what?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 697.665,
+          "end_time": 699.025,
+          "text": "The expiry date?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 700.65,
+          "end_time": 704.41003,
+          "text": "10/1027.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 704.8,
+          "end_time": 707.04,
+          "text": "Okay. And the security code?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 709.69,
+          "end_time": 723.41504,
+          "text": "The situation Call. They just they just call us back. Cancel the cancel back in the. Husband says it's not good to to do this on this way. Can I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 723.03503,
+          "end_time": 723.59503,
+          "text": "So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 723.41504,
+          "end_time": 723.895,
+          "text": "can",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 723.59503,
+          "end_time": 724.47504,
+          "text": "it's",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 723.895,
+          "end_time": 724.64996,
+          "text": "I yeah?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 724.47504,
+          "end_time": 741.25,
+          "text": "it's very secure. It's it's the only solution, so I don't have any other solutions. So just just just then I will distribute the card on the automatic for you, and you can get in the campsite.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 742.41504,
+          "end_time": 748.335,
+          "text": "I don't sorry. Will you repeat it? Because I don't understand what you are saying.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 748.53503,
+          "end_time": 749.655,
+          "text": "Okay. Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 750.335,
+          "end_time": 750.73505,
+          "text": "Sorry.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 750.455,
+          "end_time": 755.35004,
+          "text": "Say I say it's the only solutions I have. So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 755.24005,
+          "end_time": 755.64,
+          "text": "It's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 755.35004,
+          "end_time": 756.15,
+          "text": "it's",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 755.64,
+          "end_time": 756.92004,
+          "text": "only solutions?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 756.55,
+          "end_time": 757.11005,
+          "text": "yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 756.92004,
+          "end_time": 757.32,
+          "text": "Yes.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 757.19,
+          "end_time": 763.43,
+          "text": "It's it's very shaky. Just after the payment, I will distribute the card and the automatic for you.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 766.055,
+          "end_time": 778.855,
+          "text": "Sorry. I will give you my husband. Maybe maybe he understands what you are seeing at this moment. Here. Hello.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 779.46497,
+          "end_time": 779.865,
+          "text": "Hi.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 779.81995,
+          "end_time": 787.1,
+          "text": "What are you going to do? You open the barrier? What's what's the meaning?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 786.60004,
+          "end_time": 791.88,
+          "text": "To to open the buyer, you need to have access card, a camping car",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 791.66,
+          "end_time": 792.38,
+          "text": "Yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 791.88,
+          "end_time": 793.4,
+          "text": "park card. So",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 792.94,
+          "end_time": 793.81995,
+          "text": "Yeah. But",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 793.4,
+          "end_time": 805.775,
+          "text": "to dis to to distribute this card, you need to make the payment with me by phone. And after, I will distribute the card for you. You can take this card and enter get in in the campsite just just later.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 809.175,
+          "end_time": 815.04004,
+          "text": "no. I didn't quite understand that. We are not going to do it. I I think that that's too difficult for us.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 814.72003,
+          "end_time": 817.04004,
+          "text": "Do you speak Dutch, German?",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 818.08,
+          "end_time": 821.36005,
+          "text": "German, but, yes, we could can talk German.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 820.64,
+          "end_time": 821.28,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 821.36005,
+          "end_time": 821.68,
+          "text": "Yes?",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 822.32,
+          "end_time": 825.36005,
+          "text": "Can you wait a moment? I will pass you my colleague. He",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 825.335,
+          "end_time": 826.05505,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 825.44,
+          "end_time": 826.48004,
+          "text": "speak German.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 827.015,
+          "end_time": 859.385,
+          "text": "Okay. We wait. For sure. No. Machines.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 889.02,
+          "end_time": 889.58,
+          "text": "No.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 890.20496,
+          "end_time": 893.005,
+          "text": "Hello. This is Batis from our company, Yarpark.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 893.5,
+          "end_time": 899.10004,
+          "text": "Okay. Deutsche. Yeah. We're seeing from Holland. That's Deutsche Gate.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 900.73004,
+          "end_time": 921.705,
+          "text": "Okay. Perfect. So, yeah, Leiser, my colleague and Zach and Denise, the problem. Normal visor, the and then and then automat. Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 923.46497,
+          "end_time": 946.415,
+          "text": "Yeah. Telephone telephone. Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 946.6,
+          "end_time": 959.645,
+          "text": "But then I get must have to give you our credit card number. We must give you all, and our, bank always says don't give up the the",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 959.375,
+          "end_time": 959.695,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 959.645,
+          "end_time": 961.805,
+          "text": "the the card. So yeah.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 961.75,
+          "end_time": 962.47,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 961.805,
+          "end_time": 971.3,
+          "text": "Yes. It's it's so difficult for us. We don't know what to do, and I think we are going to look for another camping. I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 971.02997,
+          "end_time": 971.50995,
+          "text": "Okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 971.3,
+          "end_time": 975.62,
+          "text": "think that's that's the best, and I'm very sorry. You it's",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 975.305,
+          "end_time": 975.625,
+          "text": "No.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 975.62,
+          "end_time": 975.77997,
+          "text": "not",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 975.625,
+          "end_time": 975.785,
+          "text": "It's",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 975.77997,
+          "end_time": 976.02,
+          "text": "for",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 975.785,
+          "end_time": 976.185,
+          "text": "okay.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 976.02,
+          "end_time": 976.5,
+          "text": "you,",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 976.185,
+          "end_time": 977.705,
+          "text": "Yeah.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 976.5,
+          "end_time": 979.22,
+          "text": "but but you understand why we are so",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 979.065,
+          "end_time": 979.705,
+          "text": "Absolutely.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 979.22,
+          "end_time": 981.45996,
+          "text": "afraid. Yes? Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 981.14496,
+          "end_time": 986.345,
+          "text": "There is there is no problem. So it's it's for you. If you want to enter, yes, we",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 985.965,
+          "end_time": 986.60504,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 986.345,
+          "end_time": 986.825,
+          "text": "can",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 986.60504,
+          "end_time": 986.84503,
+          "text": "We",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 986.825,
+          "end_time": 987.14496,
+          "text": "just",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 986.84503,
+          "end_time": 987.48505,
+          "text": "will we",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 987.14496,
+          "end_time": 987.545,
+          "text": "make the",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 987.48505,
+          "end_time": 987.72504,
+          "text": "will",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 987.545,
+          "end_time": 987.865,
+          "text": "payment",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 987.72504,
+          "end_time": 988.36505,
+          "text": "turn.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 987.865,
+          "end_time": 989.15,
+          "text": "like this. But,",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 988.765,
+          "end_time": 989.405,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 989.31,
+          "end_time": 989.63,
+          "text": "yes,",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 989.405,
+          "end_time": 990.04504,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 989.63,
+          "end_time": 991.95,
+          "text": "if you prefer to go, yeah,",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 991.645,
+          "end_time": 992.92505,
+          "text": "Okay. We prevent",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 992.43005,
+          "end_time": 993.63,
+          "text": "another place.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 992.92505,
+          "end_time": 998.84503,
+          "text": "you to go. And you are very kind, and you have helped us, but we are",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 998.83,
+          "end_time": 999.31,
+          "text": "Yes.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 999.24506,
+          "end_time": 999.48505,
+          "text": "I",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 999.31,
+          "end_time": 999.79004,
+          "text": "I'm sorry.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 999.48505,
+          "end_time": 1002.34,
+          "text": "don't know the word. Very much. Thank you.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 1002.26495,
+          "end_time": 1002.58496,
+          "text": "I",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 1002.34,
+          "end_time": 1002.9,
+          "text": "Okay.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 1002.58496,
+          "end_time": 1003.385,
+          "text": "understand.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 1002.9,
+          "end_time": 1003.7,
+          "text": "Bye bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 1003.625,
+          "end_time": 1003.945,
+          "text": "Have",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 1003.7,
+          "end_time": 1004.5,
+          "text": "Bye bye.",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        },
+        {
+          "start_time": 1003.945,
+          "end_time": 1005.625,
+          "text": "a nice day. Take care. Bye.",
+          "participant_type": "internal",
+          "user_id": 1618187
+        },
+        {
+          "start_time": 1006.18,
+          "end_time": 1015.62,
+          "text": "Bye bye. They closed, and it got it's closed. And Sorry. You",
+          "participant_type": "external",
+          "phone_number": "PHONE_NUMBER_38"
+        }
+      ]
+    }
+  }
+}
