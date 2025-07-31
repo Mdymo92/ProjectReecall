@@ -1,6 +1,6 @@
 # Environnement virtuel
 venv/
-
+.env
 # Dossier générés
 interm/
 clean/
