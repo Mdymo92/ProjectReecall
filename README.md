@@ -9,7 +9,7 @@
 ## Executer le projet 
 ### 1) Cloner le repo et créer l’environnement virtuel
 - `git clone <https://github.com/Mdymo92/TestReecall.git>` 
-- `cd ProjectReecall`
+- `cd TestReecall`
 - `python3 -m venv venv`
 
 ### 2) Activer l’environnement
