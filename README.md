@@ -19,7 +19,7 @@
 `pip install -r requirements.txt`
 
 ### 🔐 Variables d’environnement
-Ajoutez une clé OpenAI dans un fichier .env situé dans le dossier src : 
+Ajoutez une clé OpenAI dans un fichier `.env` situé dans le dossier `src` : 
 
 `OPENAI_API_KEY=...`
 
