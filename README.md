@@ -60,9 +60,9 @@ Génère un graphique à barres des thèmes et catégories les plus fréquents :
 * `top_categories_chart.png` : Résumé visuel des catégories les plus fréquentes
 
 ### 🔐 Variables d’environnement
-Ajoute ta clé OpenAI dans un fichier `.env` :
+Ajoute ta clé OpenAI dans un fichier `.env` dans le dossier src :
 
-OPENAI_API_KEY=sk-...
+OPENAI_API_KEY=...
 
 
 ### ✅ Statut
