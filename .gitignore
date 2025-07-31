@@ -2,8 +2,8 @@
 venv/
 .env
 # Dossier générés
-interm/
-clean/
+label_cache.json
+labels_output_clean.json
 
 # Points de reprise / checkpoints
 .checkpoint
