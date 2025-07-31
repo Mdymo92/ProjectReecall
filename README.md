@@ -30,7 +30,7 @@ Structure les données anonymisées au format standard :
 
 Nettoie les conversations pour les rendre exploitables :
 
-`python src/preprocess.py --input-dir src/interm/ --output-dir src/clean/`
+`python src/preprocess.py --input-dir src/interm/ --output-dir src/clean/ --batch-size 10`
 
 ### 3. 🧠 Étiquetage avec LLM (GPT)
 
