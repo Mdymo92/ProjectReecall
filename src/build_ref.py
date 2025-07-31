@@ -46,12 +46,32 @@ def regroup_ref_llm(
                 examples[theme][category].append(uc["besoin"])
 
     prompt = (
-        "Voici une liste de paires thème / catégorie extraites de conversations clients avec leurs fréquences.\n"
-        "Regroupe les catégories similaires entre elles et associe-les à des thèmes cohérents.\n"
-        "Fournis un JSON structuré de cette forme :\n"
-        "{\n  'themes': [\n    {\n      'theme_id': 0,\n      'theme': 'Paiement',\n      'frequency': 120,\n      'categories': [\n        {\n          'category_id': 0,\n          'category': 'Carte bancaire refusée',\n          'frequency': 70,\n          'examples': ['je n arrive pas à payer', 'le paiement ne passe pas']\n        },\n        ...\n      ]\n    },\n    ...\n  ]\n}\n"
-        "Réponds uniquement avec ce JSON."
-    )
+    "Voici une liste de paires thème / catégorie extraites de conversations clients avec leurs fréquences.\n"
+    "Regroupe les catégories similaires entre elles et associe-les à des thèmes cohérents.\n"
+    "Fournis un JSON structuré avec les clés suivantes :\n"
+    "{\n"
+    "  'themes': [\n"
+    "    {\n"
+    "      'theme_id': int (identifiant unique),\n"
+    "      'theme': str (nom du thème en français),\n"
+    "      'frequency': int (somme des fréquences des catégories de ce thème),\n"
+    "      'categories': [\n"
+    "        {\n"
+    "          'category_id': int (identifiant unique de la catégorie dans le thème),\n"
+    "          'category': str (nom de la catégorie en français),\n"
+    "          'frequency': int (nombre d'occurrences),\n"
+    "          'examples': list[str] (exemples en français)\n"
+    "        },\n"
+    "        ...\n"
+    "      ]\n"
+    "    },\n"
+    "    ...\n"
+    "  ]\n"
+    "}\n"
+    "Utilise impérativement ces noms de clés en anglais pour que le fichier soit lisible par une machine, "
+    "mais rédige tous les contenus (noms de thèmes, catégories, exemples) en français.\n"
+    "Réponds uniquement avec ce JSON.")
+
 
     content_to_send = json.dumps([
         {"theme": k[0], "categorie": k[1], "frequency": v, "examples": examples[k[0]][k[1]]}
@@ -60,7 +80,7 @@ def regroup_ref_llm(
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-3.5-turbo-0125",
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": content_to_send}
