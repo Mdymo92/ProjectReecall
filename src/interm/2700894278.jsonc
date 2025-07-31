@@ -1,0 +1,560 @@
+{
+  "conversation_id": "2700894278",
+  "call_created_at": "2025-04-01T12:53:34.000Z",
+  "role": "Senior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Hello?",
+      "start_time": 0.08,
+      "end_time": 0.58,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Hello?",
+      "start_time": 0.39999998,
+      "end_time": 0.9,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. Yeah.",
+      "start_time": 4.16,
+      "end_time": 12.34,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I'm a member of your camping car",
+      "start_time": 12.424999,
+      "end_time": 16.044998,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah.",
+      "start_time": 16.285,
+      "end_time": 16.785,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "business, sir. And, two years ago, this is already a long time ago, but I found a place, a camping car place, and, I paid. And I cut the entrance to that, and I get a card.",
+      "start_time": 16.345,
+      "end_time": 31.42,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 31.74,
+      "end_time": 32.239998,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "But my question is, is still this card good, Or",
+      "start_time": 32.04,
+      "end_time": 38.024998,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 37.82,
+      "end_time": 38.32,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "do you working today with another card? Because I see on your map that they use a blue card, a totally blue card. Mine has something else.",
+      "start_time": 38.024998,
+      "end_time": 50.765,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. No.",
+      "start_time": 51.025,
+      "end_time": 51.745,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "But",
+      "start_time": 51.5,
+      "end_time": 52,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "You you see it still, activate activation, and you can still use it.",
+      "start_time": 51.745,
+      "end_time": 56.725,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I can",
+      "start_time": 57.019997,
+      "end_time": 57.42,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure.",
+      "start_time": 57.345,
+      "end_time": 57.845,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "still use",
+      "start_time": 57.42,
+      "end_time": 58.16,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 58.225,
+      "end_time": 58.725,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it. Okay. Can you see how much money I got on the card?",
+      "start_time": 58.58,
+      "end_time": 63.44,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. You have 50, euros on your card.",
+      "start_time": 63.42,
+      "end_time": 66.32,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "€50. Well,",
+      "start_time": 66.655,
+      "end_time": 67.854996,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 67.74,
+      "end_time": 68.24,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you are good informed. Thank you very much. Because our plan is to travel a little bit to the Campania of France. So and, I'm very glad with this with this map. So and, I can use that €50 when I visit a car camping site.",
+      "start_time": 67.854996,
+      "end_time": 86.85,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 86.81,
+      "end_time": 87.21,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Right?",
+      "start_time": 86.85,
+      "end_time": 87.35,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. And if you want, you can, see your account on the app Coping Car Park. If you download it, you can, log in with your email address,",
+      "start_time": 87.21,
+      "end_time": 98.67,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah.",
+      "start_time": 99.185,
+      "end_time": 99.685,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah, Danjac@Hetnet.nl",
+      "start_time": 100.045,
+      "end_time": 104.625,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah. Correct.",
+      "start_time": 102.065,
+      "end_time": 105.205,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "or your, phone number with which you're calling.",
+      "start_time": 106.125,
+      "end_time": 108.704994,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "And then what can I do then?",
+      "start_time": 109.64,
+      "end_time": 111.42,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "You can log in with your email address or your phone number, and your password is your access card number. The 100570992.",
+      "start_time": 112.19,
+      "end_time": 122.990005,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Five seven zero nine nine 2.",
+      "start_time": 120.375,
+      "end_time": 123.115005,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 122.990005,
+      "end_time": 123.490005,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 123.415,
+      "end_time": 123.915,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's",
+      "start_time": 123.950005,
+      "end_time": 124.19,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "So",
+      "start_time": 124.055,
+      "end_time": 124.295,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "your",
+      "start_time": 124.19,
+      "end_time": 124.51,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "do I",
+      "start_time": 124.295,
+      "end_time": 124.775,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "password and you can",
+      "start_time": 124.51,
+      "end_time": 125.89,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "sorry. Again?",
+      "start_time": 126.215004,
+      "end_time": 126.795,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "it's your password and you can log in on the app to see your account and your your station.",
+      "start_time": 127.034996,
+      "end_time": 131.855,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Right. You know, I'm 73. I'm a very old man. I don't know exactly",
+      "start_time": 135.18999,
+      "end_time": 141.04999,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 140.89,
+      "end_time": 141.39,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "what to do.",
+      "start_time": 141.51,
+      "end_time": 142.40999,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's fine. Okay. If you want to see your account,",
+      "start_time": 141.93,
+      "end_time": 145.47,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "If I want to see my",
+      "start_time": 147.13501,
+      "end_time": 148.49501,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "your your balance and your account,",
+      "start_time": 149.13,
+      "end_time": 150.99,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah.",
+      "start_time": 151.21501,
+      "end_time": 151.71501,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "you can download the app, Captain Car Park.",
+      "start_time": 151.45,
+      "end_time": 154.51,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah. I got a card. I got this, yeah. I have that one.",
+      "start_time": 155.13501,
+      "end_time": 158.91501,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Mhmm. Okay. And you you can log in on the the app with your email address or your phone number and see your your balance, your €50, and your state directly on",
+      "start_time": 158.635,
+      "end_time": 169.355,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 169.27,
+      "end_time": 169.77,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "your on your phone.",
+      "start_time": 169.355,
+      "end_time": 170.495,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay. I can try this. And then I can see my balance and all. But",
+      "start_time": 171.27,
+      "end_time": 177.325,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah.",
+      "start_time": 176.93,
+      "end_time": 177.43,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "if I activate the credit card contact, do I have to I see. Oh, okay.",
+      "start_time": 178.265,
+      "end_time": 185.405,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. And if you want, you can change the language of the app in",
+      "start_time": 190.835,
+      "end_time": 195.095,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Right.",
+      "start_time": 195.06999,
+      "end_time": 195.56999,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "the or. You have the parameters and the language, and you can change",
+      "start_time": 195.55501,
+      "end_time": 202.07999,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 201.815,
+      "end_time": 202.315,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "it if you want.",
+      "start_time": 202.7,
+      "end_time": 203.92,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay. Well, I could try it. Thank you very much",
+      "start_time": 203.655,
+      "end_time": 207.335,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 207.26,
+      "end_time": 207.76,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "for your explanation,",
+      "start_time": 207.335,
+      "end_time": 208.55501,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome.",
+      "start_time": 209.09999,
+      "end_time": 209.84,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "and I look forward to visit France.",
+      "start_time": 209.57501,
+      "end_time": 212.235,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. Have a good day.",
+      "start_time": 212.45999,
+      "end_time": 215.04,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you. Bye bye.",
+      "start_time": 215.38481,
+      "end_time": 216.68481,
+      "user_id": null,
+      "phone_hash": "2b600affd9de436ecc9e8d795dd7d7967a0a86e48b02d00516407414b902ca04"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bye.",
+      "start_time": 216.65482,
+      "end_time": 217.15482,
+      "user_id": 1460746,
+      "phone_hash": null
+    }
+  ]
+}

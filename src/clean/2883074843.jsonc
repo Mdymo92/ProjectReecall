@@ -1,0 +1,528 @@
+{
+  "conversation_id": "2883074843",
+  "call_created_at": "2025-06-15T11:28:01.000Z",
+  "role": "Junior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hello okay",
+      "start_time": 0,
+      "end_time": 2.3999999,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hello i m mister pemberton and i m booking at the jocelyn air and apparently there was a electrical storm and it s knocked everything out",
+      "start_time": 2,
+      "end_time": 14.24,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes okay i see you you are yeah you tell me you re in pemberton",
+      "start_time": 15.005,
+      "end_time": 18.925,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "that s",
+      "start_time": 19.805,
+      "end_time": 20.285,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pardon",
+      "start_time": 20.035,
+      "end_time": 20.675,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "you you you tell",
+      "start_time": 20.285,
+      "end_time": 21.805,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pardon",
+      "start_time": 21.795,
+      "end_time": 22.675,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "me that you are at mister pemberton",
+      "start_time": 21.805,
+      "end_time": 24.285,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pep pembison yeah",
+      "start_time": 24.994999,
+      "end_time": 26.515,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so you are in joslyn i m going to check if there is any problem on the place but yeah in this place there is a lot of problem with the stone",
+      "start_time": 27.06,
+      "end_time": 36.66,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 37.22,
+      "end_time": 38.02,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "no okay so you want to come in or come out the place",
+      "start_time": 37.3,
+      "end_time": 40.9,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it s going",
+      "start_time": 41.38,
+      "end_time": 42.58,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 42.875,
+      "end_time": 43.594997,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "have we have booked yeah",
+      "start_time": 43.22,
+      "end_time": 45.105,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "you are in front of the barrier okay",
+      "start_time": 44.954998,
+      "end_time": 47.835,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "we are yes you",
+      "start_time": 47.185,
+      "end_time": 49.105,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "i",
+      "start_time": 49.035,
+      "end_time": 49.274998,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "could see",
+      "start_time": 49.105,
+      "end_time": 49.505,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "will be",
+      "start_time": 49.274998,
+      "end_time": 49.675,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it on the camera",
+      "start_time": 49.505,
+      "end_time": 50.625,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "no i m not no i don t have access on the camera",
+      "start_time": 50.795,
+      "end_time": 53.915,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah",
+      "start_time": 53.905,
+      "end_time": 54.305,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "but i will be able to give you a code to get in yeah just wait a i ll just take a look",
+      "start_time": 53.915,
+      "end_time": 60.940002,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "can i start",
+      "start_time": 71.3,
+      "end_time": 72.435,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay okay so can you please put the code 41",
+      "start_time": 73.115,
+      "end_time": 83.8,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yep yep",
+      "start_time": 83.395,
+      "end_time": 86.159996,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah 8",
+      "start_time": 86.12,
+      "end_time": 87.64,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yep",
+      "start_time": 88.4,
+      "end_time": 89.28,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "5",
+      "start_time": 89.48,
+      "end_time": 90.28,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yep",
+      "start_time": 91.2,
+      "end_time": 91.92,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "26",
+      "start_time": 92.2,
+      "end_time": 93.64,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 93.92,
+      "end_time": 94.32,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "and 9",
+      "start_time": 94.92,
+      "end_time": 95.64,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "and then",
+      "start_time": 97.515,
+      "end_time": 97.995,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "and",
+      "start_time": 97.845,
+      "end_time": 98.165,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "enter",
+      "start_time": 97.995,
+      "end_time": 98.715,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "and yes entered valid okay",
+      "start_time": 98.165,
+      "end_time": 101.125,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "nope it doesn t work",
+      "start_time": 104.395,
+      "end_time": 105.675,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "can you tell me if there is any message on the screen",
+      "start_time": 106.485,
+      "end_time": 108.725006,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oh it s open now",
+      "start_time": 111.76,
+      "end_time": 113.04,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 113.11,
+      "end_time": 113.75,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "open now",
+      "start_time": 113.12,
+      "end_time": 114.08,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "so you can go",
+      "start_time": 113.75,
+      "end_time": 114.95,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 114.48,
+      "end_time": 115.28,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "there is",
+      "start_time": 115.35,
+      "end_time": 115.75,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "and",
+      "start_time": 115.6,
+      "end_time": 115.92,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "a",
+      "start_time": 115.75,
+      "end_time": 115.99,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "what about the one to come in to go back out",
+      "start_time": 115.92,
+      "end_time": 120.4,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes and if you want to go back up if it s still not fixed if the program is still not fixed you can still call us back and we will be able to open the gate",
+      "start_time": 120.79,
+      "end_time": 128.655,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 129.245,
+      "end_time": 130.045,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "but",
+      "start_time": 129.89806,
+      "end_time": 130.13806,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "mercy",
+      "start_time": 130.045,
+      "end_time": 130.44499,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "but",
+      "start_time": 130.13806,
+      "end_time": 131.17807,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pickup",
+      "start_time": 130.44499,
+      "end_time": 131.16501,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "normally you will be able to do it by yourself",
+      "start_time": 131.25806,
+      "end_time": 133.89807,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay thank",
+      "start_time": 134.525,
+      "end_time": 135.565,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 135.49806,
+      "end_time": 136.21806,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you thank",
+      "start_time": 135.565,
+      "end_time": 136.525,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "it s",
+      "start_time": 136.21806,
+      "end_time": 136.53806,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you",
+      "start_time": 136.525,
+      "end_time": 137.005,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay have a nice day",
+      "start_time": 136.53806,
+      "end_time": 137.97807,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bye",
+      "start_time": 138.525,
+      "end_time": 138.845,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    },
+    {
+      "speaker": "agent",
+      "text": "bye",
+      "start_time": 138.77806,
+      "end_time": 139.17805,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bye",
+      "start_time": 138.845,
+      "end_time": 139.165,
+      "user_id": null,
+      "phone_hash": "10430ae6cc32d0991b2cd30b9c8ebd05abaeb3870712d9e946c1e0bc0ef6a285"
+    }
+  ]
+}

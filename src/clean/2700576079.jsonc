@@ -1,0 +1,368 @@
+{
+  "conversation_id": "2700576079",
+  "call_created_at": "2025-04-01T11:15:17.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "bonjour",
+      "start_time": 0.16,
+      "end_time": 0.65999997,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui bonjour monsieur je suis monsieur tripot je suis en stationnement de sur l aire de camping car de bleret en indre et loire",
+      "start_time": 1.76,
+      "end_time": 9.22,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 10,
+      "end_time": 10.5,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et il nous est arrive avec d autres camping caristes que",
+      "start_time": 11.04,
+      "end_time": 13.44,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 13.424999,
+      "end_time": 13.924999,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "quand on est arrive la barriere etait levee et c est suite a des travaux qui sont juste a cote de l aire de camping car ils sont au travers de faire des travaux a la piscine de bleret",
+      "start_time": 13.44,
+      "end_time": 22.215,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 22.625,
+      "end_time": 23.125,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et le courant etait coupe dans tout le secteur donc on a pu rentrer on est d accord et la pour sortir comme monsieur m a explique moi je ne savais pas",
+      "start_time": 22.915,
+      "end_time": 32.17,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous",
+      "start_time": 32.12,
+      "end_time": 32.2,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on",
+      "start_time": 32.17,
+      "end_time": 32.21,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "n etes",
+      "start_time": 32.2,
+      "end_time": 32.36,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ne peut",
+      "start_time": 32.21,
+      "end_time": 32.41,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "pas",
+      "start_time": 32.36,
+      "end_time": 32.86,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas sortir parce que on",
+      "start_time": 32.41,
+      "end_time": 34.309998,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "dedans vous",
+      "start_time": 34.12,
+      "end_time": 34.44,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "n a",
+      "start_time": 34.41,
+      "end_time": 34.809998,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous",
+      "start_time": 34.44,
+      "end_time": 34.94,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas pu on n a pas pu on a badge mais on n avait pas le on ne peut plus sortir maintenant",
+      "start_time": 34.809998,
+      "end_time": 40.27,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "egalement c est pour ca que hier vous n avez pas pu avoir acces a l eau egalement",
+      "start_time": 40.68,
+      "end_time": 43.965,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voila aussi puis j en ai besoin parce que j en ai plus",
+      "start_time": 44.614998,
+      "end_time": 47.515,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "et je vais vous creer un sejour vous etes arrive hier vers quelle heure",
+      "start_time": 47.485,
+      "end_time": 50.864998,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "il etait quelle heure 15 heures",
+      "start_time": 51.575,
+      "end_time": 52.855,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "il",
+      "start_time": 53.204998,
+      "end_time": 53.704998,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a 15 heures 30 15",
+      "start_time": 53.655,
+      "end_time": 54.775,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "est",
+      "start_time": 54.625,
+      "end_time": 55.125,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "heures 30",
+      "start_time": 54.775,
+      "end_time": 55.595,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "16 heures comme ca hop trente et un mars 16 heures attendez excusez moi tres bien donc la maintenant vous allez pouvoir si vous le souhaitez avoir acces a l eau ca",
+      "start_time": 56.045,
+      "end_time": 75.854996,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 75.854996,
+      "end_time": 76.354996,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "va fonctionner et donc pour ressortir vous avez donc jusqu a aujourd hui 16 heures pour etre sortir et",
+      "start_time": 75.854996,
+      "end_time": 81.534996,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 81.455,
+      "end_time": 81.955,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "ne facturer que d une seule nuit sur l art de blairer",
+      "start_time": 81.534996,
+      "end_time": 84.274994,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bon d accord alors je vais aller prevenir le monsieur le camping cariste qui est a cote de moi qu il a fait pareil et ca ne",
+      "start_time": 84.78,
+      "end_time": 89.42,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 89.38,
+      "end_time": 89.7445,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "marchait pas donc je vais aller prevenir qu il vous appelle alors",
+      "start_time": 89.42,
+      "end_time": 91.759995,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "exactement",
+      "start_time": 91.584496,
+      "end_time": 92.084496,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bon ok je vais lui dire",
+      "start_time": 93.1,
+      "end_time": 94.479996,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "tres bien monsieur",
+      "start_time": 95.0245,
+      "end_time": 95.9245,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok je vous remercie merci",
+      "start_time": 95.7845,
+      "end_time": 97.6245,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 97.584496,
+      "end_time": 97.7445,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bien",
+      "start_time": 97.6245,
+      "end_time": 97.8645,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous",
+      "start_time": 97.7445,
+      "end_time": 97.904495,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci",
+      "start_time": 97.8645,
+      "end_time": 98.3645,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "en prie tres bonne journee",
+      "start_time": 97.904495,
+      "end_time": 99.2045,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci d accord",
+      "start_time": 98.8245,
+      "end_time": 99.5645,
+      "user_id": null,
+      "phone_hash": "70db5e0b10d98688260eb1bbffbb9cfebc232428b9b2482035ee975276a4352d"
+    },
+    {
+      "speaker": "agent",
+      "text": "au revoir",
+      "start_time": 99.6645,
+      "end_time": 100.404495,
+      "user_id": 1463542,
+      "phone_hash": null
+    }
+  ]
+}

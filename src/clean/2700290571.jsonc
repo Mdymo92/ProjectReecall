@@ -1,0 +1,16 @@
+{
+  "conversation_id": "2700290571",
+  "call_created_at": "2025-04-01T09:48:35.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "bonjour est ce que vous m entendez olivier bonjour je ne vous entends pas je vais tenter de vous rappeler un instant s il vous plait je vous rappelle tout de suite",
+      "start_time": 2.96,
+      "end_time": 15.314563,
+      "user_id": 1463542,
+      "phone_hash": null
+    }
+  ]
+}

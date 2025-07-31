@@ -1,0 +1,424 @@
+{
+  "conversation_id": "2872960346",
+  "call_created_at": "2025-06-11T09:31:47.000Z",
+  "role": "Junior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "yes",
+      "start_time": 0.88,
+      "end_time": 3.04,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "we",
+      "start_time": 3.6,
+      "end_time": 4.88,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "i do",
+      "start_time": 6,
+      "end_time": 6.64,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "are we are trying to exit sands",
+      "start_time": 8.24,
+      "end_time": 10.639999,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 10.48,
+      "end_time": 11.2,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay and the body will not lift",
+      "start_time": 10.639999,
+      "end_time": 13.36,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay are you in front of the gate now",
+      "start_time": 13.84,
+      "end_time": 16.625,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes we are",
+      "start_time": 16.425,
+      "end_time": 17.945,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay it s open",
+      "start_time": 18.065,
+      "end_time": 20.224998,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no",
+      "start_time": 20.904999,
+      "end_time": 21.625,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "no",
+      "start_time": 22.385,
+      "end_time": 23.105,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no",
+      "start_time": 23.305,
+      "end_time": 24.024998,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 24.465,
+      "end_time": 25.105,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "we are trying to exit and it is down",
+      "start_time": 24.505,
+      "end_time": 26.505,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay it s not open okay",
+      "start_time": 30.19,
+      "end_time": 34.75,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no",
+      "start_time": 35.07,
+      "end_time": 35.47,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "moment please okay okay it s",
+      "start_time": 36.35,
+      "end_time": 89.31,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay it s",
+      "start_time": 87.13,
+      "end_time": 89.69,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "open now",
+      "start_time": 89.31,
+      "end_time": 90.189995,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "barrier barriers",
+      "start_time": 89.69,
+      "end_time": 90.65,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 90.35,
+      "end_time": 90.99,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "up yes",
+      "start_time": 90.65,
+      "end_time": 91.93,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "can can you tell me when the buyer close please",
+      "start_time": 91.869995,
+      "end_time": 94.59,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you want me to drive through it now i m",
+      "start_time": 96.33,
+      "end_time": 98.33,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah",
+      "start_time": 98.255,
+      "end_time": 98.575,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "going out",
+      "start_time": 98.33,
+      "end_time": 99.21,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah yeah go go out",
+      "start_time": 98.575,
+      "end_time": 100.815,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 100.33,
+      "end_time": 100.73,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "tell me when you are",
+      "start_time": 101.375,
+      "end_time": 106.015,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay oh hold",
+      "start_time": 107.005,
+      "end_time": 108.045,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "outside",
+      "start_time": 108.015,
+      "end_time": 108.495,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on moment i m outside",
+      "start_time": 108.045,
+      "end_time": 109.244995,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "you are outside",
+      "start_time": 109.240005,
+      "end_time": 110.6,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "not yet no no",
+      "start_time": 110.685,
+      "end_time": 111.885,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay okay",
+      "start_time": 111.880005,
+      "end_time": 112.92,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay we are outside now",
+      "start_time": 115.170006,
+      "end_time": 116.61,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so tell me when the buyer close please",
+      "start_time": 116.76,
+      "end_time": 122.92,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "the battery is still up",
+      "start_time": 130.995,
+      "end_time": 132.275,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "it s open now",
+      "start_time": 147.26,
+      "end_time": 148.29999,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "going down down the",
+      "start_time": 148.58,
+      "end_time": 151.70001,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "down",
+      "start_time": 151.515,
+      "end_time": 152.315,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "barrier is now down",
+      "start_time": 151.70001,
+      "end_time": 153.22,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 153.035,
+      "end_time": 153.835,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 153.22,
+      "end_time": 153.78001,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you",
+      "start_time": 153.835,
+      "end_time": 154.79501,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no thank you very much for letting us out",
+      "start_time": 154.90001,
+      "end_time": 156.82,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "have a nice day",
+      "start_time": 158.075,
+      "end_time": 159.35501,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "alright and you thank you again for your help bye",
+      "start_time": 159.4197,
+      "end_time": 162.0597,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "my",
+      "start_time": 161.915,
+      "end_time": 162.235,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bye",
+      "start_time": 162.0597,
+      "end_time": 162.61969,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    },
+    {
+      "speaker": "agent",
+      "text": "play my pleasure bye bye",
+      "start_time": 162.235,
+      "end_time": 163.595,
+      "user_id": 1618187,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bye bye",
+      "start_time": 163.81969,
+      "end_time": 164.37968,
+      "user_id": null,
+      "phone_hash": "292c1494edf681ab1997163d5509bdaf0ee958a1177223024855748502814463"
+    }
+  ]
+}

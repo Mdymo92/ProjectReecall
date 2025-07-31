@@ -1,0 +1,856 @@
+{
+  "conversation_id": "2701147453",
+  "call_created_at": "2025-04-01T13:51:47.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Oui monsieur Musso, Noémie société camping-car parc, je m'excuse de vous déranger. Bonjour madame Musso, excusez-moi, vous ne vous parliez pas, je pensais que c'était monsieur, c'est le",
+      "start_time": 21.6399999,
+      "end_time": 31.740000000000002,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui.",
+      "start_time": 31.559998999999998,
+      "end_time": 31.96,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "le",
+      "start_time": 31.96,
+      "end_time": 32.04,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui,",
+      "start_time": 31.96,
+      "end_time": 32.46,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "camping-car",
+      "start_time": 32.04,
+      "end_time": 32.54,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui, oui,",
+      "start_time": 32.5199995,
+      "end_time": 33.2699995,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "parc à son",
+      "start_time": 33.4,
+      "end_time": 33.96,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 33.955,
+      "end_time": 34.455,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "nom. J'ai le propriétaire de confolande qui me dit que vous étiez",
+      "start_time": 33.96,
+      "end_time": 37.675,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et",
+      "start_time": 37.515,
+      "end_time": 38.015,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "plus sur place, mais je n'ai pas votre mouvement de sortie.",
+      "start_time": 37.675,
+      "end_time": 40.095,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "maintenant parce que la compagnie a été ouverte.",
+      "start_time": 41.075,
+      "end_time": 43.654999000000004,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ah d'accord, parce que moi je vois que vous avez appelé ma collègue le vingt-sept pour rentrer, mais vous êtes parti le lendemain",
+      "start_time": 44.394999999999996,
+      "end_time": 49.855000000000004,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "On est parti samedi, on est parti, on est, alors c'est jeudi qu'on est arrivé avec le camping-car qui a eu plein de soucis",
+      "start_time": 50.66,
+      "end_time": 57.86,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors,",
+      "start_time": 57.57,
+      "end_time": 58.07,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pour la barrière.",
+      "start_time": 57.86,
+      "end_time": 58.68,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors le vingt-sept,",
+      "start_time": 58.45,
+      "end_time": 59.99,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "C'est vendredi,",
+      "start_time": 60.98,
+      "end_time": 61.8,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "donc jeudi, ouais c'est ça,",
+      "start_time": 61.65,
+      "end_time": 63.97,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui,",
+      "start_time": 63.945,
+      "end_time": 64.445,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "jeudi fin de",
+      "start_time": 63.97,
+      "end_time": 64.93,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on",
+      "start_time": 64.905,
+      "end_time": 65.14499699999999,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "journée et vous",
+      "start_time": 64.93,
+      "end_time": 65.25,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a",
+      "start_time": 65.14499699999999,
+      "end_time": 65.304996,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "êtes",
+      "start_time": 65.25,
+      "end_time": 65.41,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "payé samedi",
+      "start_time": 65.304996,
+      "end_time": 65.464996,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "reparti",
+      "start_time": 65.41,
+      "end_time": 65.72999999999999,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "samedi",
+      "start_time": 65.464996,
+      "end_time": 65.964996,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "dimanche matin Samedi donc le vingt-neuf.",
+      "start_time": 65.72999999999999,
+      "end_time": 69.485,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "à",
+      "start_time": 69.704998,
+      "end_time": 70.10499999999999,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, je",
+      "start_time": 69.785,
+      "end_time": 70.504997,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le dans",
+      "start_time": 70.10499999999999,
+      "end_time": 70.504997,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "clôture.",
+      "start_time": 70.504997,
+      "end_time": 71.004997,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "l'après-midi, c'était les 2 jours qu'on avait payé vingt-sept et quelques, je ne sais plus, ça a été retiré d'ailleurs.",
+      "start_time": 70.504997,
+      "end_time": 75.805,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Le vingt-neuf, oui mais moi en fait vous étiez toujours comptabilisé sur place parce que vous n'avez pas pu baser votre carte vu que la barrière est ouverte et le propriétaire m'a appelé en me disant non c'est messieurs dames ils sont plus ils sont ils sont plus là est-ce que vous pouvez les rappeler",
+      "start_time": 75.785,
+      "end_time": 90.75,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui",
+      "start_time": 91.315,
+      "end_time": 91.555,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 91.53,
+      "end_time": 91.77,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui mais",
+      "start_time": 91.555,
+      "end_time": 92.215004,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "vois qu'ils sont encore comptabilisés.",
+      "start_time": 91.77,
+      "end_time": 93.07,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "parce que comme il y a eu plein de soucis puis il y a des gens qui sont sortis alors nous quand on est arrivé donc",
+      "start_time": 92.595,
+      "end_time": 98.83501,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui,",
+      "start_time": 98.655,
+      "end_time": 98.975,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on a",
+      "start_time": 98.83501,
+      "end_time": 99.075005,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "j'en",
+      "start_time": 98.975,
+      "end_time": 99.375,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "tout",
+      "start_time": 99.075005,
+      "end_time": 99.575005,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "ai appelé 5 ou 6 qui étaient concernés, il n'y avait pas que vous, mais",
+      "start_time": 99.375,
+      "end_time": 103.395004,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le monde russe pépère, le vendredi il y en a qui sont partis le vendredi alors la dame",
+      "start_time": 103.78,
+      "end_time": 109.86,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "moi j'appelle",
+      "start_time": 109.535,
+      "end_time": 110.175,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pareil",
+      "start_time": 109.86,
+      "end_time": 110.36,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "tout le monde comme ça ça me",
+      "start_time": 110.175,
+      "end_time": 111.375,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et",
+      "start_time": 111.299995,
+      "end_time": 111.799995,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "permet de faire un petit point puis",
+      "start_time": 111.375,
+      "end_time": 113.4,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "puis le samedi matin avant midi il y a",
+      "start_time": 113.14,
+      "end_time": 116.5,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "d'être",
+      "start_time": 116.45125,
+      "end_time": 116.95125,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "des gens qui sont partis Donc on a bien vu parce qu'on était sur",
+      "start_time": 116.5,
+      "end_time": 120.015,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "sûr",
+      "start_time": 120.0025,
+      "end_time": 120.5025,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le bord qu'ils ont appris, qu'on attendu aussi. La volière",
+      "start_time": 120.015,
+      "end_time": 123.795,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "que.",
+      "start_time": 123.55376,
+      "end_time": 124.05376,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a dû s'ouvrir forcément parce qu'ils sont partis. Et puis nous quand on est parti l'après-midi, si la volière est ouverte, mère me fait comptabiliser, je dis, on sort parce qu'on n'a pas passé",
+      "start_time": 123.855,
+      "end_time": 134.670006,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui",
+      "start_time": 134.625,
+      "end_time": 134.865005,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "notre",
+      "start_time": 134.670006,
+      "end_time": 134.98000000000002,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 134.865005,
+      "end_time": 135.10500000000002,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "cap",
+      "start_time": 134.98000000000002,
+      "end_time": 135.23000000000002,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "ça",
+      "start_time": 135.10500000000002,
+      "end_time": 135.50500499999998,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "du coup.",
+      "start_time": 135.23000000000002,
+      "end_time": 135.89,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous a permis de prendre la route. Moi dans tous les cas c'est pour ça que je vous appelais pour vous mettre au plus juste et puis faire un petit point avec vous. Je ne vais pas vous vous",
+      "start_time": 135.50500499999998,
+      "end_time": 144.79000000000002,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Donc",
+      "start_time": 144.745,
+      "end_time": 144.90501,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "retarder.",
+      "start_time": 144.79000000000002,
+      "end_time": 145.29000000000002,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on est sûr, on avait pris les 2 jours",
+      "start_time": 144.90501,
+      "end_time": 147.145,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Moi",
+      "start_time": 147.11,
+      "end_time": 147.35,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "les vingt-sept.",
+      "start_time": 147.145,
+      "end_time": 147.80501,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "je viens de de clôturer manuellement votre sortie pour que ça",
+      "start_time": 147.35,
+      "end_time": 151.85,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Voilà",
+      "start_time": 151.465,
+      "end_time": 151.965,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "arrête",
+      "start_time": 152.23,
+      "end_time": 152.63,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 152.265,
+      "end_time": 152.765,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "votre facturation.",
+      "start_time": 152.63,
+      "end_time": 153.37,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui oui oui la consommation c'était vingt-sept",
+      "start_time": 153.145,
+      "end_time": 155.88501,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui",
+      "start_time": 156.115,
+      "end_time": 156.615,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "je sais plus j'ai vu que",
+      "start_time": 156.185,
+      "end_time": 157.145,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "vingt-sept,",
+      "start_time": 157.07501,
+      "end_time": 157.57501,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c'était",
+      "start_time": 157.145,
+      "end_time": 157.645,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui c'est",
+      "start_time": 158.035,
+      "end_time": 158.595,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voilà.",
+      "start_time": 158.38,
+      "end_time": 158.88,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "ça.",
+      "start_time": 158.595,
+      "end_time": 159.095,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Donc ça",
+      "start_time": 159.5,
+      "end_time": 159.90001,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui,",
+      "start_time": 159.795,
+      "end_time": 160.295,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a été les 2 jours, on est",
+      "start_time": 159.90001,
+      "end_time": 161.02,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 160.99501,
+      "end_time": 161.49501,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "parti,",
+      "start_time": 161.02,
+      "end_time": 161.52,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "viens de le clôturer là à l'instant.",
+      "start_time": 162.195,
+      "end_time": 163.815,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "donc voilà, donc on est sorti, mais la poignée était restée ouverte. Après, je ne sais pas, les autres ont dû",
+      "start_time": 163.90001,
+      "end_time": 167.82,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Merci.",
+      "start_time": 167.795,
+      "end_time": 168.13,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "faire comme nous, je ne sais",
+      "start_time": 167.82,
+      "end_time": 168.54001,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "J'appelle",
+      "start_time": 168.53,
+      "end_time": 169.03,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas, mais n'a",
+      "start_time": 168.54001,
+      "end_time": 169.18001,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "tout",
+      "start_time": 169.17,
+      "end_time": 169.41,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "plus.",
+      "start_time": 169.18001,
+      "end_time": 169.68001,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "le monde,",
+      "start_time": 169.41,
+      "end_time": 169.99,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Voilà, écoutez,",
+      "start_time": 170.22,
+      "end_time": 171.04001,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "comme ça je l'ai pris un par un, ça me permet de de me garantir qu'il soit bien sorti et que ce",
+      "start_time": 170.69,
+      "end_time": 176.13,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voilà",
+      "start_time": 175.985,
+      "end_time": 176.485,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "soit dans l'adéquate. Merci beaucoup d'avoir décroché",
+      "start_time": 176.13,
+      "end_time": 179.27,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voilà",
+      "start_time": 178.825,
+      "end_time": 179.325,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "et puis je vous souhaite une excellente journée.",
+      "start_time": 179.33,
+      "end_time": 181.35,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci au revoir",
+      "start_time": 181.665,
+      "end_time": 182.885,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bon après-midi au revoir.",
+      "start_time": 182.69739,
+      "end_time": 184.24738,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci au revoir",
+      "start_time": 183.985,
+      "end_time": 184.965,
+      "user_id": null,
+      "phone_hash": "6182451234e1c3d7b5f1fd40ff25853b408aec32054a53a15158a0b8bda4b57c"
+    }
+  ]
+}

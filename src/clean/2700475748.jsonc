@@ -1,0 +1,520 @@
+{
+  "conversation_id": "2700475748",
+  "call_created_at": "2025-04-01T10:40:54.000Z",
+  "role": "Senior",
+  "language": "de",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hallo guten tag",
+      "start_time": 0,
+      "end_time": 0.70029,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja hoffmann hallo",
+      "start_time": 3.47607,
+      "end_time": 4.25652,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "hallo guten tag",
+      "start_time": 4.90204,
+      "end_time": 5.68237,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "fur ich habe eine frage",
+      "start_time": 5.70238,
+      "end_time": 7.37831,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ich habe jetzt hier vom campingpark eine karte",
+      "start_time": 7.41834,
+      "end_time": 9.47952,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "habe auch die aufladungen bekommen die als rechnung nee oder als information",
+      "start_time": 10.440069999999999,
+      "end_time": 16.32346,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "mochte aber die rechnungen haben ihre rechnung",
+      "start_time": 16.90379,
+      "end_time": 17.14715,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "dass wir waren auf zwei oder drei campingplatzen",
+      "start_time": 20.06561,
+      "end_time": 23.62766,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "da bekomme ich dann keine information",
+      "start_time": 24.368090000000002,
+      "end_time": 26.029040000000002,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok kann ich die nummer ihrer zugangs karte haben",
+      "start_time": 30.46802,
+      "end_time": 33.62953,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "von der karte",
+      "start_time": 35.16809,
+      "end_time": 35.66852,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "101 bitte",
+      "start_time": 35.708549999999995,
+      "end_time": 36.55092,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "009 099 504",
+      "start_time": 40.51269,
+      "end_time": 57.08695,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "beate hoffmann",
+      "start_time": 57.367189999999994,
+      "end_time": 58.08781,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "ihr name war",
+      "start_time": 54.75959,
+      "end_time": 55.4199,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "das ist nur per mail erfolg",
+      "start_time": 63.084039999999995,
+      "end_time": 64.28461,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "mussen sie mir eine e mail schicken dann kann ich die rechnung per mail auch schicken",
+      "start_time": 64.38466,
+      "end_time": 72.68861,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja aber irgendwie die muss ich doch auch am pc",
+      "start_time": 72.42808,
+      "end_time": 74.83041,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ich meine ich habe die informationen vom aufladen einmal 20 euro und einmal 50 euro die informationen habe ich ja bekommen",
+      "start_time": 74.83041,
+      "end_time": 83.93924,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "wir waren aber jetzt auf einem campingplatz das war am 24",
+      "start_time": 87.78297,
+      "end_time": 91.94701,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "marz glaube ich war das",
+      "start_time": 92.32738,
+      "end_time": 93.22825,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "da wei ich gar nicht was es gekostet hat",
+      "start_time": 94.58957,
+      "end_time": 96.93184,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "moment guck mal ein blick wir konnen der letzte war das irgendwann sonntag",
+      "start_time": 98.63210000000001,
+      "end_time": 115.50135,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "die handynummer",
+      "start_time": 115.72145,
+      "end_time": 116.58182,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "0152 nicht die intellekt telefon bahar bitte",
+      "start_time": 116.64185,
+      "end_time": 126.29183,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "9 7 540 15 097 frau hofmann sah eine nacht in ischgurtel am 14",
+      "start_time": 131.28409,
+      "end_time": 178.33831,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja das war die erste anfang februar ne",
+      "start_time": 178.86185,
+      "end_time": 180.50302,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "am 4 nee am februar",
+      "start_time": 182.68457999999998,
+      "end_time": 185.40324,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ja",
+      "start_time": 185.98693,
+      "end_time": 186.10701999999998,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "dann am 7",
+      "start_time": 186.72746,
+      "end_time": 187.42795999999998,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "am 7",
+      "start_time": 188.18518,
+      "end_time": 190.18658,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "waren sie in potirey",
+      "start_time": 190.46677,
+      "end_time": 192.04787,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja",
+      "start_time": 192.69171,
+      "end_time": 192.8118,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "am 23",
+      "start_time": 195.59312,
+      "end_time": 197.53426000000002,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "waren sie in lubben gebaut bei zin",
+      "start_time": 198.03456,
+      "end_time": 203.63785000000001,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "3 wohnmobilstatten",
+      "start_time": 205.85916,
+      "end_time": 208.58076,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "das war 13 38",
+      "start_time": 208.62079,
+      "end_time": 214.04398,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "13 38 euro",
+      "start_time": 216.30396000000002,
+      "end_time": 218.06526,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "das war aber am 24",
+      "start_time": 218.06526,
+      "end_time": 220.58714,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "nee am 23",
+      "start_time": 220.78729,
+      "end_time": 224.40998000000002,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "bitte",
+      "start_time": 223.71205,
+      "end_time": 223.91216,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "nein nein 23",
+      "start_time": 225.07279,
+      "end_time": 226.55358999999999,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ja bis 24",
+      "start_time": 226.55358999999999,
+      "end_time": 228.19448,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 231.93557,
+      "end_time": 232.25581,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ja alles klar",
+      "start_time": 234.48407,
+      "end_time": 235.34453,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "also das waren 13 38",
+      "start_time": 235.92485,
+      "end_time": 237.44568,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "das erste waren 14 66",
+      "start_time": 237.4857,
+      "end_time": 240.26721,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "genau",
+      "start_time": 240.16094999999999,
+      "end_time": 240.38107,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "wie komme ich denn jetzt an die rechnung",
+      "start_time": 240.26721,
+      "end_time": 241.62795,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "agent",
+      "text": "das ist nur per mail folg",
+      "start_time": 243.3827,
+      "end_time": 244.64337999999998,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "oder warten sie fur die neue version unserer app dann konnen sie direkt uber ihre",
+      "start_time": 247.56495999999999,
+      "end_time": 252.92786,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "um zu unterladen um dort in die ein paar tage und ein buch die ja das wollte ich da machen",
+      "start_time": 254.57245,
+      "end_time": 257.79675,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "also muss ich das aktualisieren",
+      "start_time": 257.83677,
+      "end_time": 259.87788,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ja",
+      "start_time": 263.33976,
+      "end_time": 263.45983,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 265.74049,
+      "end_time": 266.00072,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ja ich habe die rechnung vom 4 2",
+      "start_time": 266.36104,
+      "end_time": 269.30362,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "habe ich ja auch nicht die 1466",
+      "start_time": 269.38370000000003,
+      "end_time": 271.64568,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "alle rechnungen habe ich nicht",
+      "start_time": 273.20706,
+      "end_time": 274.38809000000003,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "haben keine okay doch wortend jeden tag war tag der beiden tagungen ja alles klar",
+      "start_time": 275.00869,
+      "end_time": 281.81462,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "mein technische abteilung aber ich zahlt dazu daran ich bedanke mich und seinen findet ihr wieder okay",
+      "start_time": 282.07274,
+      "end_time": 285.69804,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "alles klar",
+      "start_time": 286.75897000000003,
+      "end_time": 287.15932,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "gut",
+      "start_time": 288.86082,
+      "end_time": 289.02096,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "ja alles klar",
+      "start_time": 290.86257,
+      "end_time": 291.76337,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    },
+    {
+      "speaker": "client",
+      "text": "tschuss",
+      "start_time": 291.94352000000003,
+      "end_time": 292.1437,
+      "user_id": null,
+      "phone_hash": "d3834d56b6b56a22dd1947a9ea0f9e374ab584c3a8c5c30d5404a54a134bc8fa"
+    }
+  ]
+}

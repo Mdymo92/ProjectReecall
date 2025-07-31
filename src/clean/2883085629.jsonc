@@ -1,0 +1,416 @@
+{
+  "conversation_id": "2883085629",
+  "call_created_at": "2025-06-15T12:04:13.000Z",
+  "role": "Junior",
+  "language": "de",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hallo kann ich auf englisch sprechen",
+      "start_time": 0.569,
+      "end_time": 15.051,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hallo michael hartmann hier guten tag",
+      "start_time": 2.42,
+      "end_time": 4.141,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "ich",
+      "start_time": 5.542,
+      "end_time": 5.722,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "ja i can speak in english no problem for sure",
+      "start_time": 7.443,
+      "end_time": 10.004,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "i have a privilege account",
+      "start_time": 11.905,
+      "end_time": 14.447,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 15.052,
+      "end_time": 15.312,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i did it last year and i now got an email that it s due to renewal but my payment method is not valid anymore",
+      "start_time": 15.868,
+      "end_time": 25.533,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "but i honestly don t want to extend it",
+      "start_time": 26.094,
+      "end_time": 28.815,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "i really would like that",
+      "start_time": 28.935,
+      "end_time": 30.136,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "it s really phase out now at the middle of august so i don t want to have it furthermore",
+      "start_time": 30.532,
+      "end_time": 37.78,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay i take that",
+      "start_time": 39.016,
+      "end_time": 40.177,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "are you mikkel hartmann",
+      "start_time": 40.237,
+      "end_time": 42.078,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay i found you",
+      "start_time": 42.098,
+      "end_time": 46.06,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "michael hartmann exactly",
+      "start_time": 42.925,
+      "end_time": 44.506,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so yes i see that you have a pac privilege and the new year of the pac privilege will start in august",
+      "start_time": 48.602,
+      "end_time": 60.069,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja aber ich mochte es nicht mehr haben",
+      "start_time": 61.044,
+      "end_time": 63.365,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay okay",
+      "start_time": 63.351,
+      "end_time": 64.692,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja also es ware gut wenn du das canceln kannst",
+      "start_time": 63.366,
+      "end_time": 65.986,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes okay i can do it",
+      "start_time": 66.888,
+      "end_time": 68.069,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so you received the email that was sent to you today",
+      "start_time": 68.149,
+      "end_time": 72.072,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "and this is an email saying that if you don t want you can call us",
+      "start_time": 72.932,
+      "end_time": 76.895,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "so that s what you did",
+      "start_time": 76.975,
+      "end_time": 77.755,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "genau genau so",
+      "start_time": 78.51,
+      "end_time": 82.611,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "ja also wenn du das canceln kannst ware das groartig",
+      "start_time": 82.612,
+      "end_time": 84.992,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "gut",
+      "start_time": 91.04,
+      "end_time": 91.22,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "do i get any confirmation of the cancellation or is it just cancelled right now",
+      "start_time": 91.38,
+      "end_time": 95.522,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "ich werde es machen",
+      "start_time": 98.874,
+      "end_time": 110.826,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 110.846,
+      "end_time": 111.026,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "kann ich sie warten",
+      "start_time": 111.027,
+      "end_time": 111.927,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ich muss nur eine frage an den supervisor stellen",
+      "start_time": 111.947,
+      "end_time": 114.07,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah that s okay no problem",
+      "start_time": 113.31,
+      "end_time": 115.031,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "und ich komme gleich nachher zuruck",
+      "start_time": 114.15,
+      "end_time": 116.452,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah that s fine",
+      "start_time": 117.012,
+      "end_time": 117.912,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "hallo",
+      "start_time": 286.829,
+      "end_time": 287.01,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hallo hallo ja alles okay",
+      "start_time": 288.665,
+      "end_time": 301.825,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "hallo",
+      "start_time": 289.294,
+      "end_time": 289.454,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so i can tell you practically as you ask",
+      "start_time": 289.935,
+      "end_time": 293.683,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "i just need to add some documents to justify your",
+      "start_time": 293.684,
+      "end_time": 298.211,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ah aber es ist okay",
+      "start_time": 299.962,
+      "end_time": 300.682,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "so ah you you yes you you won t receive an email for the confirmation but i can send you one if you want",
+      "start_time": 301.043,
+      "end_time": 307.127,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja das ware toll",
+      "start_time": 307.958,
+      "end_time": 309.279,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "client",
+      "text": "wenn ich eine verkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkaufsverkauf",
+      "start_time": 309.319,
+      "end_time": 335.954,
+      "user_id": null,
+      "phone_hash": "315fa4a3e0f3e2780578d77a6544330e9aafcf241f1adae03e34d2f9a8183e89"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 309.469,
+      "end_time": 309.729,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so just can you tell me what your email is please",
+      "start_time": 313.091,
+      "end_time": 316.233,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 322.178,
+      "end_time": 322.458,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay okay great",
+      "start_time": 324.94,
+      "end_time": 326.621,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so i will be able to send you an email for the confirmation",
+      "start_time": 326.961,
+      "end_time": 329.647,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 332.032,
+      "end_time": 332.212,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "it s okay",
+      "start_time": 333.094,
+      "end_time": 333.575,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you you two",
+      "start_time": 334.056,
+      "end_time": 334.697,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "bye bye",
+      "start_time": 335.619,
+      "end_time": 335.94,
+      "user_id": 1616843,
+      "phone_hash": null
+    }
+  ]
+}

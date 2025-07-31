@@ -1,0 +1,376 @@
+{
+  "conversation_id": "2703018021",
+  "call_created_at": "2025-04-02T07:07:46.000Z",
+  "role": "Senior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hello it is from the company how can i help you",
+      "start_time": 0.79999995,
+      "end_time": 5.06,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes hello there we re in a place where we can t get out the gate i think what s going on i think what we ll have to realize i don t think we ve got enough had enough money on the on the card",
+      "start_time": 5.68,
+      "end_time": 19.035,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay so do you have an access card number please",
+      "start_time": 19.485,
+      "end_time": 22.865,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "the the card on the on your card is 100",
+      "start_time": 24.935001,
+      "end_time": 28.795,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes",
+      "start_time": 29.085,
+      "end_time": 29.585,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "7 5 5 7 1 4",
+      "start_time": 29.63,
+      "end_time": 33.97,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you it is just a flak yam jan dane",
+      "start_time": 34.96,
+      "end_time": 42.5,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "that s right",
+      "start_time": 42.829998,
+      "end_time": 43.635,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "sorry",
+      "start_time": 43.44,
+      "end_time": 43.94,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i think",
+      "start_time": 44.195,
+      "end_time": 44.754997,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 44.64,
+      "end_time": 45.14,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i might be managing to do it online at the",
+      "start_time": 44.754997,
+      "end_time": 48.135,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay at this",
+      "start_time": 49.065,
+      "end_time": 49.785,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "minute",
+      "start_time": 49.555,
+      "end_time": 50.055,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "moment you are in marina leila and",
+      "start_time": 49.785,
+      "end_time": 54.684998,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i think i m on",
+      "start_time": 54.434998,
+      "end_time": 55.315,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes",
+      "start_time": 55.305,
+      "end_time": 55.805,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "your app trying to do it now i think",
+      "start_time": 55.315,
+      "end_time": 58.934998,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay yes okay i understand absolutely",
+      "start_time": 60.100002,
+      "end_time": 67.8,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "absolutely i see you have tried to make this payment and that works but",
+      "start_time": 68.18,
+      "end_time": 74.6,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 74.604996,
+      "end_time": 75.104996,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "there is okay allow just a little moment please i will update this it s not normal",
+      "start_time": 74.66,
+      "end_time": 82.065,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "it s because yeah i don t know why hello just just one moment could you just wait a moment",
+      "start_time": 82.445,
+      "end_time": 92.52,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "don t leave this call okay i m",
+      "start_time": 92.579994,
+      "end_time": 95.7,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 95.630005,
+      "end_time": 96.11,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "coming back",
+      "start_time": 95.7,
+      "end_time": 96.6,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah yeah",
+      "start_time": 96.11,
+      "end_time": 96.85,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you",
+      "start_time": 96.659996,
+      "end_time": 97.21999,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i",
+      "start_time": 97.15,
+      "end_time": 97.39,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you",
+      "start_time": 97.21999,
+      "end_time": 97.53999,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "think",
+      "start_time": 97.39,
+      "end_time": 97.630005,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "so much",
+      "start_time": 97.53999,
+      "end_time": 98.119995,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it says it s a valid statement now",
+      "start_time": 97.630005,
+      "end_time": 99.89,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay allow just a moment just just one minute please thank",
+      "start_time": 100.875,
+      "end_time": 105.195,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 105.075,
+      "end_time": 105.575,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "you",
+      "start_time": 105.195,
+      "end_time": 105.695,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "two up on there",
+      "start_time": 106.195,
+      "end_time": 107.335,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "no hello no okay hello",
+      "start_time": 119.65,
+      "end_time": 206.26,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay always managed to get out",
+      "start_time": 207.28,
+      "end_time": 209.46,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah it it s okay",
+      "start_time": 210.435,
+      "end_time": 211.655,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it s okay fine thank you very",
+      "start_time": 212.61801,
+      "end_time": 214.138,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 213.955,
+      "end_time": 214.455,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "much",
+      "start_time": 214.138,
+      "end_time": 214.638,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "super you re welcome perfect",
+      "start_time": 214.67499,
+      "end_time": 216.375,
+      "user_id": 1503114,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "uh huh just give me your hand thank you very much",
+      "start_time": 216.53801,
+      "end_time": 219.438,
+      "user_id": null,
+      "phone_hash": "618c70923269c725d1a6797c533aef534afda1300f6364a90af977e6601a0824"
+    },
+    {
+      "speaker": "agent",
+      "text": "you re welcome have a nice day enjoy bye",
+      "start_time": 219.155,
+      "end_time": 222.375,
+      "user_id": 1503114,
+      "phone_hash": null
+    }
+  ]
+}

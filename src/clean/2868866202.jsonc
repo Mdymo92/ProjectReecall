@@ -1,0 +1,440 @@
+{
+  "conversation_id": "2868866202",
+  "call_created_at": "2025-06-10T07:58:37.000Z",
+  "role": "Junior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "bienvenido",
+      "start_time": 0.08,
+      "end_time": 0.42,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si hola estoy aqui en el aeropuerto de flesberg",
+      "start_time": 0.5,
+      "end_time": 6.484,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "no puedo la barrera no me abre",
+      "start_time": 7.525,
+      "end_time": 12.749,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "voy a salir y no puedo salir de la comandante",
+      "start_time": 12.829,
+      "end_time": 18.995,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "de acuerdo",
+      "start_time": 18.525,
+      "end_time": 18.946,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "voy a poder ayudarte no te preocupes",
+      "start_time": 20.366,
+      "end_time": 21.886,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "entonces eres el senor gargalo bussone",
+      "start_time": 24.167,
+      "end_time": 27.248,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "estan bien voy a hablar espanol",
+      "start_time": 30.089,
+      "end_time": 31.893,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "senor",
+      "start_time": 31.113,
+      "end_time": 33.201,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no",
+      "start_time": 34.155,
+      "end_time": 34.275,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "no ingles o frances disculpe",
+      "start_time": 34.445,
+      "end_time": 36.111,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bien",
+      "start_time": 37.538,
+      "end_time": 39.079,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "un momento",
+      "start_time": 39.239,
+      "end_time": 39.8,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "bueno dime un momento",
+      "start_time": 39.82,
+      "end_time": 59.796,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "puedo tener tu nombre por favor",
+      "start_time": 60.725,
+      "end_time": 62.949,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ricardo gargallo",
+      "start_time": 64.505,
+      "end_time": 65.951,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok de acuerdo",
+      "start_time": 66.657,
+      "end_time": 68.821,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "voy a poder hacer que salga",
+      "start_time": 68.822,
+      "end_time": 70.164,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "el autocaravan anterior y la tupe con la barrera",
+      "start_time": 89.5,
+      "end_time": 96.342,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "si voy a",
+      "start_time": 97.994,
+      "end_time": 99.154,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "hay un problema en el aire pero voy a poder hacer que salga voy a dar un codigo",
+      "start_time": 99.155,
+      "end_time": 106.338,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "alo",
+      "start_time": 106.339,
+      "end_time": 106.498,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "alo",
+      "start_time": 107.625,
+      "end_time": 107.765,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "si",
+      "start_time": 107.905,
+      "end_time": 108.025,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "estais cerca de la via",
+      "start_time": 108.759,
+      "end_time": 109.96,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "puedo pedir que entre un codigo",
+      "start_time": 110.02,
+      "end_time": 113.422,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "entonces el codigo es 877",
+      "start_time": 113.423,
+      "end_time": 123.808,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "8 8 7 0 llego 1 1 1 1 perdon 4 1 8 5 otro 1 5 7 7 y 2 y apuyese en la flecha para confirmar vale 7 y 2",
+      "start_time": 122.88,
+      "end_time": 147.632,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "la flecha la entre no no la aprieta la flecha si entonces uy va indice de hora va podriamos intentar",
+      "start_time": 153.032,
+      "end_time": 170.655,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "tornemos a hacer un",
+      "start_time": 170.417,
+      "end_time": 171.177,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "si bien alo",
+      "start_time": 171.957,
+      "end_time": 173.077,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "entonces dime el codigo 8 7 8 7",
+      "start_time": 173.137,
+      "end_time": 181.72,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "0 01172 y enter",
+      "start_time": 182.425,
+      "end_time": 193.437,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "1 1",
+      "start_time": 185.067,
+      "end_time": 185.928,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "y la flecha de entrada",
+      "start_time": 188.44,
+      "end_time": 193.224,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok",
+      "start_time": 194.518,
+      "end_time": 194.638,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "y la maria es mi subgrupado",
+      "start_time": 196.499,
+      "end_time": 203.983,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "uh",
+      "start_time": 203.984,
+      "end_time": 204.644,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "entra",
+      "start_time": 204.494,
+      "end_time": 205.615,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ya",
+      "start_time": 204.645,
+      "end_time": 204.764,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "si podran llamarnos",
+      "start_time": 205.655,
+      "end_time": 214.963,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci",
+      "start_time": 205.804,
+      "end_time": 206.465,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "si pues esta bien",
+      "start_time": 214.601,
+      "end_time": 219.043,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "esta bien para ustedes",
+      "start_time": 218.136,
+      "end_time": 220.218,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voy a un mama y esto y esto",
+      "start_time": 222.844,
+      "end_time": 228.246,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "es igual",
+      "start_time": 228.507,
+      "end_time": 235.73,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok parten",
+      "start_time": 234.751,
+      "end_time": 238.274,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voy a un mama y un mama",
+      "start_time": 236.49,
+      "end_time": 237.69,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "eso si la barriera se permite con reclamo",
+      "start_time": 243.508,
+      "end_time": 259.833,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "si estais fuera",
+      "start_time": 260.674,
+      "end_time": 262.158,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "merci de nada",
+      "start_time": 262.234,
+      "end_time": 263.824,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "d accord merci pasad una buena dia",
+      "start_time": 263.555,
+      "end_time": 267.035,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "client",
+      "text": "au revoir",
+      "start_time": 265.295,
+      "end_time": 267.096,
+      "user_id": null,
+      "phone_hash": "52980ed331d1a0b8a45a7291867cd948d5b86d860e39973063d3afda8c417fc2"
+    },
+    {
+      "speaker": "agent",
+      "text": "adios",
+      "start_time": 267.095,
+      "end_time": 267.296,
+      "user_id": 1616843,
+      "phone_hash": null
+    }
+  ]
+}

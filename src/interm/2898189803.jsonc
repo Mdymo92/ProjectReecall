@@ -1,0 +1,184 @@
+{
+  "conversation_id": "2898189803",
+  "call_created_at": "2025-06-20T08:33:25.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "Je mets mon truc devant",
+      "start_time": 1.04,
+      "end_time": 2,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bonjour.",
+      "start_time": 1.92,
+      "end_time": 2.42,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "la barrière qui s'ouvre, vous le tiens qui se barre, la barrière qui s'ouvre, qui se baisse. Allô",
+      "start_time": 2,
+      "end_time": 5.7799997,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Quentin bonjour. Bonjour.",
+      "start_time": 5.8399997,
+      "end_time": 6.74,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui bonjour madame je suis à la la au camping-car de Cléderre. Voilà ce qui m'amène, j'ai une réservation, je mets ma carte par étape devant l'appareil, pouf, ça s'ouvre, mais quelques secondes après ça se referme au chasse et c'est parti. Alors j'ai voulu réouvrir la barrière, ça ne marche pas. Comment je fais",
+      "start_time": 8,
+      "end_time": 23.735,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors est-ce que je pourrais avoir votre numéro de carte d'accès monsieur s'il vous plaît",
+      "start_time": 23.565,
+      "end_time": 26.785,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui monsieur alors c'est numéro 104 100 quatre-vingt 0 quatre-vingt-sept",
+      "start_time": 26.35,
+      "end_time": 31.01,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Merci. Votre nom",
+      "start_time": 31.6,
+      "end_time": 32.98,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Meurick m comme Marcel EURIC oui",
+      "start_time": 33.39,
+      "end_time": 36.85,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Michel. Alors.",
+      "start_time": 37.2,
+      "end_time": 40.5,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Il y a un allemand qui veut sortir aussi, il a des problèmes de cartes, bref, moi je veux rentrer.",
+      "start_time": 43.845,
+      "end_time": 48.585,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors vous vous êtes bien de voir l'appareil votre véhicule",
+      "start_time": 51.395,
+      "end_time": 53.495,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Non non il y a un allemand qui veut sortir avant moi là, il veut sortir lui et moi je voudrais rentrer mais l'allemand il recule qu'est-ce que c'est ce truc. Ça c'est pas possible. Je me présente à quelqu'un ça, à l'instant madame, je suis je manoeuvre par là. Voilà, je pense plus par là, voilà, voilà. Je m'excuse un peu c'est un peu c'est souple ce matin ici j'ai l'impression.",
+      "start_time": 53.845,
+      "end_time": 84.46999,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "client",
+      "text": "Attends là voilà attends voilà C'est partagé pour entrer ici au plus, j'ai mon vécu depuis sept-mille-cinquante. Voilà je suis je suis devant la porte madame. Je suis, je suis, ah ça y est c'est bon c'est ouvert. Ouais merci madame.",
+      "start_time": 89.729996,
+      "end_time": 119,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Allez-y.",
+      "start_time": 119.53,
+      "end_time": 120.03,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ah c'est ça merde, attends.",
+      "start_time": 120.9,
+      "end_time": 122.36,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vous êtes rentrés",
+      "start_time": 128.065,
+      "end_time": 128.805,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Voilà ça y est japonais je je suis rentré là ça y est c'est bon je suis passé madame",
+      "start_time": 129.485,
+      "end_time": 133.825,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bon c'est parfait alors.",
+      "start_time": 133.985,
+      "end_time": 135.44499,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Merci beaucoup, au revoir.",
+      "start_time": 135.4915,
+      "end_time": 137.1115,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "Avec plaisir, au revoir.",
+      "start_time": 136.94499,
+      "end_time": 138.325,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Au moment.",
+      "start_time": 138.1315,
+      "end_time": 138.79149,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    }
+  ]
+}

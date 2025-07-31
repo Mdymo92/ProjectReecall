@@ -1,0 +1,184 @@
+{
+  "conversation_id": "2898189803",
+  "call_created_at": "2025-06-20T08:33:25.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "je mets mon truc devant",
+      "start_time": 1.04,
+      "end_time": 2,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "bonjour",
+      "start_time": 1.92,
+      "end_time": 2.42,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "la barriere qui s ouvre vous le tiens qui se barre la barriere qui s ouvre qui se baisse allo",
+      "start_time": 2,
+      "end_time": 5.7799997,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "quentin bonjour bonjour",
+      "start_time": 5.8399997,
+      "end_time": 6.74,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui bonjour madame je suis a la au camping car de clederre voila ce qui m amene j ai une reservation je mets ma carte par etape devant l appareil pouf ca s ouvre mais quelques secondes apres ca se referme au chasse et c est parti alors j ai voulu reouvrir la barriere ca ne marche pas comment je fais",
+      "start_time": 8,
+      "end_time": 23.735,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors est ce que je pourrais avoir votre numero de carte d acces monsieur s il vous plait",
+      "start_time": 23.565,
+      "end_time": 26.785,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui monsieur alors c est numero 104 100 quatre vingt 0 quatre vingt sept",
+      "start_time": 26.35,
+      "end_time": 31.01,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "merci votre nom",
+      "start_time": 31.6,
+      "end_time": 32.98,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "meurick m comme marcel euric oui",
+      "start_time": 33.39,
+      "end_time": 36.85,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "michel alors",
+      "start_time": 37.2,
+      "end_time": 40.5,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "il y a un allemand qui veut sortir aussi il a des problemes de cartes bref moi je veux rentrer",
+      "start_time": 43.845,
+      "end_time": 48.585,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors vous etes bien de voir l appareil votre vehicule",
+      "start_time": 51.395,
+      "end_time": 53.495,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "non non il y a un allemand qui veut sortir avant moi la il veut sortir lui et moi je voudrais rentrer mais l allemand il recule qu est ce que c est ce truc ca c est pas possible je me presente a quelqu un ca a l instant madame je suis je manoeuvre par la voila je pense plus par la voila voila je m excuse un peu c est souple ce matin ici j ai l impression",
+      "start_time": 53.845,
+      "end_time": 84.46999,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "client",
+      "text": "attends la voila attends voila c est partage pour entrer ici au plus j ai mon vecu depuis sept mille cinquante voila je suis devant la porte madame je suis ah ca y est c est bon c est ouvert ouais merci madame",
+      "start_time": 89.729996,
+      "end_time": 119,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "allez y",
+      "start_time": 119.53,
+      "end_time": 120.03,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah c est ca merde attends",
+      "start_time": 120.9,
+      "end_time": 122.36,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous etes rentres",
+      "start_time": 128.065,
+      "end_time": 128.805,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voila ca y est japonais je suis rentre la ca y est c est bon je suis passe madame",
+      "start_time": 129.485,
+      "end_time": 133.825,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "bon c est parfait alors",
+      "start_time": 133.985,
+      "end_time": 135.44499,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci beaucoup au revoir",
+      "start_time": 135.4915,
+      "end_time": 137.1115,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    },
+    {
+      "speaker": "agent",
+      "text": "avec plaisir au revoir",
+      "start_time": 136.94499,
+      "end_time": 138.325,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "au moment",
+      "start_time": 138.1315,
+      "end_time": 138.79149,
+      "user_id": null,
+      "phone_hash": "b0fd48a2523e7336b4961d1531659216b21ce855c1ca6531b7d66ce2c5d732cd"
+    }
+  ]
+}

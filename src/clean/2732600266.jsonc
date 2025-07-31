@@ -1,0 +1,344 @@
+{
+  "conversation_id": "2732600266",
+  "call_created_at": "2025-04-14T12:45:05.000Z",
+  "role": "Senior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "ya me pongo",
+      "start_time": 0.04,
+      "end_time": 0.42,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si hola",
+      "start_time": 2.812,
+      "end_time": 3.152,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "hola gracias",
+      "start_time": 4.082,
+      "end_time": 4.883,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "en espanol habla",
+      "start_time": 7.776,
+      "end_time": 8.516,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "si un poco",
+      "start_time": 9.285,
+      "end_time": 9.786,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si oye esta en senas",
+      "start_time": 12.739,
+      "end_time": 17.53,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "no he salido ya de sex noise pero me sale como que estoy todavia adentro oh porque hemos tenido que salir por la puerta de entrada vale",
+      "start_time": 20.825,
+      "end_time": 27.096,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "estaba rota el ticket",
+      "start_time": 28.29,
+      "end_time": 30.712,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "el lado de barrera no funcionaba y hemos tenido que salir todos por la entrada",
+      "start_time": 32.181,
+      "end_time": 35.304,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok ok",
+      "start_time": 35.828,
+      "end_time": 36.068,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "se quedan en el area por un dia o mas",
+      "start_time": 37.809,
+      "end_time": 42.813,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no no estoy fuera yo ya no estoy en el area no estoy",
+      "start_time": 42.27,
+      "end_time": 45.753,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "si si",
+      "start_time": 45.255,
+      "end_time": 46.416,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "estaba en el area por un dia solamente",
+      "start_time": 46.556,
+      "end_time": 50.6,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no llevaba varios dias ya y tenia ya todo pagado para justo salir hoy antes de las seis",
+      "start_time": 51.438,
+      "end_time": 58.264,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "hoy o de ayer",
+      "start_time": 61.32,
+      "end_time": 62.781,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "si hoy",
+      "start_time": 62.732,
+      "end_time": 63.601,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hoy antes de las seis tenia para salir",
+      "start_time": 64.994,
+      "end_time": 67.236,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 67.744,
+      "end_time": 67.864,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "voy a registrar su salida",
+      "start_time": 68.104,
+      "end_time": 69.865,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le hace falta el numero matricula o algo",
+      "start_time": 73.681,
+      "end_time": 75.482,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "con su numero de telefono tengo su cuenta",
+      "start_time": 76.368,
+      "end_time": 78.729,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ignacio uriagorja",
+      "start_time": 79.05,
+      "end_time": 80.41,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah eso es si",
+      "start_time": 79.646,
+      "end_time": 82.668,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "bien",
+      "start_time": 83.512,
+      "end_time": 83.752,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "a las 6",
+      "start_time": 83.852,
+      "end_time": 85.113,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 86.934,
+      "end_time": 87.094,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "esta registrado que no esta en el area",
+      "start_time": 87.314,
+      "end_time": 90.856,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ahora ya ha salido",
+      "start_time": 91.484,
+      "end_time": 92.645,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ahora esta registrado que le he salido ya",
+      "start_time": 92.68,
+      "end_time": 94.521,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "vale si si perfecto perfecto",
+      "start_time": 94.822,
+      "end_time": 96.523,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "es que ademas iba a volver en un par de dias y iba a tener luego problemas para entrar o lo que sea",
+      "start_time": 96.524,
+      "end_time": 100.886,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "ahora entonces esta todo correcto no",
+      "start_time": 101.346,
+      "end_time": 102.787,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "si",
+      "start_time": 104.134,
+      "end_time": 106.556,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "vale",
+      "start_time": 104.648,
+      "end_time": 105.048,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "client",
+      "text": "muchisimas gracias muy amable",
+      "start_time": 105.449,
+      "end_time": 106.93,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "de nada",
+      "start_time": 106.596,
+      "end_time": 106.957,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "que tengan buen dia",
+      "start_time": 107.377,
+      "end_time": 108.278,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hasta luego",
+      "start_time": 107.87,
+      "end_time": 108.511,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "hasta luego",
+      "start_time": 108.738,
+      "end_time": 109.318,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "lo mismo hasta luego",
+      "start_time": 109.091,
+      "end_time": 110.292,
+      "user_id": null,
+      "phone_hash": "edf5eae777d06001ef629aec549a0eb1495403743e4b50357cad57a2776c8670"
+    },
+    {
+      "speaker": "agent",
+      "text": "gracias hasta luego",
+      "start_time": 110.319,
+      "end_time": 111.12,
+      "user_id": 1460746,
+      "phone_hash": null
+    }
+  ]
+}

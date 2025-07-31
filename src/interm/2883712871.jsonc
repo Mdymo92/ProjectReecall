@@ -1,0 +1,344 @@
+{
+  "conversation_id": "2883712871",
+  "call_created_at": "2025-06-16T06:34:23.000Z",
+  "role": "Junior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "Hello? 0183646. So you're calling Typical, isn't it? The one day we've got a time schedule. Called (818) 364-6921.",
+      "start_time": 7.84,
+      "end_time": 33.24,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Gonna be right now, won't we?",
+      "start_time": 34.92,
+      "end_time": 36.04,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Hello. It is from the company, How can I help you?",
+      "start_time": 70.47,
+      "end_time": 73.99,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Hello. Just probably the wrong way.",
+      "start_time": 75.27,
+      "end_time": 77.52,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes. Of course. I can.",
+      "start_time": 77.27,
+      "end_time": 78.71,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "I'm currently at Cunantray, and I'm",
+      "start_time": 79.44,
+      "end_time": 83.03,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 82.61,
+      "end_time": 83.49,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "trying to get out for the barrier roadways once I put my code in.",
+      "start_time": 83.03,
+      "end_time": 86.39,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Mhmm. So you can okay. And so it is to leave leave the place?",
+      "start_time": 86.61,
+      "end_time": 94.66,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes. Yeah.",
+      "start_time": 94.73,
+      "end_time": 95.93,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes.",
+      "start_time": 95.38,
+      "end_time": 95.78,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 95.78,
+      "end_time": 96.34,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes,",
+      "start_time": 95.93,
+      "end_time": 96.41,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "please.",
+      "start_time": 96.41,
+      "end_time": 96.65,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "That doesn't work at this moment when you try with your code.",
+      "start_time": 96.82,
+      "end_time": 101.22,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "With the code? Yeah. We'll work with the codes now.",
+      "start_time": 103.38,
+      "end_time": 106.41,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Because you have the code on the app, Camping Car Park.",
+      "start_time": 106.99,
+      "end_time": 112.19,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah. Yeah.",
+      "start_time": 112.02,
+      "end_time": 113.69,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "And",
+      "start_time": 112.99,
+      "end_time": 113.47,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "when when you try the code 261506,",
+      "start_time": 113.47,
+      "end_time": 117.39,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah. It",
+      "start_time": 119.71,
+      "end_time": 120.35,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "is",
+      "start_time": 119.88,
+      "end_time": 120.2,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "there",
+      "start_time": 120.2,
+      "end_time": 120.44,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "doesn't",
+      "start_time": 120.35,
+      "end_time": 120.67,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "work.",
+      "start_time": 120.67,
+      "end_time": 120.99,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "it doesn't work. Okay. I don't know why. Just a little moment. At this moment, are you in front of the gate?",
+      "start_time": 121.16,
+      "end_time": 133.65,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "The",
+      "start_time": 134.37,
+      "end_time": 134.61,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "I",
+      "start_time": 134.41,
+      "end_time": 134.74,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "barrier.",
+      "start_time": 134.61,
+      "end_time": 135.33,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "am.",
+      "start_time": 134.74,
+      "end_time": 135.06,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes.",
+      "start_time": 135.06,
+      "end_time": 135.22,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "Yes? Okay. Thank you. Just a little moment. Okay.",
+      "start_time": 135.41,
+      "end_time": 150.09,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Let me try to cannot",
+      "start_time": 150.09,
+      "end_time": 152.49,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you.",
+      "start_time": 155.43,
+      "end_time": 156.31,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "okay. Super. You're welcome, sir.",
+      "start_time": 156.25,
+      "end_time": 158.01,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you very much.",
+      "start_time": 159.27,
+      "end_time": 160.47,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "You're welcome.",
+      "start_time": 160.58,
+      "end_time": 161.46,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Have",
+      "start_time": 161.46,
+      "end_time": 161.7,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "Bye",
+      "start_time": 161.59,
+      "end_time": 161.83,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "a nice day. Goodbye.",
+      "start_time": 161.7,
+      "end_time": 163.06,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "bye.",
+      "start_time": 161.83,
+      "end_time": 162.47,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    },
+    {
+      "speaker": "client",
+      "text": "I need bye bye.",
+      "start_time": 163.51,
+      "end_time": 164.39,
+      "user_id": null,
+      "phone_hash": "04fdec49b73c6a7a24db019d372e7a5d54389b8586341a2dd288f658eb014142"
+    }
+  ]
+}

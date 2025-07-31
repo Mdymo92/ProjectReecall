@@ -1,0 +1,392 @@
+{
+  "conversation_id": "2706358006",
+  "call_created_at": "2025-04-03T06:59:32.000Z",
+  "role": "Senior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Hello?",
+      "start_time": 0.39999998,
+      "end_time": 0.9,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Hello?",
+      "start_time": 5.7599998,
+      "end_time": 6.16,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello?",
+      "start_time": 5.8399997,
+      "end_time": 6.3399997,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Hello?",
+      "start_time": 6.16,
+      "end_time": 6.66,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes?",
+      "start_time": 7.2,
+      "end_time": 7.7,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Can you hear me okay?",
+      "start_time": 8.08,
+      "end_time": 9.46,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. I can.",
+      "start_time": 9.44,
+      "end_time": 11.46,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oh, please help. I cannot log on to my camping car park app.",
+      "start_time": 11.92,
+      "end_time": 18.705,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 19.425,
+      "end_time": 19.925,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I I seem to have lost my, password.",
+      "start_time": 19.725,
+      "end_time": 24.945,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. So",
+      "start_time": 25.75,
+      "end_time": 27.189999,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "So",
+      "start_time": 27.085,
+      "end_time": 27.585,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "just a moment, please. I check your account. The tag are you miss mister Lancaster",
+      "start_time": 27.189999,
+      "end_time": 34.41,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "correct.",
+      "start_time": 35.29,
+      "end_time": 35.79,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Martin?",
+      "start_time": 35.35,
+      "end_time": 35.85,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes.",
+      "start_time": 36.57,
+      "end_time": 37.07,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. Your email address is, MartinLancaster@Gmail.comwithoutaadot. Okay. And for the password, I change it by your number of your access card. So to log in, you have to enter your email address that I, give you, and the password is you the number, the numbers of your access card.",
+      "start_time": 36.645,
+      "end_time": 66.96,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "On",
+      "start_time": 67.405,
+      "end_time": 67.485,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "start_time": 67.445,
+      "end_time": 67.765,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "my",
+      "start_time": 67.485,
+      "end_time": 67.985,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "101075391. Yes.",
+      "start_time": 67.765,
+      "end_time": 73.545,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "yeah. I I have that in front of me. Yeah. So I can log in with with that. Yes.",
+      "start_time": 73.16499,
+      "end_time": 81.99,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 82.51,
+      "end_time": 83.01,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Is is that what it was previously?",
+      "start_time": 86.149994,
+      "end_time": 87.61,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "No. No. No. I can't see the the the other password.",
+      "start_time": 88.75,
+      "end_time": 94.450005,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 95.245,
+      "end_time": 95.745,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's",
+      "start_time": 95.505,
+      "end_time": 96.005,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "And this is",
+      "start_time": 95.885,
+      "end_time": 96.445,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "not",
+      "start_time": 96.424995,
+      "end_time": 96.924995,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "the new one for now. Can I can I then well, I guess I can leave that as the password?",
+      "start_time": 96.445,
+      "end_time": 105.025,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah. But don't change it now. Please wait some weeks because the app the version of the the app will be changed. And, it's easier to have this password until the the the the last version is, is available",
+      "start_time": 106.145,
+      "end_time": 128.435,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Alright.",
+      "start_time": 129.105,
+      "end_time": 129.345,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "will",
+      "start_time": 129.135,
+      "end_time": 129.375,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I",
+      "start_time": 129.345,
+      "end_time": 129.585,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "be available.",
+      "start_time": 129.375,
+      "end_time": 130.035,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "understand. Good.",
+      "start_time": 129.585,
+      "end_time": 130.565,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 130.33499,
+      "end_time": 130.83499,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Because when I went to change the password, it took me to the website, but",
+      "start_time": 131.745,
+      "end_time": 138.34,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah.",
+      "start_time": 138.33,
+      "end_time": 138.83,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I found no no information there on how to change the password.",
+      "start_time": 138.34,
+      "end_time": 142.44,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's so we found that it's, a a problem. It's an error, in fact.",
+      "start_time": 142.01,
+      "end_time": 148.59,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 149.22,
+      "end_time": 149.72,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "We we try to modify modify that.",
+      "start_time": 149.465,
+      "end_time": 153.08499,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay. I'll have a try with this, this password now then.",
+      "start_time": 155.79501,
+      "end_time": 159.975,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. Okay. Good.",
+      "start_time": 159.93256,
+      "end_time": 161.79256,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay. Thanks for your help.",
+      "start_time": 162.35501,
+      "end_time": 163.895,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Bye.",
+      "start_time": 164.01256,
+      "end_time": 165.31256,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you. Bye bye.",
+      "start_time": 165.55501,
+      "end_time": 166.85501,
+      "user_id": null,
+      "phone_hash": "902bef4e4b110ba80a2540f126a63d427ecef791cd914d0327b89af989333a49"
+    }
+  ]
+}

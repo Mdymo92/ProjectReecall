@@ -1,0 +1,96 @@
+{
+  "conversation_id": "2882561378",
+  "call_created_at": "2025-06-14T12:56:03.000Z",
+  "role": "Junior",
+  "language": "de",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hello i can speak in english or french",
+      "start_time": 0.6,
+      "end_time": 7.45,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "lark guten tag konnen sie deutsch mit mir sprechen",
+      "start_time": 2.54,
+      "end_time": 5.06,
+      "user_id": null,
+      "phone_hash": "8e500c8a8d1ebbed1a29935570d576906eed615dd1ebd5a8e8b9d392d29776eb"
+    },
+    {
+      "speaker": "client",
+      "text": "ich bitte please in german please",
+      "start_time": 8.8,
+      "end_time": 11.98,
+      "user_id": null,
+      "phone_hash": "8e500c8a8d1ebbed1a29935570d576906eed615dd1ebd5a8e8b9d392d29776eb"
+    },
+    {
+      "speaker": "agent",
+      "text": "no i can t speak german but i can transfer you to someone who speaks german",
+      "start_time": 11.83,
+      "end_time": 16.44,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay yes please",
+      "start_time": 16.92,
+      "end_time": 17.82,
+      "user_id": null,
+      "phone_hash": "8e500c8a8d1ebbed1a29935570d576906eed615dd1ebd5a8e8b9d392d29776eb"
+    },
+    {
+      "speaker": "client",
+      "text": "thank you",
+      "start_time": 18.34,
+      "end_time": 18.66,
+      "user_id": null,
+      "phone_hash": "8e500c8a8d1ebbed1a29935570d576906eed615dd1ebd5a8e8b9d392d29776eb"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 18.44,
+      "end_time": 18.68,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "vielen dank",
+      "start_time": 130.29,
+      "end_time": 141.3,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "ich darf dann tatsachlichen",
+      "start_time": 152.03,
+      "end_time": 153.16,
+      "user_id": null,
+      "phone_hash": "8e500c8a8d1ebbed1a29935570d576906eed615dd1ebd5a8e8b9d392d29776eb"
+    },
+    {
+      "speaker": "client",
+      "text": "ich bin ein mann der nicht schlaft",
+      "start_time": 204.75,
+      "end_time": 212.92,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    },
+    {
+      "speaker": "client",
+      "text": "vielen dank",
+      "start_time": 236.59,
+      "end_time": 236.95,
+      "user_id": null,
+      "phone_hash": "7abc163337bdb40f6bf8b9780e497d61592ee39fdfe904520a742b24545d5bc2"
+    }
+  ]
+}

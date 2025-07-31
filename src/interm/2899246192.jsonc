@@ -1,0 +1,568 @@
+{
+  "conversation_id": "2899246192",
+  "call_created_at": "2025-06-20T13:35:21.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "Oui bonjour. Oui bonjour.",
+      "start_time": 1.68,
+      "end_time": 8.82,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Allô",
+      "start_time": 9.2,
+      "end_time": 9.36,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Je vous",
+      "start_time": 9.2,
+      "end_time": 9.679999,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui.",
+      "start_time": 9.679999,
+      "end_time": 10.179999,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "téléphone parce que je veux réserver un séjour pour ce soir sur une ère, mais en fait je ne peux pas valider mon panier, je n'y arrive pas.",
+      "start_time": 9.679999,
+      "end_time": 16.795,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord, alors vous faisiez bien Francis Ast",
+      "start_time": 17.885,
+      "end_time": 20.205,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui, c'est ça.",
+      "start_time": 20.775,
+      "end_time": 21.755001,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord. Alors vous souhaitez réserver sur quelle aire monsieur",
+      "start_time": 22.205,
+      "end_time": 27.81,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "L'aire de Beaufort Orbagnard.",
+      "start_time": 28.009998,
+      "end_time": 30.189999,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord, on peut faire la réservation ensemble, d'accord",
+      "start_time": 31.89,
+      "end_time": 34.79,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ouais ok.",
+      "start_time": 34.97,
+      "end_time": 35.79,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Je veux juste regarder s'il y a suffisamment de place pour ce soir.",
+      "start_time": 36.129997,
+      "end_time": 39.35,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Normalement oui, mais bon.",
+      "start_time": 39.61,
+      "end_time": 41.55,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Je regarde et je vous redis ça. Ouais, je vois qu'il y a, il y a de la place.",
+      "start_time": 47.035,
+      "end_time": 58.495,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ok. Donc c'est juste pour une nuit.",
+      "start_time": 59.030003,
+      "end_time": 65.37,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui d'accord, on va du coup on va pouvoir faire la réservation ensemble par téléphone. Alors je note",
+      "start_time": 65.55,
+      "end_time": 70.03,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ouais.",
+      "start_time": 69.67,
+      "end_time": 70.17,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "du coup beaufort. Est-ce que vous souhaitez pour régler le la réservation, régler avec le votre carte bancaire",
+      "start_time": 70.03,
+      "end_time": 79.615,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui.",
+      "start_time": 80.134995,
+      "end_time": 80.634995,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Parce que oui là je vois vous vous avez 0 euro sur votre compte en fait du coup il faudra bien penser à",
+      "start_time": 80.715,
+      "end_time": 85.19499,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "D'accord",
+      "start_time": 84.93,
+      "end_time": 85.43,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "recharger pour pouvoir.",
+      "start_time": 85.19499,
+      "end_time": 86.255,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok, mais là c'est parce que je paye au fur et à mesure chaque fois, je je ne suis jamais d'avance.",
+      "start_time": 88.28999,
+      "end_time": 91.99,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui, oui, je comprends. Alors vous souhaitez arriver à quelle heure",
+      "start_time": 92.4,
+      "end_time": 95.28001,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "On va arriver vers dix-neuf heures, dix-huit heures,",
+      "start_time": 96.45,
+      "end_time": 99.66499,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord,",
+      "start_time": 99.68,
+      "end_time": 99.920006,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "dix-huit",
+      "start_time": 99.884995,
+      "end_time": 100.284996,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je peux mettre",
+      "start_time": 99.920006,
+      "end_time": 100.560005,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "heures.",
+      "start_time": 100.284996,
+      "end_time": 100.784996,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "dix-huit heures",
+      "start_time": 100.560005,
+      "end_time": 101.700005,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui",
+      "start_time": 102.045,
+      "end_time": 102.545,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "en sachant que vous ne pouvez pas rentrer sur l'air avant le début de la réservation.",
+      "start_time": 102.795,
+      "end_time": 106.175,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui dix-huit heures, c'est bien.",
+      "start_time": 107.16499,
+      "end_time": 108.625,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord et vous souhaitez repartir à quelle heure pour demain",
+      "start_time": 108.475,
+      "end_time": 111.135,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Demain",
+      "start_time": 111.74,
+      "end_time": 112.24,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord.",
+      "start_time": 113.925,
+      "end_time": 114.425,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "10 heures.",
+      "start_time": 118.06,
+      "end_time": 118.81,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors, répondre un petit peu. Alors. Vous m'aviez dit ouais 10 heures du matin. Donc le prix du coût de la réservation sera de 14 euros soixante-six, d'accord D'accord.",
+      "start_time": 128.36,
+      "end_time": 162.025,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui Il y a bien l'électricité sur les emplacements oui.",
+      "start_time": 164.075,
+      "end_time": 167.055,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors je regarde ça. Oui il y a de l'électricité. Alors, alors je vois qu'il y a des, je vois, je vois qu'il y a déjà une carte bancaire enregistrée qui se termine par 20 avec",
+      "start_time": 167.525,
+      "end_time": 198.74,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui c'est",
+      "start_time": 198.36,
+      "end_time": 198.84,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "comme",
+      "start_time": 198.74,
+      "end_time": 199.16,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ça c'est",
+      "start_time": 198.84,
+      "end_time": 199.32,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "date",
+      "start_time": 199.16,
+      "end_time": 199.58,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bon",
+      "start_time": 199.32,
+      "end_time": 199.82,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "d'expiration 10,",
+      "start_time": 199.58,
+      "end_time": 200.24,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ouais",
+      "start_time": 200.12,
+      "end_time": 200.62,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "vingt-cinq. C'est bien vous",
+      "start_time": 200.24,
+      "end_time": 201.7,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c'est celle-là ouais",
+      "start_time": 201.32,
+      "end_time": 202.36,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord,",
+      "start_time": 202.24,
+      "end_time": 202.64,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ouais",
+      "start_time": 202.36,
+      "end_time": 202.76,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 202.64,
+      "end_time": 202.96,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "vous",
+      "start_time": 202.76,
+      "end_time": 203,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 202.96,
+      "end_time": 203.12,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pouvez",
+      "start_time": 203,
+      "end_time": 203.5,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "l'utilise",
+      "start_time": 203.12,
+      "end_time": 203.6,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 204.2,
+      "end_time": 204.7,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord. Donc voilà, je vois que le paiement est est bien passé, donc votre réservation a bien été pris en compte.",
+      "start_time": 205.12,
+      "end_time": 217.965,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok",
+      "start_time": 218.61499,
+      "end_time": 219.095,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Et là, quand",
+      "start_time": 218.66501,
+      "end_time": 219.225,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas de",
+      "start_time": 219.095,
+      "end_time": 219.33499,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 219.225,
+      "end_time": 219.545,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "problème",
+      "start_time": 219.33499,
+      "end_time": 219.83499,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "regarde, alors je vérifie, mais oui, votre réservation",
+      "start_time": 219.545,
+      "end_time": 221.705,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "D'accord,",
+      "start_time": 221.45258,
+      "end_time": 221.95258,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "commence bien du coup à dix-huit heures aujourd'hui.",
+      "start_time": 221.705,
+      "end_time": 223.565,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok, super, pas de problème, merci beaucoup.",
+      "start_time": 224.73257,
+      "end_time": 226.75256,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "De rien, monsieur.",
+      "start_time": 226.905,
+      "end_time": 227.75256,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Merci, au revoir.",
+      "start_time": 228.33257,
+      "end_time": 229.47256,
+      "user_id": null,
+      "phone_hash": "de781e8adc897a1e79f9bed187d50c100d9be91efade8a8ddd9c6e6241c1edd2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Au revoir.",
+      "start_time": 229.59256,
+      "end_time": 231.15756,
+      "user_id": 1616843,
+      "phone_hash": null
+    }
+  ]
+}

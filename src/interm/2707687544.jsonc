@@ -1,0 +1,328 @@
+{
+  "conversation_id": "2707687544",
+  "call_created_at": "2025-04-03T13:19:00.000Z",
+  "role": "Senior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "¿Quieres ponerlo en inglés?",
+      "start_time": 0.04001,
+      "end_time": 4.16112,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Hola, Hola, ¿hablas español?",
+      "start_time": 4.16112,
+      "end_time": 6.59304,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "no, pero lo entiendo.",
+      "start_time": 8.06216,
+      "end_time": 11.12298,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "¿Está en inglés?",
+      "start_time": 12.18327,
+      "end_time": 18.98509,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Sí, sí, sí, compré un paquete.",
+      "start_time": 12.87478,
+      "end_time": 16.39575,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "¿En inglés?",
+      "start_time": 16.83587,
+      "end_time": 17.35602,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "¿Es posible?",
+      "start_time": 19.16514,
+      "end_time": 20.42548,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí.",
+      "start_time": 20.5055,
+      "end_time": 20.62553,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Sí.",
+      "start_time": 21.797240000000002,
+      "end_time": 21.91728,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Tengo un problema porque estaba en la camioneta de Metange, ¿de acuerdo?",
+      "start_time": 22.03731,
+      "end_time": 30.37961,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Sí, y voy a salir hoy.",
+      "start_time": 30.37961,
+      "end_time": 31.49992,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "No puedo salir con mi carro y un amigo me abre, pero no sé exactamente cuándo salir.",
+      "start_time": 32.35206,
+      "end_time": 42.67823,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Vengo a las 12 de la tarde el domingo y pago tres noches, pero salgo hoy a las 1 de la tarde.",
+      "start_time": 42.81832,
+      "end_time": 55.98619000000001,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Y creo que es por eso que no puedo abrir la puerta.",
+      "start_time": 55.98619000000001,
+      "end_time": 58.44766,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "La cosa es que estoy en casa, estoy fuera del auto de camión y quiero detener el descanso porque no estoy allí, Sí.",
+      "start_time": 59.08811,
+      "end_time": 70.19912,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "estoy en casa y no sé cómo puedo detener el descansar.",
+      "start_time": 66.47857,
+      "end_time": 74.79033,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "Es mío, pero me falta dinero en él, creo.",
+      "start_time": 76.82058,
+      "end_time": 89.50862000000001,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Un momento, chequeo.",
+      "start_time": 89.52863,
+      "end_time": 100.73573,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "es sólo para poner mi carro fuera del parque porque estoy en casa y abro la aplicación y puedo ver que estoy dentro y no es correcto ah Sí, porque no tienes suficiente dinero en tu cuenta.",
+      "start_time": 95.94478000000001,
+      "end_time": 113.21362,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "este es el motivo ok y cómo puedo cómo puedo parar Es de 15 euros y 10 centavos.",
+      "start_time": 111.80911,
+      "end_time": 119.03833,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Así que, ¿Puedo pagar esto?",
+      "start_time": 119.11839,
+      "end_time": 125.66085000000001,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Sí.",
+      "start_time": 125.82090000000001,
+      "end_time": 140.30497,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "al rellenar tu cuenta, puedes rellenarla conmigo en el teléfono.",
+      "start_time": 126.36425,
+      "end_time": 131.78863,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Solo tienes que darme tu número de tu carta de acceso.",
+      "start_time": 131.80865,
+      "end_time": 135.77185,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a pagar 15 euros y 10 centavos con la aplicación Ok, pero no entiendo muy bien.",
+      "start_time": 135.952,
+      "end_time": 145.40640000000002,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "¿Tengo que darles el número de la carta de crédito?",
+      "start_time": 145.40640000000002,
+      "end_time": 148.58729,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "pero no puedo hacerlo, no puedo pagar por ningún otro modo porque no me gusta dar mi número de tarjeta para el teléfono no hay otra razón, ya sabes, Ok, entonces tienes que ir a la aplicación y refilgar tu cuenta con la aplicación y llamar a nosotros para cerrar tu salida.",
+      "start_time": 153.45635,
+      "end_time": 187.88991000000001,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "tengo aquí la aplicación Pero no puedo cerrar mi estación si no tengo dinero, ¿no?",
+      "start_time": 177.52652,
+      "end_time": 193.60236,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Lo entiendo.",
+      "start_time": 193.90252,
+      "end_time": 195.90363,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, sí.",
+      "start_time": 195.29545000000002,
+      "end_time": 195.73578,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ok, tengo que recargar, ¿no?",
+      "start_time": 195.98367000000002,
+      "end_time": 199.4656,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Ok.",
+      "start_time": 200.76632,
+      "end_time": 200.92641,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Pero no puedo salir.",
+      "start_time": 200.98644000000002,
+      "end_time": 204.46837,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Tengo 45 con 30.",
+      "start_time": 204.50839,
+      "end_time": 214.19374,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "No entiendo cómo puedo detener mi estación ahí.",
+      "start_time": 214.19374,
+      "end_time": 217.69568,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "agent",
+      "text": "Es mi, es mi, tengo que hacer esto, así que tienes que llamarnos de vuelta, después de que te refiles tu cuenta.",
+      "start_time": 217.24416,
+      "end_time": 229.47626,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, gracias, Ok, voy a probar y te llamo de nuevo.",
+      "start_time": 229.47626,
+      "end_time": 238.5213,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "adiós.",
+      "start_time": 237.12382,
+      "end_time": 237.32402000000002,
+      "user_id": 1522913,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ok, muchas gracias.",
+      "start_time": 238.56133,
+      "end_time": 239.84226999999998,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    },
+    {
+      "speaker": "client",
+      "text": "Ok, gracias, adiós.",
+      "start_time": 240.46273,
+      "end_time": 242.56429,
+      "user_id": null,
+      "phone_hash": "f79f8c4f68367b089eca328f81b624cc0849a1ffe485d26b1e11c1fc555ae332"
+    }
+  ]
+}

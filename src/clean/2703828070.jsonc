@@ -1,0 +1,104 @@
+{
+  "conversation_id": "2703828070",
+  "call_created_at": "2025-04-02T10:49:34.000Z",
+  "role": "Senior",
+  "language": "de",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "hallo oh ja ja papstdorf guten tag",
+      "start_time": 0.9400499999999999,
+      "end_time": 4.18224,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "agent",
+      "text": "hallo how can i help you",
+      "start_time": 5.135070000000001,
+      "end_time": 6.235900000000001,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "do not tell me oh sorry i speak only english",
+      "start_time": 9.68596,
+      "end_time": 13.301219999999999,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "nur englisch",
+      "start_time": 14.028889999999999,
+      "end_time": 14.54924,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "agent",
+      "text": "do you want to",
+      "start_time": 16.38354,
+      "end_time": 16.82387,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "i have my password forget it",
+      "start_time": 16.69068,
+      "end_time": 19.91286,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay",
+      "start_time": 21.70755,
+      "end_time": 22.06782,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "wenn i password forget it druck ich habe die homepage von der gom erhoben",
+      "start_time": 24.175729999999998,
+      "end_time": 40.10502,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "client",
+      "text": "ich sehe nicht wo die passworter geandert wurden",
+      "start_time": 40.10502,
+      "end_time": 52.31183,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "agent",
+      "text": "du kannst dein passwort nicht andern",
+      "start_time": 48.66919,
+      "end_time": 53.65191,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ja wie",
+      "start_time": 52.31183,
+      "end_time": 52.491929999999996,
+      "user_id": null,
+      "phone_hash": "9c2436caf2d1711619fd08fd2e29e4fa60ddfca5c76d42a355d76ca5040932b5"
+    },
+    {
+      "speaker": "agent",
+      "text": "ich werde dein deutsch ubersetzen weil ich denke es wird besser sein weil du nicht verstehst warum ich es dir sage",
+      "start_time": 53.65191,
+      "end_time": 60.9759,
+      "user_id": 1522966,
+      "phone_hash": null
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "conversation_id": "2700746050",
+  "call_created_at": "2025-04-01T12:12:47.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "C'était Camping Carpark, Noémie bonjour.",
+      "start_time": 0.24,
+      "end_time": 2.26,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Bonjour, j'ai un problème.",
+      "start_time": 2.3999999,
+      "end_time": 4.98,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Allô allô.",
+      "start_time": 5.44,
+      "end_time": 6.1,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Je suis ici à avant le renonce et je j'entre et je prends les bordures avec et je prends les bordures avec mon avec mon escalier et je roule arrière et les barrières fermées. Elle n'est pas marché. C'est possible pour Robert s'il vous plaît.",
+      "start_time": 6,
+      "end_time": 28.055,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord,",
+      "start_time": 28.56,
+      "end_time": 29.06,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Pardon",
+      "start_time": 29.13,
+      "end_time": 29.63,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "c'est que je ne vous entendais pas du tout monsieur, donc vous m'avez entendu ou pas J'ai dit, je ne vous entendais pas. Est-ce que vous vous m'entendiez",
+      "start_time": 29.199999,
+      "end_time": 38.26,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui.",
+      "start_time": 39.21,
+      "end_time": 39.71,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord, oui, mais moi je ne vous entendais pas, du coup je ne sais pas où est-ce que vous êtes. D'accord, est-ce que vous, d'accord. Est-ce que vous avez une une carte, un numéro de carte s'il vous plaît",
+      "start_time": 40.079998,
+      "end_time": 55.175,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui. 104",
+      "start_time": 57.214996,
+      "end_time": 60.274998,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alors donc un 0 0 4 7 0. Ah d'accord, il n'y a pas le 0. Geldorf Sandra, c'est ça Super, c'est bon, je vous ai. Super, bonjour madame. Vous êtes à Val Réas et pas Val de Léon.",
+      "start_time": 74.435,
+      "end_time": 100.32,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Alors attendez un petit instant, je vais juste rajouter le numéro de portable de monsieur en cas d'urgence et après je vais pouvoir vous aider.",
+      "start_time": 100.62,
+      "end_time": 110.035,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui merci.",
+      "start_time": 110.875,
+      "end_time": 111.615,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Je me dépêche. Parfait. Que vous pouvez reculer un petit peu le camping-car s'il vous plaît Il faut que vous soyez à côté de la borne verte. Parfait. Est-ce que vous pouvez repasser la carte s'il vous plaît",
+      "start_time": 112.655,
+      "end_time": 142.95499,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Voilà. C'est le cancer.",
+      "start_time": 142.875,
+      "end_time": 144.41501,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Super, je reste avec vous.",
+      "start_time": 145.87001,
+      "end_time": 147.33,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui, elle a tout ouvert. Voilà,",
+      "start_time": 148.15999,
+      "end_time": 149.62,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Allez super, merci beaucoup, bonne journée.",
+      "start_time": 149.95,
+      "end_time": 152.85,
+      "user_id": 1460747,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci, bonne journée.",
+      "start_time": 153.04,
+      "end_time": 154.26,
+      "user_id": null,
+      "phone_hash": "4c822f08d192b4f130640c02a5007f39b09c65b9df1e40e48b056889afedd287"
+    },
+    {
+      "speaker": "agent",
+      "text": "Merci, au revoir.",
+      "start_time": 154.43001,
+      "end_time": 155.41,
+      "user_id": 1460747,
+      "phone_hash": null
+    }
+  ]
+}

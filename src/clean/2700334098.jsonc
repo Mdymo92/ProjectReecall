@@ -1,0 +1,176 @@
+{
+  "conversation_id": "2700334098",
+  "call_created_at": "2025-04-01T09:59:25.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "bonjour",
+      "start_time": 2.8799999,
+      "end_time": 3.3799999,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui bonjour monsieur voila j ai l habitude d aller dans les aires de camping car parc et donc j ai l application mais la je voudrais reserver l aire de camping car a saint paul les dax",
+      "start_time": 3.9199998,
+      "end_time": 16.615,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 17.654999,
+      "end_time": 18.154999,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pour ce soir vers dix sept heures mais en fait mon application ne reconnait ni mon numero de telephone ni mon adresse mail et alors encore moins de mot de passe qu on fait donc la j ai essaye de",
+      "start_time": 19.235,
+      "end_time": 30.01,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "est ce",
+      "start_time": 29.52,
+      "end_time": 30.02,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "reinitialiser",
+      "start_time": 30.310001,
+      "end_time": 30.390001,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "que",
+      "start_time": 30.36,
+      "end_time": 30.86,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le mot de passe",
+      "start_time": 30.390001,
+      "end_time": 31.210001,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 31.2,
+      "end_time": 31.7,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et je peux donc pas faire la reservation via le site camping car parc",
+      "start_time": 32.71,
+      "end_time": 38.25,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "peux voir le numero je peux voir le numero de votre carte d acces s il vous plait",
+      "start_time": 39.28,
+      "end_time": 44.655,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "de notre a de la carte oui",
+      "start_time": 45.255,
+      "end_time": 47.275,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "s il vous plait oui huit cent cinquante deux d accord votre nom s il vous plait d accord je vais vous mettre je vais mettre a jour le compte je vais le je vais reinitialiser votre mot de passe manuellement donc il n y aura pas besoin de le reinitialiser vous meme donc il faudra mettre le numero de la carte d acces comme mot de passe",
+      "start_time": 47.295,
+      "end_time": 97.815,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah d accord ok",
+      "start_time": 98.025,
+      "end_time": 99.725006,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "donc normalement vous allez pouvoir vous connecter ce sera bon pour",
+      "start_time": 101.415,
+      "end_time": 109.575005,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok",
+      "start_time": 109.465004,
+      "end_time": 109.965004,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous madame",
+      "start_time": 109.575005,
+      "end_time": 110.155,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "donc la je vais pouvoir me connecter",
+      "start_time": 111.065,
+      "end_time": 112.525,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous allez pouvoir vous connecter meme",
+      "start_time": 112.91,
+      "end_time": 114.61,
+      "user_id": 1518958,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok bon ben et je vous remercie monsieur",
+      "start_time": 114.81,
+      "end_time": 117.95,
+      "user_id": null,
+      "phone_hash": "74946170d95bea6e75d1b7ff1af4f9d4c9f542688cbd4890d301b1fec1a2fbe2"
+    },
+    {
+      "speaker": "agent",
+      "text": "je vous en prie madame passez une excellente journee merci beaucoup au revoir madame",
+      "start_time": 118.03,
+      "end_time": 123.41,
+      "user_id": 1518958,
+      "phone_hash": null
+    }
+  ]
+}

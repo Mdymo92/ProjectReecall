@@ -1,0 +1,152 @@
+{
+  "conversation_id": "2898837729",
+  "call_created_at": "2025-06-20T11:37:29.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "camping camping a patrice bonjour",
+      "start_time": 0.39999998,
+      "end_time": 2.26,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hello english shop office 77877 eurotraf",
+      "start_time": 3.12,
+      "end_time": 25.414999,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok ok",
+      "start_time": 24.89,
+      "end_time": 26.43,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "card williams williams no more yep",
+      "start_time": 46.795,
+      "end_time": 89.74,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "client",
+      "text": "yep",
+      "start_time": 90.700005,
+      "end_time": 91.18,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 102.485,
+      "end_time": 102.985,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay yeah okay okay",
+      "start_time": 106.314995,
+      "end_time": 109.674995,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "si",
+      "start_time": 133.95,
+      "end_time": 134.45,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "for the shrunk yeah it s say for the shrunk yeah okay",
+      "start_time": 139.92,
+      "end_time": 144.56,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 144.79999,
+      "end_time": 145.2,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok ok",
+      "start_time": 145.62999,
+      "end_time": 146.37999,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay thanks",
+      "start_time": 147.21394,
+      "end_time": 148.57394,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "nos",
+      "start_time": 148.90393,
+      "end_time": 149.22394,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "very",
+      "start_time": 149.05394,
+      "end_time": 149.45393,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "problemes",
+      "start_time": 149.22394,
+      "end_time": 149.72394,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay thank you thank you",
+      "start_time": 150.49394,
+      "end_time": 153.13394,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    },
+    {
+      "speaker": "agent",
+      "text": "bye bye",
+      "start_time": 152.98393,
+      "end_time": 153.64394,
+      "user_id": 1616846,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "have a nice day merry christmas",
+      "start_time": 153.85394,
+      "end_time": 156.33394,
+      "user_id": null,
+      "phone_hash": "9658783c5d82d8929302115a22e883df15b24859692608227bf219e9b7ff9cfc"
+    }
+  ]
+}

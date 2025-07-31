@@ -1,0 +1,648 @@
+{
+  "conversation_id": "2700108616",
+  "call_created_at": "2025-04-01T09:05:30.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "oui bonjour madame je vous appelle parce que j ai un compte client chez vous et moi je suis encore a la maison la je voulais me connecter a mon compte et il ne veut pas mon email",
+      "start_time": 1.8399999,
+      "end_time": 12.74,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "bonjour",
+      "start_time": 12.719999,
+      "end_time": 13.219999,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "alors je ne comprends",
+      "start_time": 12.88,
+      "end_time": 13.599999,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 13.44,
+      "end_time": 13.94,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas pourquoi",
+      "start_time": 13.599999,
+      "end_time": 14.34,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors c est dans alain justaud le nom de la carte",
+      "start_time": 14.905,
+      "end_time": 17.725,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le nom de oui mais le nom de la messagerie il est sur mon prenom a moi myriam",
+      "start_time": 18.595001,
+      "end_time": 23.815,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui c est dans myriam juste arobase orange point f r",
+      "start_time": 23.465,
+      "end_time": 26.685,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voila c est ca",
+      "start_time": 26.85,
+      "end_time": 27.49,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "ouais",
+      "start_time": 27.465,
+      "end_time": 27.965,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "et j arrive",
+      "start_time": 27.49,
+      "end_time": 28.050001,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 28.025,
+      "end_time": 28.525,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pas il me dit qu il ne veut pas",
+      "start_time": 28.050001,
+      "end_time": 29.67,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord et donc le numero de telephone enregistre c est celui avec lequel vous appelez donc c est",
+      "start_time": 29.785,
+      "end_time": 34.17,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 34.05,
+      "end_time": 34.29,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "le",
+      "start_time": 34.17,
+      "end_time": 34.41,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 34.29,
+      "end_time": 34.45,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "le",
+      "start_time": 34.41,
+      "end_time": 34.489998,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 34.45,
+      "end_time": 34.95,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "bon egalement je vais vous verifier les 2 est ce que vous pouvez essayer de vous reconnecter avec votre enfin votre email ou votre numero de telephone et votre mot de passe habituel pour voir si ca",
+      "start_time": 34.489998,
+      "end_time": 44.364998,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "alors",
+      "start_time": 45.135,
+      "end_time": 45.635,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "fonctionne la vous etes bien sur l application campinterpark",
+      "start_time": 47.984997,
+      "end_time": 54.045,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui je",
+      "start_time": 55.85,
+      "end_time": 56.989998,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors",
+      "start_time": 56.91,
+      "end_time": 57.41,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "suis enfin je suis parce que",
+      "start_time": 57.05,
+      "end_time": 57.995,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "parce",
+      "start_time": 57.95,
+      "end_time": 58.45,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "je suis sur le telephone et a la fois sur mon ordinateur et de nouveau il me dit erreur d identification il ne veut pas",
+      "start_time": 57.995,
+      "end_time": 65.229996,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "que la si vous etes sur l ordinateur vous allez plus vous pouvoir vous connecter a votre compte client ce sera que sur l application camping car parc donc sur votre telephone",
+      "start_time": 64.75,
+      "end_time": 72.335,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord donc qu est ce que je fais parce que je l ai essaye sur le telephone aussi mais il n a pas voulu il n a pas voulu",
+      "start_time": 73.515,
+      "end_time": 78.895,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "la la vous pouvez reessayer",
+      "start_time": 78.475,
+      "end_time": 80.475,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 80.25,
+      "end_time": 80.75,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "je vous dis en fait avec la nouvelle version de l application on verifie en meme temps les coordonnees s ils sont bien a jour donc la je vous ai valide l adresse mail et le numero de telephone vous pouvez",
+      "start_time": 80.475,
+      "end_time": 88.93,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 88.81,
+      "end_time": 89.31,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "rester avec votre ancien mot de passe et si ca ne fonctionne pas je pourrais vous modifier le mot de passe",
+      "start_time": 88.93,
+      "end_time": 93.11,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord mais comment je fais la parce que concretement je ne peux pas je suis la je n arrive pas vous comprenez je suis sur le telephone mais je n arrive pas a me mettre ailleurs je ne suis pas",
+      "start_time": 93.69,
+      "end_time": 104.395,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors",
+      "start_time": 104.315,
+      "end_time": 104.815,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "tres douee",
+      "start_time": 104.395,
+      "end_time": 105.134995,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "donc la lame vous pouvez quand vous touchez votre ecran de telephone normalement vous avez des petits de formes en bas un rond un triangle un carre",
+      "start_time": 105.195,
+      "end_time": 115.2,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui oui",
+      "start_time": 115.41,
+      "end_time": 116.23,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous pouvez cliquer sur l un d eux et ensuite vous allez pouvoir aller donc acceder a votre telephone pour aller sur l application camping car park",
+      "start_time": 116.159996,
+      "end_time": 123.619995,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "peu importe lequel par exemple si",
+      "start_time": 123.985,
+      "end_time": 125.745,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 125.67999,
+      "end_time": 125.84,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "je",
+      "start_time": 125.745,
+      "end_time": 125.905,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 125.84,
+      "end_time": 126.159996,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "vais sur",
+      "start_time": 125.905,
+      "end_time": 126.225,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 126.159996,
+      "end_time": 126.659996,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "un carre c est bon alors non je ne vois pas non j ai toujours que mais j essaye autre chose sur le rang voila sur le rang j y suis alors il faut que j aille sur le voila alors mon mail je rentre mon mail",
+      "start_time": 126.225,
+      "end_time": 157.83499,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui vous pouvez mettre votre adresse mail",
+      "start_time": 158.31,
+      "end_time": 160.25,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "voila alors",
+      "start_time": 161.89499,
+      "end_time": 163.09499,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "et",
+      "start_time": 163.075,
+      "end_time": 163.235,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "il",
+      "start_time": 163.09499,
+      "end_time": 163.33499,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "votre",
+      "start_time": 163.235,
+      "end_time": 163.735,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "me dit deja mail est valide deja il me dit et mon mot de passe voila et ca se met meme pas je ne peux meme pas appuyer sur se connecter parce que ca reste en grise en fait c est mon nom c est mon email qui ne convient pas je ne sais pas pourquoi",
+      "start_time": 163.33499,
+      "end_time": 186.46501,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "et vous n avez pas de d espace ou quelque chose qui s est ajoute a l adresse mail parfois",
+      "start_time": 186.38,
+      "end_time": 191.08499,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "donc toujours mon prenom et mon nom tout attache arobase orange point",
+      "start_time": 190.765,
+      "end_time": 196.125,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "ca",
+      "start_time": 195.94499,
+      "end_time": 196.44499,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "f r il me met bien mail invalide",
+      "start_time": 196.125,
+      "end_time": 199.36,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "peut fonctionner meme avec le mot de passe et est ce que vous pouvez avec le numero de telephone pour voir si ca vous fait la meme chose",
+      "start_time": 201.305,
+      "end_time": 208.17,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "avec le telephone alors",
+      "start_time": 209.42,
+      "end_time": 212.355,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "mais normalement",
+      "start_time": 212.15,
+      "end_time": 212.52333,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah",
+      "start_time": 212.355,
+      "end_time": 212.855,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "en vous avez se connecter avec le numero de telephone ou l adresse mail",
+      "start_time": 212.52333,
+      "end_time": 217.61,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord donc je mets mon telephone 0",
+      "start_time": 217.395,
+      "end_time": 220.455,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui vous pouvez",
+      "start_time": 219.985,
+      "end_time": 220.885,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "6 0 6 trente huit quatre vingt dix neuf soixante dix huit 4 quatre vingt dix neuf soixante quatorze quatre vingt cinq et je me remets mon mot de passe alors voila on dirait que ca veut marcher nous allons verifier votre compte excusez moi j ai un double appel ca tourne mal mais alors la je ne vois plus rien",
+      "start_time": 221.155,
+      "end_time": 262.76,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "avec l appel si",
+      "start_time": 264.43,
+      "end_time": 265.49,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "je veux c est ma fille en plus bon je rappellerai",
+      "start_time": 267.395,
+      "end_time": 270.035,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "terrible la",
+      "start_time": 269.87,
+      "end_time": 270.19,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "tout a",
+      "start_time": 270.035,
+      "end_time": 270.195,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "je",
+      "start_time": 270.19,
+      "end_time": 270.35,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "fait",
+      "start_time": 270.195,
+      "end_time": 270.695,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "pense que vous avez pu etre vous connecter parce que je vois que votre code s est active je pense que vous etes connecte la donc vous devriez",
+      "start_time": 270.35,
+      "end_time": 276.66998,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord",
+      "start_time": 276.515,
+      "end_time": 277.015,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "pouvoir voir votre salle de 16 euros vingt neuf",
+      "start_time": 276.66998,
+      "end_time": 278.61844,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord tres bien ecoutez je vais essayer je vous remercie",
+      "start_time": 279.715,
+      "end_time": 283.69843,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "bonne journee",
+      "start_time": 284.13843,
+      "end_time": 284.61844,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci",
+      "start_time": 284.47842,
+      "end_time": 284.79843,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "a vous madame",
+      "start_time": 284.61844,
+      "end_time": 285.27844,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "beaucoup madame bonne journee au revoir",
+      "start_time": 284.79843,
+      "end_time": 286.81842,
+      "user_id": null,
+      "phone_hash": "c43efccad614a93ce01acace05ddb2839a898053ce1707f30532902de8c500f7"
+    },
+    {
+      "speaker": "agent",
+      "text": "merci",
+      "start_time": 286.53845,
+      "end_time": 287.03345,
+      "user_id": 1460746,
+      "phone_hash": null
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "conversation_id": "2899157992",
+  "call_created_at": "2025-06-20T13:13:45.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "bonjour bonjour oui d accord je vais regarder ca alors vous etes bien rudy van h d accord vous etes bien a libram d accord je vais pouvoir vous faire sortir on a un probleme au niveau de la barriere alors c est normal on a un probleme de connexion au niveau des barrieres",
+      "start_time": 0,
+      "end_time": 42.24,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "je vais pouvoir vous donner un code de secours alors vous etes devant la barriere",
+      "start_time": 42.24,
+      "end_time": 47.775,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "really",
+      "start_time": 48.895,
+      "end_time": 49.455,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors vous pouvez entrer le code douze",
+      "start_time": 49.675,
+      "end_time": 51.455,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "large",
+      "start_time": 52.575,
+      "end_time": 53.295,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "quatre vingt cinq",
+      "start_time": 55.035,
+      "end_time": 55.535,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "large large",
+      "start_time": 57.535,
+      "end_time": 59.455,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "quatre vingt cinq",
+      "start_time": 59.36,
+      "end_time": 59.86,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "size",
+      "start_time": 59.455,
+      "end_time": 59.935,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "trente deux",
+      "start_time": 61.68,
+      "end_time": 62.18,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d three t as in patrick d three",
+      "start_time": 63.19,
+      "end_time": 66.95,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "et huit",
+      "start_time": 67.03,
+      "end_time": 67.94,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "and patrick",
+      "start_time": 69.03,
+      "end_time": 69.99,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "et vous appuyez sur la fleche pour valider apres d accord est ce que vous voyez un message sur l ecran d accord super vous vous allez",
+      "start_time": 73.15501,
+      "end_time": 90.88,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "gracia",
+      "start_time": 90.759995,
+      "end_time": 91.799995,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "pouvoir sortir et moi je note que vous etes bien sorti",
+      "start_time": 90.88,
+      "end_time": 93.38,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "gravy",
+      "start_time": 94.36,
+      "end_time": 95,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "c est bon pour vous",
+      "start_time": 96.64,
+      "end_time": 97.44,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "gravy sausage",
+      "start_time": 98.52,
+      "end_time": 99.71999,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui vous me",
+      "start_time": 100.8,
+      "end_time": 101.28,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "gravy",
+      "start_time": 101.24,
+      "end_time": 101.64,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "dites quand vous etes sortez avant que la barriere se referme d accord",
+      "start_time": 101.28,
+      "end_time": 107.075,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "just soft meat",
+      "start_time": 106.895004,
+      "end_time": 108.575005,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "parfait monsieur",
+      "start_time": 109.454994,
+      "end_time": 110.274994,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay",
+      "start_time": 111.935005,
+      "end_time": 112.33501,
+      "user_id": null,
+      "phone_hash": "5cb19fa2ce1266b006cf0e7d23e5f8c4b58e06735e21f97497ac207b7e8e790a"
+    },
+    {
+      "speaker": "agent",
+      "text": "de rien il n y a pas de probleme au revoir",
+      "start_time": 114.41499,
+      "end_time": 116.354996,
+      "user_id": 1616843,
+      "phone_hash": null
+    }
+  ]
+}

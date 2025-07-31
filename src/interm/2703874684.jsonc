@@ -1,0 +1,296 @@
+{
+  "conversation_id": "2703874684",
+  "call_created_at": "2025-04-02T11:05:24.000Z",
+  "role": "Senior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Camping-car parc hurlos-Mosor Ah ouais",
+      "start_time": 1.12,
+      "end_time": 3.06,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Bonjour, parlez-vous",
+      "start_time": 4.24,
+      "end_time": 5.22,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "en",
+      "start_time": 4.8,
+      "end_time": 5.3,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "allemand",
+      "start_time": 5.2799997,
+      "end_time": 5.7799997,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "anglais je plaisante.",
+      "start_time": 7.04,
+      "end_time": 7.94,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Je veux savoir le bruit d'une place quand je reste seulement un peu de d'heure, pas le le le complet de jour vingt-quatre heures et je ne trouve pas le prix pour cela.",
+      "start_time": 10.719999,
+      "end_time": 25.395,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Le le prix pourquoi",
+      "start_time": 27.154999,
+      "end_time": 28.134998,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Je reste seulement pour un deux ou trois heures à une place.",
+      "start_time": 29.93,
+      "end_time": 34.43,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ah c'est c'est six",
+      "start_time": 34,
+      "end_time": 35.199997,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ne pas",
+      "start_time": 34.89,
+      "end_time": 35.29,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "euros,",
+      "start_time": 35.199997,
+      "end_time": 35.699997,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le trembler",
+      "start_time": 35.29,
+      "end_time": 36.27,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "c'est six euros.",
+      "start_time": 35.84,
+      "end_time": 36.82,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "du jour.",
+      "start_time": 36.33,
+      "end_time": 36.989998,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Le prix c'est six euros.",
+      "start_time": 37.36,
+      "end_time": 38.739998,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Pardon Mais je ne peux pas voir dans dans internet dans dans dans dans un on ne",
+      "start_time": 38.25,
+      "end_time": 54.254997,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui, mais",
+      "start_time": 53.855,
+      "end_time": 54.39,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "peut pas avoir.",
+      "start_time": 54.385,
+      "end_time": 55.375,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "c'est normal, c'est normal, il n'est pas, il n'est pas affiché, mais le prix pour toutes les aires, si vous restez moins de cinq heures, c'est six euros à chaque fois.",
+      "start_time": 54.95,
+      "end_time": 62.489998,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Jusqu'à cinq heures ça fait six euros et le plus c'est seulement le jour complet.",
+      "start_time": 64.21,
+      "end_time": 71.11,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "C'est ça.",
+      "start_time": 71.435,
+      "end_time": 72.095,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ça ceci. Merci monsieur,",
+      "start_time": 73.945,
+      "end_time": 75.725,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Je vous",
+      "start_time": 75.674995,
+      "end_time": 75.994995,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bonne",
+      "start_time": 75.865,
+      "end_time": 76.265,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "en prie.",
+      "start_time": 75.994995,
+      "end_time": 76.575,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bonne bonne. Bonne journée. Bon",
+      "start_time": 76.265,
+      "end_time": 78.445,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Fin journée.",
+      "start_time": 78.155,
+      "end_time": 78.975,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "jour, bonne journée",
+      "start_time": 78.985,
+      "end_time": 81.005,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Merci.",
+      "start_time": 80.795,
+      "end_time": 81.274994,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pardon,",
+      "start_time": 81.064995,
+      "end_time": 81.305,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Merci.",
+      "start_time": 81.274994,
+      "end_time": 81.595,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c'est",
+      "start_time": 81.305,
+      "end_time": 81.705,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "Au",
+      "start_time": 81.595,
+      "end_time": 81.755,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ça",
+      "start_time": 81.705,
+      "end_time": 82.205,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    },
+    {
+      "speaker": "agent",
+      "text": "revoir.",
+      "start_time": 81.755,
+      "end_time": 82.255,
+      "user_id": 1522966,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci au revoir.",
+      "start_time": 82.265,
+      "end_time": 83.165,
+      "user_id": null,
+      "phone_hash": "3a37743134020c452e2b38d3fed0e76dd003cf3ea3fc9699c427e03ef50881ba"
+    }
+  ]
+}

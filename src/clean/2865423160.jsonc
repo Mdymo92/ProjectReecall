@@ -1,0 +1,376 @@
+{
+  "conversation_id": "2865423160",
+  "call_created_at": "2025-06-08T09:04:15.000Z",
+  "role": "Junior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "hola si",
+      "start_time": 7.795,
+      "end_time": 16.358,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "puedo hablar ingles",
+      "start_time": 11.097,
+      "end_time": 15.819,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "si si quiero decir no puedo abrir la puerta en vilandria",
+      "start_time": 16.538,
+      "end_time": 27.004,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 28.464,
+      "end_time": 28.604,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "puedo tener tu numero de acceso",
+      "start_time": 30.656,
+      "end_time": 36.759,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you you my my code si puedo tenerlo",
+      "start_time": 31.632,
+      "end_time": 37.319,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "si puedo tenerlo",
+      "start_time": 37.32,
+      "end_time": 46.242,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "my number camping car yes or not",
+      "start_time": 38.054,
+      "end_time": 44.816,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "yes",
+      "start_time": 46.676,
+      "end_time": 46.956,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "1 0 0 7 9 7 2 8 1",
+      "start_time": 48.197,
+      "end_time": 59.3,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "perfecto tu nombre",
+      "start_time": 58.888,
+      "end_time": 59.908,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "magali rosal",
+      "start_time": 61.897,
+      "end_time": 63.064,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "y sabes el nombre de esta area",
+      "start_time": 96.688,
+      "end_time": 98.25,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "donde estas",
+      "start_time": 99.07,
+      "end_time": 103.134,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "y la madre de la madre vale del agua y la disco de la madre vilandria",
+      "start_time": 100.829,
+      "end_time": 103.634,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "bastard vilandria",
+      "start_time": 112.922,
+      "end_time": 114.603,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok entonces",
+      "start_time": 118.787,
+      "end_time": 120.008,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok asi que dejame ver por que no puedes entrar",
+      "start_time": 138.96,
+      "end_time": 144.026,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "aja",
+      "start_time": 144.066,
+      "end_time": 144.567,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si tiene un error",
+      "start_time": 145.208,
+      "end_time": 150.712,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "si",
+      "start_time": 150.992,
+      "end_time": 151.133,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "la otra persona no entra a la carcel",
+      "start_time": 152.473,
+      "end_time": 172.587,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 157.903,
+      "end_time": 158.024,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok tengo un codigo para ti",
+      "start_time": 168.376,
+      "end_time": 178.401,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si tengo un codigo pero no funciona",
+      "start_time": 175.073,
+      "end_time": 185.9,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "si si pero para mi es otro codigo que puedes usar",
+      "start_time": 178.402,
+      "end_time": 182.583,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "es 4 7 2 ok ok",
+      "start_time": 182.584,
+      "end_time": 188.002,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "cuatro siete siete siete dos 5 cinco",
+      "start_time": 188.003,
+      "end_time": 202.052,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "1 5 3",
+      "start_time": 202.341,
+      "end_time": 210.226,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "3 y validar",
+      "start_time": 212.758,
+      "end_time": 214.79,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "entre",
+      "start_time": 215.199,
+      "end_time": 215.479,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "enter",
+      "start_time": 216.391,
+      "end_time": 216.712,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ves un mensaje en",
+      "start_time": 220.035,
+      "end_time": 221.115,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no no no no",
+      "start_time": 223.341,
+      "end_time": 224.621,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "atractment and push",
+      "start_time": 225.302,
+      "end_time": 226.842,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "un tratamiento de biopsia en curso",
+      "start_time": 228.517,
+      "end_time": 233.985,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah yes yes yes",
+      "start_time": 230.523,
+      "end_time": 231.803,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "now it s okay",
+      "start_time": 232.523,
+      "end_time": 233.444,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "thank you",
+      "start_time": 233.884,
+      "end_time": 234.224,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "esta abierto",
+      "start_time": 235.507,
+      "end_time": 240.214,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok ahora esta bien",
+      "start_time": 238.728,
+      "end_time": 239.671,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "todo esta bien para mi",
+      "start_time": 239.832,
+      "end_time": 240.834,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok perfecto",
+      "start_time": 240.274,
+      "end_time": 243.499,
+      "user_id": 1596949,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "gracias",
+      "start_time": 240.874,
+      "end_time": 242.379,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "client",
+      "text": "muchas gracias",
+      "start_time": 242.38,
+      "end_time": 242.8,
+      "user_id": null,
+      "phone_hash": "c15ad2673af4377a3758e50539b02772a8dc51f19d125fd3aa9f81deaac476f3"
+    },
+    {
+      "speaker": "agent",
+      "text": "adios",
+      "start_time": 243.559,
+      "end_time": 243.96,
+      "user_id": 1596949,
+      "phone_hash": null
+    }
+  ]
+}

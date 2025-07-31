@@ -1,0 +1,560 @@
+{
+  "conversation_id": "2794633786",
+  "call_created_at": "2025-05-11T15:45:30.000Z",
+  "role": "Junior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "como puedo ayudar",
+      "start_time": 0.06,
+      "end_time": 5.483,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "hola puedes hablar ingles",
+      "start_time": 3.096,
+      "end_time": 4.417,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "si ok estamos con nuestro auto de camping en el barrio de medellin y tuvimos una reservacion pero el puerto no se abre",
+      "start_time": 5.503,
+      "end_time": 22.824,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok un momento su nombre es gritz van der poel es cierto",
+      "start_time": 18.07,
+      "end_time": 23.513,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si eso es correcto",
+      "start_time": 22.944,
+      "end_time": 23.784,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok un segundo",
+      "start_time": 23.613,
+      "end_time": 28.236,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok entonces hay un problema en la maquina asi que te dare un codigo para entrar",
+      "start_time": 34.288,
+      "end_time": 38.752,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "5 3 4 asi que va a ser 5349227 y el boton de entrar y entrar 9 2 2 7 vale la hora",
+      "start_time": 39.74,
+      "end_time": 61.372,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "y el final es un signo",
+      "start_time": 62.71,
+      "end_time": 68.432,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "si el arrow",
+      "start_time": 65.6,
+      "end_time": 66.481,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "validate",
+      "start_time": 68.722,
+      "end_time": 69.422,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "si la c",
+      "start_time": 71.033,
+      "end_time": 71.434,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "esta",
+      "start_time": 73.175,
+      "end_time": 75.437,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "no que dice en la maquina",
+      "start_time": 75.517,
+      "end_time": 84.29,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "si el arrow es el enter",
+      "start_time": 84.291,
+      "end_time": 94.856,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "no hay la c de cancelar y",
+      "start_time": 86.444,
+      "end_time": 88.646,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "un arrow",
+      "start_time": 88.806,
+      "end_time": 89.426,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "ok",
+      "start_time": 91.548,
+      "end_time": 96.411,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "si",
+      "start_time": 97.372,
+      "end_time": 97.492,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ahora empujo que dice en la maquina",
+      "start_time": 99.24,
+      "end_time": 102.637,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pero presentare la carta",
+      "start_time": 101.481,
+      "end_time": 109.463,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "bien voy a darles el codigo de nuevo",
+      "start_time": 106.58,
+      "end_time": 108.161,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "5 si bien",
+      "start_time": 108.181,
+      "end_time": 109.943,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "3 4 5 3 9 4 9 2 2 7 y el boton de entrar",
+      "start_time": 110.283,
+      "end_time": 123.072,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "7 y esta",
+      "start_time": 124.227,
+      "end_time": 125.808,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "no que dice",
+      "start_time": 129.696,
+      "end_time": 130.692,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "nada sucedio",
+      "start_time": 135.399,
+      "end_time": 146.323,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 135.835,
+      "end_time": 136.015,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "puedo poner los colores en la maquina de exceso",
+      "start_time": 137.696,
+      "end_time": 140.737,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "es posible",
+      "start_time": 140.918,
+      "end_time": 141.858,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "que",
+      "start_time": 146.483,
+      "end_time": 147.123,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok",
+      "start_time": 146.5,
+      "end_time": 146.62,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "por la",
+      "start_time": 148.704,
+      "end_time": 151.785,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "si estoy aqui",
+      "start_time": 160.452,
+      "end_time": 165.314,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok estas listo para el codigo",
+      "start_time": 161.424,
+      "end_time": 162.705,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "ok entonces 5 por favor diganme",
+      "start_time": 162.785,
+      "end_time": 166.395,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "5 3 4 9 3 2 4 9 2 2 2 7 y el boton de enter",
+      "start_time": 166.415,
+      "end_time": 186.787,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "7 enter no",
+      "start_time": 181.542,
+      "end_time": 185.504,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "esta escrito tres mores cours",
+      "start_time": 186.827,
+      "end_time": 188.128,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "es lo mismo por ahi hay",
+      "start_time": 189.364,
+      "end_time": 190.785,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "ok",
+      "start_time": 190.786,
+      "end_time": 190.925,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "oh la maquina de salida and you are putting it on the exit machine ok",
+      "start_time": 190.926,
+      "end_time": 193.386,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "traeme otra vez",
+      "start_time": 193.426,
+      "end_time": 198.469,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "right",
+      "start_time": 194.698,
+      "end_time": 195.038,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "mi carro me voy a la maquina de salida ahora",
+      "start_time": 198.489,
+      "end_time": 200.971,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "ok por favor ahora con la maquina de salida",
+      "start_time": 200.972,
+      "end_time": 208.916,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "yeah and i will give you the code for the exit machine",
+      "start_time": 204.244,
+      "end_time": 206.285,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "so 5349",
+      "start_time": 206.305,
+      "end_time": 212.989,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "5 3",
+      "start_time": 209.456,
+      "end_time": 211.157,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "4 9 2 2 7 y el boton de entrar",
+      "start_time": 218.88,
+      "end_time": 226.455,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "asi que 5 2 2",
+      "start_time": 226.456,
+      "end_time": 228.546,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "no la 4 la he perdido",
+      "start_time": 228.547,
+      "end_time": 229.846,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "ok la cancelo",
+      "start_time": 229.866,
+      "end_time": 230.467,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "de nuevo por favor",
+      "start_time": 230.547,
+      "end_time": 231.848,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "5 3 3 4 4 9 9 2 2",
+      "start_time": 231.849,
+      "end_time": 246.156,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "2 2 7 y el boton de entrar",
+      "start_time": 246.547,
+      "end_time": 247.968,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "7 y el enter",
+      "start_time": 249.132,
+      "end_time": 250.732,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "seteme a un cool",
+      "start_time": 253.953,
+      "end_time": 254.974,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "perfecto asi que deberia abrir en unos segundos",
+      "start_time": 255.488,
+      "end_time": 270.123,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ok si",
+      "start_time": 259.415,
+      "end_time": 260.355,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "mi marido va a ir al carro ahora",
+      "start_time": 263.196,
+      "end_time": 266.417,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "bien paul notre bresol",
+      "start_time": 266.418,
+      "end_time": 270.018,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "si eso significa que esta abierto",
+      "start_time": 270.143,
+      "end_time": 273.827,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "esta abierto ahora",
+      "start_time": 270.778,
+      "end_time": 272.538,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "gracias perfecto gracias",
+      "start_time": 272.578,
+      "end_time": 275.839,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "gracias por ayudar",
+      "start_time": 275.879,
+      "end_time": 278.08,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "agent",
+      "text": "bien de nada",
+      "start_time": 275.909,
+      "end_time": 277.952,
+      "user_id": 1503101,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "adios",
+      "start_time": 278.16,
+      "end_time": 278.48,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    },
+    {
+      "speaker": "client",
+      "text": "gracias",
+      "start_time": 278.481,
+      "end_time": 278.914,
+      "user_id": null,
+      "phone_hash": "919dd26f6754c7e7247089c6e270b52e38e004066f3bee21392a2720e5bc5241"
+    }
+  ]
+}

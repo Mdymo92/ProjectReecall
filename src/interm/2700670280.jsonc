@@ -1,0 +1,464 @@
+{
+  "conversation_id": "2700670280",
+  "call_created_at": "2025-04-01T11:48:40.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Camping-car par Alexandre, bonjour.",
+      "start_time": 1.68,
+      "end_time": 3.3799999,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui bonjour, service technique de la commune de Pont-au-Mur.",
+      "start_time": 3.6799998,
+      "end_time": 6.18,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "2",
+      "start_time": 5.8,
+      "end_time": 6.3,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Pont-au-Mur, dans le Puy-de-Dôme.",
+      "start_time": 9.36,
+      "end_time": 11.54,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oui, oui.",
+      "start_time": 12.08,
+      "end_time": 12.9,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Moi j'ai un souci avec la barrière, j'ai passé mon badge et ça ne m'avait pas ça ne m'a pas ouvert et ce matin ça m'a fait la même chose.",
+      "start_time": 14.725,
+      "end_time": 21.625,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ça vous met quoi comme message",
+      "start_time": 22.224998,
+      "end_time": 23.765,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ça met bonjour et ça ne l'ouvre pas la barrière.",
+      "start_time": 24.485,
+      "end_time": 26.7,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Et",
+      "start_time": 26.785,
+      "end_time": 26.945,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Et",
+      "start_time": 26.94,
+      "end_time": 27.1,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "ça",
+      "start_time": 26.945,
+      "end_time": 27.105,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "le",
+      "start_time": 27.1,
+      "end_time": 27.380001,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "le",
+      "start_time": 27.105,
+      "end_time": 27.605,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "problème ça fait, c'est assez souvent que ça nous y fait le problème.",
+      "start_time": 27.380001,
+      "end_time": 31.76,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Je vais regarder ça. Ce qui manque.",
+      "start_time": 32.91,
+      "end_time": 39.059998,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui,",
+      "start_time": 42.524998,
+      "end_time": 43.024998,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "À",
+      "start_time": 43.23,
+      "end_time": 43.48,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "il",
+      "start_time": 43.298332,
+      "end_time": 43.798332,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "l'entrée.",
+      "start_time": 43.48,
+      "end_time": 43.785,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "y en a qu'une, non on n'a qu'une barrière. Ah",
+      "start_time": 44.071663,
+      "end_time": 48.864998,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ouais ouais ouais mais c'était pour rentrer ouais ça effectivement ça",
+      "start_time": 49.785,
+      "end_time": 52.745,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui, s'il",
+      "start_time": 52.524998,
+      "end_time": 52.844997,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "a",
+      "start_time": 52.745,
+      "end_time": 53.245,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "faut rentrer oui.",
+      "start_time": 52.844997,
+      "end_time": 53.905,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "pris l'entrée mais c'est à l'instant là ouais. Ok, c'est bizarre, ça vous a pris l'entrée.",
+      "start_time": 53.445,
+      "end_time": 62.56,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oui. Parce que ça nous fait, je vous dis ça l'a fait ce matin et ça le fait assez régulièrement. Si",
+      "start_time": 63.5,
+      "end_time": 70.355,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord, parce que tout est bon pourtant. Et là si vous rebadgez.",
+      "start_time": 70.3,
+      "end_time": 79.075,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ça fait comme ça va me mettre, ça met erreur séjour.",
+      "start_time": 81.135,
+      "end_time": 85.630005,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ouais c'est ça c'est bizarre que ce n'est pas pris l'entrée mais je vais vous ouvrir je vais regarder ça hop attention",
+      "start_time": 86.11,
+      "end_time": 98.369995,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "C'est bon, ça me ouvre.",
+      "start_time": 100.064995,
+      "end_time": 101.365,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. C'est bizarre que ça, mais on",
+      "start_time": 102.125,
+      "end_time": 103.885,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Mais",
+      "start_time": 103.865,
+      "end_time": 104.365,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "a ce problème-là en ce moment. Peut-être",
+      "start_time": 103.885,
+      "end_time": 106.925,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "même,",
+      "start_time": 106.865,
+      "end_time": 107.365,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "des accès.",
+      "start_time": 106.925,
+      "end_time": 107.665,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ça fait depuis qu'elle a été mise, ça n'arrête pas de nous y faire ça, donc je ne sais pas si s'il y a quelque",
+      "start_time": 107.585,
+      "end_time": 112.409996,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Que ce",
+      "start_time": 111.98,
+      "end_time": 112.54,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "chose à",
+      "start_time": 112.409996,
+      "end_time": 112.649994,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "soit",
+      "start_time": 112.54,
+      "end_time": 113.04,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "faire ou pas.",
+      "start_time": 112.649994,
+      "end_time": 113.46999,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "en entrée ou",
+      "start_time": 113.82001,
+      "end_time": 114.880005,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Beaucoup",
+      "start_time": 115.25,
+      "end_time": 115.75,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "en sortie à chaque fois ça",
+      "start_time": 115.26,
+      "end_time": 116.8,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "en entrée,",
+      "start_time": 117.53,
+      "end_time": 118.11,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "D'accord",
+      "start_time": 120.060005,
+      "end_time": 120.560005,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "beaucoup en entrée, après ça arrive aussi en sortie et c'est c'est là,",
+      "start_time": 120.25,
+      "end_time": 123.53,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "ok.",
+      "start_time": 123.340004,
+      "end_time": 123.675,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "je me dis c'est ça l'a fait ce matin et ça le fait franchement assez",
+      "start_time": 123.53,
+      "end_time": 127.125,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok n'hésitez pas à rappeler si ça recommence, je vais regarder moi mon côté ce qui s'est passé et on va voir ça.",
+      "start_time": 130.55501,
+      "end_time": 138.41501,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "D'accord bon merci",
+      "start_time": 139.85645,
+      "end_time": 140.91644,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ouais, je vous en prie.",
+      "start_time": 141.96999,
+      "end_time": 143.10999,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "bonne",
+      "start_time": 143.29645,
+      "end_time": 143.61644,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bonne",
+      "start_time": 143.56999,
+      "end_time": 143.65,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "journée",
+      "start_time": 143.61644,
+      "end_time": 143.85645,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "journée.",
+      "start_time": 143.65,
+      "end_time": 144.15,
+      "user_id": 1503110,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "au revoir.",
+      "start_time": 143.85645,
+      "end_time": 144.51643,
+      "user_id": null,
+      "phone_hash": "01affb857a2879f217b5029da30aefa1e75321f09bd32cbf96ff05d715e58895"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bon courage, au revoir. Merci.",
+      "start_time": 144.68999,
+      "end_time": 147.93144,
+      "user_id": 1503110,
+      "phone_hash": null
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "conversation_id": "2882453967",
+  "call_created_at": "2025-06-14T09:44:23.000Z",
+  "role": "Junior",
+  "language": "de",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Hallo?",
+      "start_time": 0.06,
+      "end_time": 0.22,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ja, hallo.",
+      "start_time": 1.9,
+      "end_time": 2.36,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "client",
+      "text": "Ich stehe an einem Carpark und die Schranke geht nicht auf.",
+      "start_time": 3.641,
+      "end_time": 7.242,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "client",
+      "text": "Meine Karte wird nicht gelesen an dem Touchpad.",
+      "start_time": 7.302,
+      "end_time": 9.743,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, sorry, ich spreche nicht Deutsch.",
+      "start_time": 9.804,
+      "end_time": 22.429,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay, so we are standing here in a Carpark place and before the barrier and the keycard does not read on the...",
+      "start_time": 12.864,
+      "end_time": 21.446,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, ich werde das klären.",
+      "start_time": 22.449,
+      "end_time": 23.87,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Seid ihr in Gokalms?",
+      "start_time": 23.871,
+      "end_time": 25.29,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 26.951,
+      "end_time": 27.151,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Ähm, seid ihr in Liburn?",
+      "start_time": 27.551,
+      "end_time": 29.532,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Right now?",
+      "start_time": 29.812,
+      "end_time": 30.172,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "No, we have left Liburn.",
+      "start_time": 31.596,
+      "end_time": 33.258,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "No, okay.",
+      "start_time": 32.333,
+      "end_time": 32.753,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 33.873,
+      "end_time": 34.173,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "And what is the name of the place that you are right now?",
+      "start_time": 35.594,
+      "end_time": 38.214,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Don Zenec?",
+      "start_time": 42.796,
+      "end_time": 43.256,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "One minute, please.",
+      "start_time": 43.291,
+      "end_time": 45.734,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "client",
+      "text": "Don't knock yet.",
+      "start_time": 45.735,
+      "end_time": 46.515,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Don Zenec?",
+      "start_time": 47.157,
+      "end_time": 47.637,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Is that?",
+      "start_time": 48.317,
+      "end_time": 48.637,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ja, ja.",
+      "start_time": 48.958,
+      "end_time": 49.98,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 49.678,
+      "end_time": 49.958,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, this is because...",
+      "start_time": 56.72,
+      "end_time": 57.94,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Da ist ein Problem mit der Verlegerung, die nicht verbunden ist.",
+      "start_time": 58.712,
+      "end_time": 63.594,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay, ja.",
+      "start_time": 63.464,
+      "end_time": 63.944,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich werde es beibringen.",
+      "start_time": 63.595,
+      "end_time": 64.855,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Also, du willst in den Ort kommen, sagst du mir.",
+      "start_time": 64.895,
+      "end_time": 68.356,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes, yes, Fyodor Karin.",
+      "start_time": 69.067,
+      "end_time": 70.648,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 70.217,
+      "end_time": 70.537,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Also, du bist in der Vorderseite der Verlegerung.",
+      "start_time": 71.097,
+      "end_time": 72.938,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes, right.",
+      "start_time": 73.71,
+      "end_time": 74.51,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 75.499,
+      "end_time": 75.759,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Könntest du bitte einen Code beinhalten?",
+      "start_time": 76.219,
+      "end_time": 82.382,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes.",
+      "start_time": 81.474,
+      "end_time": 81.654,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Neben der Verlegerung kannst du deine Karte scannen und einen Code einstellen.",
+      "start_time": 82.422,
+      "end_time": 85.923,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Und ich werde dir einen Code geben.",
+      "start_time": 86.023,
+      "end_time": 87.504,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 88.898,
+      "end_time": 89.178,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "So the code is 3, ok, ok, ok, 4, 6, 2, 3, 2, 9.",
+      "start_time": 89.904,
+      "end_time": 116.096,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "One minute, I have to go outside.",
+      "start_time": 92.9,
+      "end_time": 94.262,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "client",
+      "text": "I'm a little too far away.",
+      "start_time": 96.083,
+      "end_time": 97.344,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "client",
+      "text": "So, the code is 3462329.",
+      "start_time": 97.345,
+      "end_time": 120.544,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "and you press enter.",
+      "start_time": 118.216,
+      "end_time": 119.197,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Nothing happens.",
+      "start_time": 127.324,
+      "end_time": 128.005,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, there is a message on the screen.",
+      "start_time": 128.826,
+      "end_time": 130.508,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oh, it's open now.",
+      "start_time": 131.628,
+      "end_time": 132.488,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay, great.",
+      "start_time": 132.85,
+      "end_time": 133.451,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay, thank you very much.",
+      "start_time": 136.231,
+      "end_time": 137.632,
+      "user_id": null,
+      "phone_hash": "5c67235f89a016c816317c21f9db808443fd22ef4fa12b47e03c48191a99a566"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's okay.",
+      "start_time": 138.176,
+      "end_time": 138.636,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Have a nice day.",
+      "start_time": 138.816,
+      "end_time": 139.417,
+      "user_id": 1616843,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Bye.",
+      "start_time": 142.24,
+      "end_time": 142.44,
+      "user_id": 1616843,
+      "phone_hash": null
+    }
+  ]
+}

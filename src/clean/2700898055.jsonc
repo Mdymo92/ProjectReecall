@@ -1,0 +1,496 @@
+{
+  "conversation_id": "2700898055",
+  "call_created_at": "2025-04-01T12:54:35.000Z",
+  "role": "Senior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "oui bonjour",
+      "start_time": 0,
+      "end_time": 0.74,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "allo",
+      "start_time": 2.3999999,
+      "end_time": 2.8999999,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui bonjour",
+      "start_time": 3.04,
+      "end_time": 3.6999998,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui bonjour je suis sur l aire de roscov",
+      "start_time": 4.72,
+      "end_time": 8.98,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 9.76,
+      "end_time": 10.26,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "dans le vingt neuf je voulais savoir s il y avait d un wifi parce que je n arrive pas a me connecter",
+      "start_time": 11.04,
+      "end_time": 15.94,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "on va regarder ca ensemble monsieur",
+      "start_time": 15.745,
+      "end_time": 17.825,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "s il",
+      "start_time": 17.815,
+      "end_time": 18.135,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "voir",
+      "start_time": 17.825,
+      "end_time": 18.325,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "vous plait merci",
+      "start_time": 18.135,
+      "end_time": 18.955,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "si peut etre qu elle a un petit defaut",
+      "start_time": 18.625,
+      "end_time": 20.965,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c est",
+      "start_time": 20.775002,
+      "end_time": 21.275002,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors",
+      "start_time": 21.345,
+      "end_time": 21.845,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pour ca que j appelle",
+      "start_time": 23.095001,
+      "end_time": 23.995,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "vous avez bien fait un horoscope c est l instant alors est ce que vous voyez apparaitre un reseau camping car parc ou pas du tout",
+      "start_time": 24.305,
+      "end_time": 39.309998,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "normalement oui",
+      "start_time": 40.64,
+      "end_time": 41.38,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "et la vous le voyez apparaitre un cc peroscope",
+      "start_time": 42.655,
+      "end_time": 44.754997,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c est c etait en scof oui",
+      "start_time": 46.615,
+      "end_time": 48.075,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord et ensuite l etape d apres qu est ce qu il vous demande",
+      "start_time": 48.335,
+      "end_time": 50.995,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "apres je clique dessus et j arrive sur une page noire il y a un point d interrogation dans un icone bon honnetement je connais pas grand chose dans l informatique c est marque limite ouvert",
+      "start_time": 53.815002,
+      "end_time": 69.84,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "et du coup le wifi n est pas actif sur votre telephone oui",
+      "start_time": 72.424995,
+      "end_time": 76.284996,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "sur le sur mon petit p sur mon pc portable",
+      "start_time": 77.145,
+      "end_time": 79.805,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "ca ne marche pas d accord",
+      "start_time": 80.265,
+      "end_time": 81.564995,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "non non ca marche pas quand j arrive sur une page noire et il n y a pas de il n y a rien il y a marque il y",
+      "start_time": 82.424995,
+      "end_time": 91.25,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord",
+      "start_time": 91.18,
+      "end_time": 91.68,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "a toujours marque non connecte",
+      "start_time": 91.25,
+      "end_time": 92.79,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors je vais tenter de resumer tout ca tac donc donc le client trouve bien le reseau le reseau donc ccp coffe donc ensuite vous avez une page noire ou c est ecrit limite ouvert",
+      "start_time": 94.06,
+      "end_time": 119.549995,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "c est marque quand j ouvre mes reseaux wifi c est bien marque ccp roscope",
+      "start_time": 122.89,
+      "end_time": 129.565,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "bonsoir",
+      "start_time": 130.365,
+      "end_time": 130.865,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "limiter une lumiere et bon il y a un point et il y a un petit asterisque ce sont le cote avec un point d interrogation par contre la enfin je lis sur cette page la il y a 2 reseaux securises apparemment ouverts",
+      "start_time": 130.425,
+      "end_time": 145.01999,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "2 reseaux et vous pouvez basculer de l un a l autre ou pas",
+      "start_time": 148.5,
+      "end_time": 151.88,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "non non il ne faut pas y aller",
+      "start_time": 152.51999,
+      "end_time": 154.7,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "ecoutez moi a mon niveau malheureusement ca va etre complique de vous aider la je viens de faire la demande au support technique j espere qu ils seront en mesure de trouver une solution je vais passer les voir en parallele dans tous les cas pour voir s ils ont un depannage rapide a me proposer je",
+      "start_time": 156.085,
+      "end_time": 170.56,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord",
+      "start_time": 170.53,
+      "end_time": 171.03,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "reviens vers vous tout",
+      "start_time": 170.56,
+      "end_time": 173.14001,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "merci",
+      "start_time": 173.33,
+      "end_time": 173.83,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "de suite monsieur oui",
+      "start_time": 173.52,
+      "end_time": 459,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui",
+      "start_time": 458.89,
+      "end_time": 459.39,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "monsieur je suis de retour alors est ce que vous avez reussi a vous connecter plutot dans la journee ou pas du tout a aucun moment",
+      "start_time": 459,
+      "end_time": 466.225,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ah non du tout on est arrive a midi",
+      "start_time": 466.25,
+      "end_time": 468.35,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "d accord parce qu en fait a priori nous ca fonctionne le wifi on voit qu on a des personnes qui sont connectees actuellement a est ce qu on pourrait faire la tentative si c est possible pour vous de redemarrer votre ordinateur pour pour essayer de retrouver le reseau",
+      "start_time": 468.685,
+      "end_time": 483.97,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "ouais mais tu vas dire la quand on a mange je l avais arrete et je ne l ai pas je l ai pas retrouve j ai redemarre mon pc je l avais pas retrouve",
+      "start_time": 486.09,
+      "end_time": 496.99,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "et sur votre telephone portable est ce que vous retrouvez ce vous arrivez a vous connecter a ce wifi",
+      "start_time": 497.045,
+      "end_time": 501.225,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "sur le portable je sais pas puisque on a internet mais",
+      "start_time": 503.185,
+      "end_time": 507.845,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 507.99,
+      "end_time": 508.49,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "sans passer par",
+      "start_time": 508.225,
+      "end_time": 509.205,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "je comprends bien moi c est juste pour trouver des",
+      "start_time": 509.99,
+      "end_time": 512.71,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "la",
+      "start_time": 512.46,
+      "end_time": 512.96,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "raisons",
+      "start_time": 512.71,
+      "end_time": 513.21,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "j ai une page noire et c est marque",
+      "start_time": 513.66003,
+      "end_time": 516.88,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "nomorfer",
+      "start_time": 523.895,
+      "end_time": 524.395,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "une",
+      "start_time": 530.145,
+      "end_time": 530.645,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oh la ca vient oui oui puis la c est votre premier ce genre de l annee de toute facon donc il n y a pas de raison que non",
+      "start_time": 532.215,
+      "end_time": 540.76996,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "non mais bon a partir du moment ou on me dit que oui il y a de la connexion bon ben c est moi ou qui n arrive pas ou mon materiel qui a quoi se connecter c est tout quoi",
+      "start_time": 541.98,
+      "end_time": 550.95996,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "c est pour ca que je vous inviterais a faire une tentative de redemarrage de votre ordinateur parce que nous on a regarde on a 2 personnes qui sont actuellement connectees dessus donc a priori ca devrait",
+      "start_time": 550.75,
+      "end_time": 562.865,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "d accord",
+      "start_time": 562.805,
+      "end_time": 563.305,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "fonctionner malheureusement la je ne saurais pas vous aider plus a mon niveau",
+      "start_time": 562.885,
+      "end_time": 567.705,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "oui non je vais pas vous faire perdre de temps inutilement c etait pour me confirmer que le reseau il etait bien dispo et puis bon ca peut tomber en carafe il y a des fois donc c est pour ca",
+      "start_time": 567.285,
+      "end_time": 580.935,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui",
+      "start_time": 580.76,
+      "end_time": 581.26,
+      "user_id": 1463542,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "pour ca que j appelais quoi a partir du moment ou vous me dites que oui il y a du reseau et tout bon ben je vais pas vous embeter plus longtemps je vais essayer de me depatouiller avec mon materiel quoi",
+      "start_time": 581.095,
+      "end_time": 589.835,
+      "user_id": null,
+      "phone_hash": "2a02a5f4af5857f80609a97e85231f56aadaaa048d54173219b6d09995de768c"
+    },
+    {
+      "speaker": "agent",
+      "text": "voila essayez un peu plus tard si vous voulez bien je vous souhaite une tres bonne journee monsieur au revoir",
+      "start_time": 589.6757,
+      "end_time": 596.7357,
+      "user_id": 1463542,
+      "phone_hash": null
+    }
+  ]
+}

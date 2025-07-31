@@ -1,0 +1,72 @@
+{
+  "conversation_id": "2699763908",
+  "call_created_at": "2025-04-01T07:32:40.000Z",
+  "role": "Senior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "buongiorno parla",
+      "start_time": 2,
+      "end_time": 2.82,
+      "user_id": null,
+      "phone_hash": "aa732998dfcf28b5751b1bcdd548550fda1bcde58808d44d724d19774a2c5519"
+    },
+    {
+      "speaker": "agent",
+      "text": "bonjour",
+      "start_time": 3.36,
+      "end_time": 3.86,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "italiano capisce io ho mandato una mail il diciannove di marzo ma non ho avuto risposta no volevo le tessere volevo dieci tessere quella mail francesca perin virgilio punto it la mail si francesca perin virgilio punto it la mail diciannove marzo parla francese che io capisco francese poco ma capisco",
+      "start_time": 6.56,
+      "end_time": 212.245,
+      "user_id": null,
+      "phone_hash": "aa732998dfcf28b5751b1bcdd548550fda1bcde58808d44d724d19774a2c5519"
+    },
+    {
+      "speaker": "agent",
+      "text": "alors on a bien recu votre mail",
+      "start_time": 213.055,
+      "end_time": 215.635,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "e trovet",
+      "start_time": 216.375,
+      "end_time": 217.125,
+      "user_id": null,
+      "phone_hash": "aa732998dfcf28b5751b1bcdd548550fda1bcde58808d44d724d19774a2c5519"
+    },
+    {
+      "speaker": "agent",
+      "text": "on",
+      "start_time": 218.65001,
+      "end_time": 218.89001,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "dentro",
+      "start_time": 218.705,
+      "end_time": 219.205,
+      "user_id": null,
+      "phone_hash": "aa732998dfcf28b5751b1bcdd548550fda1bcde58808d44d724d19774a2c5519"
+    },
+    {
+      "speaker": "agent",
+      "text": "on a recu oui oui trouver je vais pouvoir voir avec ma collegue je je reviens vers vous a un petit instant s il vous dit un moment d accord",
+      "start_time": 218.89001,
+      "end_time": 242.915,
+      "user_id": 1460746,
+      "phone_hash": null
+    }
+  ]
+}

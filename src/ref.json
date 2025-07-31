@@ -1,0 +1,177 @@
+{
+  "themes": [
+    {
+      "theme_id": 0,
+      "theme": "Paiement",
+      "frequency": 22,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Carte bancaire refusée",
+          "frequency": 3,
+          "examples": [
+            "Je veux récupérer l'argent de ma carte de camping sur ma carte de crédit.",
+            "Je veux recevoir cet e-mail en anglais."
+          ]
+        },
+        {
+          "category_id": 1,
+          "category": "Problème de paiement en ligne",
+          "frequency": 19,
+          "examples": [
+            "Le paiement ne fonctionne ni en agence ni avec la tablette",
+            "Impossible de valider le paiement en ligne malgré plusieurs tentatives"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 1,
+      "theme": "Accès",
+      "frequency": 41,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Problème de connexion",
+          "frequency": 1,
+          "examples": [
+            "Le client ne parvient pas à se connecter au wifi de l'aire de repos",
+            "Le client voit le réseau wifi mais ne parvient pas à se connecter, il obtient une page noire avec un message 'limite ouvert'"
+          ]
+        },
+        {
+          "category_id": 1,
+          "category": "Problème d'accès au compte",
+          "frequency": 3,
+          "examples": [
+            "Problème de connexion au compte sur l'application mobile",
+            "Besoin d'aide pour activer la carte et payer les frais de création du compte"
+          ]
+        },
+        {
+          "category_id": 2,
+          "category": "Problème de saisie d'informations",
+          "frequency": 28,
+          "examples": [
+            "Problème de saisie d'informations lors de la mise à jour du compte sur l'application",
+            "Difficulté à accéder à la boîte mail sur l'application"
+          ]
+        },
+        {
+          "category_id": 3,
+          "category": "Problème de connexion audio",
+          "frequency": 9,
+          "examples": [
+            "Problème de connexion audio",
+            "Langue de communication"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 2,
+      "theme": "Réservation",
+      "frequency": 6,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Problème de modification de réservation",
+          "frequency": 6,
+          "examples": [
+            "Le client ne parvient pas à réserver un séjour car il a déjà une réservation en cours",
+            "Le client se sent bloqué car il ne peut pas modifier sa réservation une fois sur place"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 3,
+      "theme": "Service client",
+      "frequency": 1,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Changement d'informations client",
+          "frequency": 1,
+          "examples": [
+            "Changer l'adresse mail d'un client",
+            "Contacter le service client"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 4,
+      "theme": "Problème technique",
+      "frequency": 4,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Problème d'ouverture de la barrière",
+          "frequency": 1,
+          "examples": [
+            "Problème d'ouverture de la barrière avec le badge",
+            "Message d'erreur 'erreur séjour' lors du badgeage"
+          ]
+        },
+        {
+          "category_id": 1,
+          "category": "Problème de connexion audio",
+          "frequency": 3,
+          "examples": [
+            "Problème de connexion audio",
+            "Je ne vous entends pas"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 5,
+      "theme": "Sortie",
+      "frequency": 2,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Problème d'ouverture de la barrière de parking",
+          "frequency": 2,
+          "examples": [
+            "Impossible de sortir du parking avec la carte",
+            "Réclamation pour l'absence de service de vidange"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 6,
+      "theme": "Suggestions",
+      "frequency": 1,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Proposition d'amélioration",
+          "frequency": 1,
+          "examples": [
+            "Proposition d'installation de composteurs près de l'entrée du tri des déchets",
+            "Besoin de savoir qui contacter pour discuter de l'installation des composteurs"
+          ]
+        }
+      ]
+    },
+    {
+      "theme_id": 7,
+      "theme": "Langue",
+      "frequency": 1,
+      "categories": [
+        {
+          "category_id": 0,
+          "category": "Besoin d'aide en langue étrangère",
+          "frequency": 1,
+          "examples": [
+            "Besoin d'être transféré à un agent parlant allemand",
+            "Problème de réservation qui n'apparaît pas dans l'application"
+          ]
+        }
+      ]
+    }
+  ]
+}

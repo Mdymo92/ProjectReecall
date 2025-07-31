@@ -1,0 +1,856 @@
+{
+  "conversation_id": "2895986520",
+  "call_created_at": "2025-06-19T13:24:56.000Z",
+  "role": "Junior",
+  "language": "en",
+  "messages": [
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 0.56,
+      "end_time": 2.8,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Hello. Do you speak English, please? Hello? Oh, so",
+      "start_time": 2.8,
+      "end_time": 11.679999,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. I do.",
+      "start_time": 11.12,
+      "end_time": 12.32,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I'm I'm currently at La Petrie,",
+      "start_time": 12,
+      "end_time": 15.04,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 15.679999,
+      "end_time": 16,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "and I thought I'd paid for two nights,",
+      "start_time": 17.474998,
+      "end_time": 20.435,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah.",
+      "start_time": 20.615,
+      "end_time": 21.335,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "but it says I I'm going tomorrow.",
+      "start_time": 21.715,
+      "end_time": 24.195,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Mhmm.",
+      "start_time": 24.615,
+      "end_time": 25.415,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Also,",
+      "start_time": 26.595,
+      "end_time": 27.074999,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah.",
+      "start_time": 27.654999,
+      "end_time": 27.975,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I went to the machine, and I thought I added two more nights. And, it's still saying I've gotta go tomorrow. It's really bad.",
+      "start_time": 28.77,
+      "end_time": 38.53,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. You have to go tomorrow? What do you mean?",
+      "start_time": 40.15,
+      "end_time": 43.19,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "No. I don't want to go tomorrow.",
+      "start_time": 43.285,
+      "end_time": 45.685,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah?",
+      "start_time": 45.655,
+      "end_time": 46.375,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "But when I I look on on the app,",
+      "start_time": 45.685,
+      "end_time": 49.205,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Mhmm.",
+      "start_time": 49.415,
+      "end_time": 50.135,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it says, leave on the twentieth.",
+      "start_time": 49.445,
+      "end_time": 53.925,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. As I see ah, oh, you want you wanted to book for",
+      "start_time": 55.815,
+      "end_time": 62.28,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I want four nights in total.",
+      "start_time": 63.31,
+      "end_time": 65.39,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay. Oh, I think it's maybe you didn't understand all the hub work. It's happened a lot with people. They don't know that there is one you choose when you arrive. And on the bottom, you have another window when you can put the day you wanna leave.",
+      "start_time": 65.88,
+      "end_time": 86.065,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "And a lot of people",
+      "start_time": 86.065,
+      "end_time": 86.945,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "No.",
+      "start_time": 87.26,
+      "end_time": 88.7,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "don't understand that and just see that",
+      "start_time": 87.27,
+      "end_time": 90.149994,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "It's not",
+      "start_time": 89.9,
+      "end_time": 90.3,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "this",
+      "start_time": 90.149994,
+      "end_time": 90.46999,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "very",
+      "start_time": 90.3,
+      "end_time": 90.54,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "is",
+      "start_time": 90.46999,
+      "end_time": 90.63,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "clear.",
+      "start_time": 90.54,
+      "end_time": 91.340004,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes. You just have another window on the bottom. That's why.",
+      "start_time": 91.42999,
+      "end_time": 96.63,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Can",
+      "start_time": 97.18,
+      "end_time": 97.5,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "I",
+      "start_time": 97.35,
+      "end_time": 98.07,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you do it?",
+      "start_time": 97.5,
+      "end_time": 97.98,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "see yes. I see that you have booked for tomorrow to the '21.",
+      "start_time": 98.07,
+      "end_time": 104.505005,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah.",
+      "start_time": 106.205,
+      "end_time": 106.525,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. So you want the for today to the 2023?",
+      "start_time": 107.065,
+      "end_time": 112.425,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Four nights in total.",
+      "start_time": 113.479996,
+      "end_time": 115.079994,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. So that's why. I'm gonna delete your your booking. Okay.",
+      "start_time": 115.465004,
+      "end_time": 129.9,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "I thought I'd done it on the machine here, but obviously not.",
+      "start_time": 131.625,
+      "end_time": 136.185,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let's look back. Okay. So it's for today. Now to to show '1, 02/03. Yeah.",
+      "start_time": 137.535,
+      "end_time": 154.04999,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "To the '23. Okay?",
+      "start_time": 154.04999,
+      "end_time": 156.45,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Is it the twenty third? What what day is it today, John?",
+      "start_time": 157.16501,
+      "end_time": 160.845,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "We",
+      "start_time": 161.625,
+      "end_time": 161.94499,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Oh,",
+      "start_time": 161.645,
+      "end_time": 162.285,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "we are the '19.",
+      "start_time": 161.94499,
+      "end_time": 163.465,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "it's the nineteenth. Oh, okay. Yes. To the",
+      "start_time": 163.085,
+      "end_time": 165.485,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "start_time": 165.465,
+      "end_time": 165.70499,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "twenty",
+      "start_time": 165.485,
+      "end_time": 165.80501,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "nineteenth",
+      "start_time": 165.70499,
+      "end_time": 166.345,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "third.",
+      "start_time": 165.80501,
+      "end_time": 166.205,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "to the '23,",
+      "start_time": 166.345,
+      "end_time": 168.025,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes.",
+      "start_time": 167.75,
+      "end_time": 168.39,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "and the reservation starts now. So that's three and a half PM, and you will have to leave on the '23 before three",
+      "start_time": 168.665,
+      "end_time": 179.93,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "No.",
+      "start_time": 179.83,
+      "end_time": 180.06999,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "and",
+      "start_time": 179.93,
+      "end_time": 180.17,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "It'd",
+      "start_time": 180.06999,
+      "end_time": 180.23,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "a",
+      "start_time": 180.17,
+      "end_time": 180.33,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "be the",
+      "start_time": 180.23,
+      "end_time": 180.55,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "half PM.",
+      "start_time": 180.33,
+      "end_time": 180.89,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "twenty fourth, won't it? It'll be twenty fourth. We want four nights.",
+      "start_time": 180.55,
+      "end_time": 184.48502,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. But you have four nights if you start",
+      "start_time": 184.955,
+      "end_time": 187.115,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Ah,",
+      "start_time": 187.045,
+      "end_time": 187.84502,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "now. You have",
+      "start_time": 187.115,
+      "end_time": 188.235,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "okay.",
+      "start_time": 188.16501,
+      "end_time": 188.96501,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "the the this two nights, the one",
+      "start_time": 188.235,
+      "end_time": 190.955,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah.",
+      "start_time": 190.80501,
+      "end_time": 191.205,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "between '20 and '21, 2021, '22, and '22, '23. This is four nights.",
+      "start_time": 190.955,
+      "end_time": 196.155,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay. Leave",
+      "start_time": 197.12,
+      "end_time": 198.40001,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Do you",
+      "start_time": 198.76,
+      "end_time": 199.24,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "on",
+      "start_time": 199.2,
+      "end_time": 199.44,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "want",
+      "start_time": 199.24,
+      "end_time": 199.4,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Monday morning.",
+      "start_time": 199.44,
+      "end_time": 200.64001,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "yes. On",
+      "start_time": 202.2,
+      "end_time": 203.64,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yeah.",
+      "start_time": 203.6,
+      "end_time": 203.84,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Monday morning or in the beginning of the afternoon, if you want. You have",
+      "start_time": 203.64,
+      "end_time": 207.08,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 207.015,
+      "end_time": 207.73502,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "you have to leave before three and a half PM.",
+      "start_time": 207.08,
+      "end_time": 209.88,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you. Lovely.",
+      "start_time": 210.695,
+      "end_time": 212.13501,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. Is it great for you?",
+      "start_time": 211.75499,
+      "end_time": 213.515,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes. It's great. It's",
+      "start_time": 213.975,
+      "end_time": 215.015,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay.",
+      "start_time": 214.955,
+      "end_time": 215.515,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "fantastic.",
+      "start_time": 215.015,
+      "end_time": 215.655,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "I",
+      "start_time": 215.515,
+      "end_time": 215.99501,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you very, very much.",
+      "start_time": 215.655,
+      "end_time": 216.77501,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "will pay with the money you have on your account. Isn't great.",
+      "start_time": 217.995,
+      "end_time": 221.19499,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Yes. Thank you. But I've already paid for, I thought, two nights, but",
+      "start_time": 221.12999,
+      "end_time": 226.01,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "start_time": 225.96,
+      "end_time": 226.44,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "obviously",
+      "start_time": 226.01,
+      "end_time": 226.65,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "I",
+      "start_time": 226.44,
+      "end_time": 226.68001,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "not.",
+      "start_time": 226.65,
+      "end_time": 227.29001,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "delete them, so the",
+      "start_time": 226.68001,
+      "end_time": 228.2,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Alright.",
+      "start_time": 228.01,
+      "end_time": 228.73,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "money is back",
+      "start_time": 228.2,
+      "end_time": 228.76,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Okay.",
+      "start_time": 228.73,
+      "end_time": 229.45,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "on your account.",
+      "start_time": 228.76,
+      "end_time": 229.72,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank you.",
+      "start_time": 229.93,
+      "end_time": 230.81,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Okay. Okay. Great. So now we have a reservation, sorry, from the nineteenth, so today, to the '23, Okay?",
+      "start_time": 231.64,
+      "end_time": 259.47845,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Thank",
+      "start_time": 259.425,
+      "end_time": 259.745,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "For",
+      "start_time": 259.47845,
+      "end_time": 259.79846,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "you",
+      "start_time": 259.745,
+      "end_time": 259.905,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "four",
+      "start_time": 259.79846,
+      "end_time": 260.03845,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "very",
+      "start_time": 259.905,
+      "end_time": 260.145,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "nights.",
+      "start_time": 260.03845,
+      "end_time": 260.67847,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "much. Lovely.",
+      "start_time": 260.145,
+      "end_time": 262.065,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    },
+    {
+      "speaker": "agent",
+      "text": "Have a good day.",
+      "start_time": 262.59845,
+      "end_time": 263.55844,
+      "user_id": 1625621,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "And you. Thank you very much. Bye bye.",
+      "start_time": 264.145,
+      "end_time": 268.145,
+      "user_id": null,
+      "phone_hash": "40ae61abdf3b1f9cd17f073f748a3203699e83497f3fe75b226f1e93be747b43"
+    }
+  ]
+}

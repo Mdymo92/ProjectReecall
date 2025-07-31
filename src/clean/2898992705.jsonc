@@ -1,0 +1,24 @@
+{
+  "conversation_id": "2898992705",
+  "call_created_at": "2025-06-20T12:28:05.000Z",
+  "role": "Junior",
+  "language": "fr",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "bonjour vous etes sur le repondeur du 0 7 quatre vingt trois 16 trente sept quatre vingt six merci de laisser un message apres le bip a la fin de votre message si vous souhaitez le modifier tapez diese",
+      "start_time": 3.12,
+      "end_time": 15.86,
+      "user_id": null,
+      "phone_hash": "7f0edb4ba0081c0a7c8ab2ef417dc8f99372cbe79b771d997eb8130667e7b0dd"
+    },
+    {
+      "speaker": "agent",
+      "text": "oui bonjour camping car par cagnol a paris je vous appelle parce qu on a regarde un peu votre compte parce qu on voit que votre solde est en negatif et du coup on voulait juste savoir on a vu que vous etiez entre le 14 juin a arrado et on voulait juste savoir si vous y etiez toujours ou s il y avait eu plus un probleme avec la barriere de sortie dans ce cas la on pourra rectifier du coup votre solde negatif dans tous les cas je vous invite a nous rappeler pour nous preciser tout ca au 0 un quatre vingt trois soixante quatre soixante neuf vingt et un je vous souhaite une bonne journee au revoir",
+      "start_time": 16.974999,
+      "end_time": 52.118874,
+      "user_id": 1625621,
+      "phone_hash": null
+    }
+  ]
+}

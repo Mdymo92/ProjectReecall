@@ -1,0 +1,264 @@
+{
+  "conversation_id": "2709668946",
+  "call_created_at": "2025-04-04T07:01:40.000Z",
+  "role": "Senior",
+  "language": "es",
+  "messages": [
+    {
+      "speaker": "client",
+      "text": "Hola, buenos días.",
+      "start_time": 2.5040999999999998,
+      "end_time": 3.5248099999999996,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Llamo desde España.",
+      "start_time": 3.56484,
+      "end_time": 4.60557,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Les pregunto por qué he visto que me han cobrado en mi cuenta bancaria el Pact Privilege.",
+      "start_time": 7.10733,
+      "end_time": 11.770599999999998,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Sí, pero esto yo no sabía que se cobraba automáticamente cada año porque yo no tengo previsión de viajar a Francia próximamente y me gustaría esto activarlo cuando lo necesite.",
+      "start_time": 18.17509,
+      "end_time": 28.38225,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "¿Puedo devolver el recibo?",
+      "start_time": 28.96265,
+      "end_time": 30.66385,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "Para este año no es posible porque recibí un correo electrónico dos meses antes del cobro y El cobro y el goberno.",
+      "start_time": 31.888360000000002,
+      "end_time": 59.806219999999996,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "tenía 30 días para responder si no quería este cobro.",
+      "start_time": 47.576840000000004,
+      "end_time": 54.06035,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Pero no es posible para este año de ser reembolsado.",
+      "start_time": 54.920820000000006,
+      "end_time": 60.203680000000006,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "pero puede enviar un correo electrónico para el próximo año, si quiere.",
+      "start_time": 61.15209,
+      "end_time": 67.85836,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "De todas maneras, cuando lo contraté no vi en ningún sitio que esto se renovara automáticamente.",
+      "start_time": 69.35606,
+      "end_time": 74.90001,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, sí, sí.",
+      "start_time": 75.36536,
+      "end_time": 76.00596,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Lo puede escribir en un correo electrónico que no quiere para el próximo año la reconducción del PEP Prevene.",
+      "start_time": 77.14703,
+      "end_time": 86.59585,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Vale, o sea, que este año no hay manera de devolverlo.",
+      "start_time": 89.1902,
+      "end_time": 91.29169999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "No, este año es...",
+      "start_time": 91.96807,
+      "end_time": 92.78867,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "No se lo puedo decir.",
+      "start_time": 92.78867,
+      "end_time": 96.47134,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Está muy bien pensado esto.",
+      "start_time": 95.39462999999999,
+      "end_time": 96.53544,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Vale.",
+      "start_time": 96.91570999999999,
+      "end_time": 97.15589,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Vale, pues muchas gracias.",
+      "start_time": 98.98406,
+      "end_time": 101.80534999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "De nada.",
+      "start_time": 101.99535,
+      "end_time": 102.29557,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Que tengan un buen día.",
+      "start_time": 102.51572999999999,
+      "end_time": 103.43639999999999,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "¿No lo puede anular usted ya?",
+      "start_time": 104.42654999999999,
+      "end_time": 106.00726999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "¿No hace falta que envíe el correo?",
+      "start_time": 106.32741,
+      "end_time": 107.58798999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "Para este año no lo puedo anular.",
+      "start_time": 108.48006,
+      "end_time": 111.50225,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "No, no, para el año que viene.",
+      "start_time": 111.82991999999999,
+      "end_time": 112.85038999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "No lo podríamos dar de baja y que ponga en el correo, Pero sí, sí.",
+      "start_time": 113.23056,
+      "end_time": 115.28499,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Lo puedo anular cuando quiera para el año próximo.",
+      "start_time": 115.68527999999999,
+      "end_time": 119.2879,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "que no quiero que me lo actualicen, digamos.",
+      "start_time": 122.89497,
+      "end_time": 124.99592999999999,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, podría decir que no quiere la reconducción del Pacto Privilegio para el año próximo, la próxima vez.",
+      "start_time": 125.9805,
+      "end_time": 136.13105,
+      "user_id": 1460746,
+      "phone_hash": null
+    },
+    {
+      "speaker": "client",
+      "text": "Vale, pues.",
+      "start_time": 138.32433,
+      "end_time": 138.92597,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Vale, muchas gracias, Nada.",
+      "start_time": 139.48751000000001,
+      "end_time": 141.1763,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "client",
+      "text": "Leina.",
+      "start_time": 142.13474000000002,
+      "end_time": 142.39545,
+      "user_id": null,
+      "phone_hash": "553ac72323df48db7bc46b50680c10918f3a4c5ab4b5e8ea0a5c274fcad299f9"
+    },
+    {
+      "speaker": "agent",
+      "text": "Buen día.",
+      "start_time": 143.93917,
+      "end_time": 144.29954,
+      "user_id": 1460746,
+      "phone_hash": null
+    }
+  ]
+}
