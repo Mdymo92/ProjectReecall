@@ -7,15 +7,15 @@
 - [python3.13-venv](https://docs.python.org/3/tutorial/venv.html)
 
 ## Executer le projet 
-# 1) Cloner le repo et créer l’environnement virtuel
+### 1) Cloner le repo et créer l’environnement virtuel
 - git clone <https://github.com/Mdymo92/TestReecall.git> ProjectReecall
 - cd ProjectReecall
 - python3 -m venv venv
 
-# 2) Activer l’environnement
+### 2) Activer l’environnement
 venv\Scripts\activate.bat (# Sur Windows (CMD))
 
-# 3) 🧪 Installer les dépendances
+### 3) 🧪 Installer les dépendances
 pip install -r requirements.txt
 
 ## ⚙️ Pipeline étape par étape
@@ -50,9 +50,6 @@ Génère un graphique à barres des thèmes et catégories les plus fréquents :
 
 python src/plot_ref_chart.py --ref-file src/ref.json --output-file src/top_categories_chart.png
 
-Voici la version en français de la section demandée pour ton README :
-
----
 
 ### 📁 Fichiers générés
 
