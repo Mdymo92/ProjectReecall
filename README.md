@@ -8,15 +8,15 @@
 
 ## Executer le projet 
 ### 1) Cloner le repo et créer l’environnement virtuel
-- git clone <https://github.com/Mdymo92/TestReecall.git> ProjectReecall
-- cd ProjectReecall
-- python3 -m venv venv
+- `git clone <https://github.com/Mdymo92/TestReecall.git>` 
+- `cd ProjectReecall`
+- `python3 -m venv venv`
 
 ### 2) Activer l’environnement
-venv\Scripts\activate.bat (# Sur Windows (CMD))
+`venv\Scripts\activate.bat` (# Sur Windows (CMD))
 
 ### 3) 🧪 Installer les dépendances
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## ⚙️ Pipeline étape par étape
 
