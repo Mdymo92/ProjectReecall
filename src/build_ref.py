@@ -1,88 +1,79 @@
 import json
-from collections import defaultdict
+from collections import defaultdict, Counter
 from typing import Dict, List
 import typer
 from tqdm import tqdm
-from rapidfuzz import fuzz
+import openai
+import os
+from dotenv import load_dotenv
 
 app = typer.Typer()
 
-FUZZY_THRESHOLD = 85  # Similarity score threshold for merging
+# Load .env file if it exists
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def find_closest_category(name: str, existing: List[str]) -> str:
-    best_match = None
-    highest_score = 0
-    for candidate in existing:
-        score = fuzz.partial_ratio(name.lower(), candidate.lower())
-        if score > highest_score:
-            best_match = candidate
-            highest_score = score
-    return best_match if highest_score >= FUZZY_THRESHOLD else name
+if not openai.api_key:
+    raise EnvironmentError("❌ OPENAI_API_KEY is not set. Please set it in your environment or .env file.")
 
 @app.command()
-def build_ref(
+def regroup_ref_llm(
     labels_path: str = typer.Argument(..., help="Path to labels_output.jsonl"),
-    output_path: str = typer.Argument("ref.json", help="Output file path for the reference JSON")
+    output_path: str = typer.Argument("ref_llm.json", help="Output path for regrouped reference")
 ):
-    theme_data: Dict[str, Dict[str, Dict]] = defaultdict(lambda: defaultdict(lambda: {
-        "frequency": 0,
-        "examples": []
-    }))
-    category_aliases: Dict[str, str] = {}  # Raw -> Canonical mapping per theme
+    cleaned_lines = []
+    output_clean_path = "labels_output_clean.json"
+    with open(labels_path, "r", encoding="utf-8") as fin, open(output_clean_path, "w", encoding="utf-8") as fout:
+        for i, line in enumerate(fin, 1):
+            try:
+                json_obj = json.loads(line.strip())
+                fout.write(json.dumps(json_obj, ensure_ascii=False) + "\n")
+                cleaned_lines.append(json_obj)
+            except json.JSONDecodeError as e:
+                print(f"❌ Ligne {i} invalide: {e}")
 
-    with open(labels_path, "r", encoding="utf-8") as fin:
-        for line in tqdm(fin, desc="Processing conversations"):
-            obj = json.loads(line.strip())
-            theme = obj.get("theme", "unknown")
-            raw_category = obj.get("categorie", "unknown")
-            use_cases = obj.get("use_cases", [])
+    label_pairs = []
+    counts = Counter()
+    examples: Dict[str, Dict[str, List[str]]] = defaultdict(lambda: defaultdict(list))
 
-            # Find canonical name for the category within the theme
-            if theme not in category_aliases:
-                category_aliases[theme] = {}
-            aliases = category_aliases[theme]
+    for conv in cleaned_lines:
+        theme = conv.get("theme", "inconnu")
+        category = conv.get("categorie", "inconnu")
+        label_pairs.append({"theme": theme, "categorie": category})
+        counts[(theme, category)] += 1
+        for uc in conv.get("use_cases", []):
+            if "besoin" in uc and len(examples[theme][category]) < 2:
+                examples[theme][category].append(uc["besoin"])
 
-            if raw_category in aliases:
-                canonical = aliases[raw_category]
-            else:
-                known_categories = list(theme_data[theme].keys())
-                canonical = find_closest_category(raw_category, known_categories)
-                aliases[raw_category] = canonical
+    prompt = (
+        "Voici une liste de paires thème / catégorie extraites de conversations clients avec leurs fréquences.\n"
+        "Regroupe les catégories similaires entre elles et associe-les à des thèmes cohérents.\n"
+        "Fournis un JSON structuré de cette forme :\n"
+        "{\n  'themes': [\n    {\n      'theme_id': 0,\n      'theme': 'Paiement',\n      'frequency': 120,\n      'categories': [\n        {\n          'category_id': 0,\n          'category': 'Carte bancaire refusée',\n          'frequency': 70,\n          'examples': ['je n arrive pas à payer', 'le paiement ne passe pas']\n        },\n        ...\n      ]\n    },\n    ...\n  ]\n}\n"
+        "Réponds uniquement avec ce JSON."
+    )
 
-            # Register frequency and examples
-            theme_data[theme][canonical]["frequency"] += 1
-            for case in use_cases:
-                if "besoin" in case and len(theme_data[theme][canonical]["examples"]) < 2:
-                    theme_data[theme][canonical]["examples"].append(case["besoin"])
+    content_to_send = json.dumps([
+        {"theme": k[0], "categorie": k[1], "frequency": v, "examples": examples[k[0]][k[1]]}
+        for k, v in counts.items()
+    ], ensure_ascii=False)
 
-    # Format output
-    ref_output: List[Dict] = []
-    for theme, categories in sorted(
-        theme_data.items(),
-        key=lambda t: sum(c["frequency"] for c in t[1].values()),
-        reverse=True
-    ):
-        ref_output.append({
-            "theme_id": len(ref_output),
-            "theme": theme,
-            "frequency": sum(c["frequency"] for c in categories.values()),
-            "categories": [
-                {
-                    "category_id": idx,
-                    "category": cat,
-                    "frequency": data["frequency"],
-                    "examples": data["examples"]
-                }
-                for idx, (cat, data) in enumerate(
-                    sorted(categories.items(), key=lambda item: item[1]["frequency"], reverse=True)
-                )
-            ]
-        })
-
-    with open(output_path, "w", encoding="utf-8") as fout:
-        json.dump({"themes": ref_output}, fout, ensure_ascii=False, indent=2)
-
-    print(f"✅ Reference file with fuzzy category grouping saved to: {output_path}")
+    try:
+        response = openai.chat.completions.create(
+            model="gpt-3.5-turbo-0125",
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": content_to_send}
+            ],
+            temperature=0.3
+        )
+        output = response.choices[0].message.content.strip()
+        parsed = json.loads(output)
+        with open(output_path, "w", encoding="utf-8") as fout:
+            json.dump(parsed, fout, ensure_ascii=False, indent=2)
+        print(f"✅ LLM-based reference saved to: {output_path}")
+    except Exception as e:
+        print(f"❌ Error calling OpenAI: {e}")
 
 if __name__ == "__main__":
     app()
