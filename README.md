@@ -18,6 +18,12 @@
 ### 3) 🧪 Installer les dépendances
 `pip install -r requirements.txt`
 
+### 🔐 Variables d’environnement
+Ajoutez une clé OpenAI dans un fichier .env situé dans le dossier src : 
+
+OPENAI_API_KEY=...
+
+
 ## ⚙️ Pipeline étape par étape
 
 ### 1. 🔄 Ingestion des données
@@ -59,16 +65,9 @@ Génère un graphique à barres des thèmes et catégories les plus fréquents :
 * `ref.json` : Taxonomie finale des thèmes et catégories avec fréquences et exemples
 * `top_categories_chart.png` : Résumé visuel des catégories les plus fréquentes
 
-### 🔐 Variables d’environnement
-Ajoute ta clé OpenAI dans un fichier `.env` dans le dossier src :
-
-OPENAI_API_KEY=...
-
 
 ### ✅ Statut
 Cette pipeline est complète et modulaire. Chaque étape peut être exécutée indépendamment.
-
-
 
 
 
