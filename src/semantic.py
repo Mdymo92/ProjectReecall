@@ -41,20 +41,20 @@ def save_cache():
 def extract_use_cases(conversation: Dict[str, Any]) -> List[Dict[str, str]]:
     cid = conversation.get("conversation_id", "")
     turns = conversation.get("messages", [])
-
     dialogue = "\n".join([f"{m.get('role', '')}: {m.get('text', '')}" for m in turns if m.get("text")])
 
     prompt = (
-        "Here is a conversation between a customer and an agent."
-        " Analyze the different exchanges to extract use cases in the form of needs and solutions."
-        " Provide a JSON list of dictionaries with two keys: 'need' (problem expressed by the customer) and 'solution' (response or resolution proposed by the agent)."
-        " Translate the conversation if necessary and respond only in French."
-        " Example: [\n  {\"need\": \"I can’t pay with my card.\", \"solution\": \"Try another card or restart the app.\"}\n]"
+        "Voici une conversation entre un client et un agent."
+        " Analyse les échanges pour en extraire des cas d’usage sous forme de besoin et solution."
+        " Fournis uniquement une liste JSON de dictionnaires avec deux clés : 'need' (problème exprimé par le client)"
+        " et 'solution' (réponse de l’agent). Réponds en français, sans aucun texte autour du JSON."
+        " Exemple :\n"
+        "[{\"need\": \"Je n’arrive pas à payer avec ma carte.\", \"solution\": \"Essayez une autre carte ou redémarrez l’application.\"}]"
     )
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-3.5-turbo-0125",
             messages=[
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": f"Conversation:\n{dialogue}"}
@@ -62,10 +62,23 @@ def extract_use_cases(conversation: Dict[str, Any]) -> List[Dict[str, str]]:
             temperature=0.2
         )
         content = response.choices[0].message.content.strip()
+
+        # Pour debug si problème
+        if not content:
+            logger.warning("Réponse vide du LLM pour conversation ID: %s", cid)
+            return []
+
+        
+
         return json.loads(content)
-    except Exception as e:
-        logger.error("Error extracting use cases: %s", e)
+
+    except json.JSONDecodeError as json_err:
+        logger.error("⚠️ JSON invalide pour conversation %s : %s\nContenu reçu : %s", cid, json_err, content)
         return []
+    except Exception as e:
+        logger.error("Erreur lors de l'extraction de cas d’usage pour conversation %s: %s", cid, e)
+        return []
+
 
 def label_conversation_summary(conversation: Dict[str, Any]) -> Dict[str, Any]:
     cid = conversation.get("conversation_id", "")
