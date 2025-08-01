@@ -8,11 +8,13 @@ import spacy
 from functools import lru_cache
 from pathlib import Path
 
+# Set up basic logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
+
 app = typer.Typer()
 
-# Language -> spaCy model mapping
+# Mapping of language codes to spaCy language models
 MODEL_MAP = {
     'fr': 'fr_core_news_sm',
     'de': 'de_core_news_sm',
@@ -22,7 +24,7 @@ MODEL_MAP = {
 
 @lru_cache(maxsize=4)
 def get_tokenizer(lang: str):
-    """Load and return the spaCy tokenizer for the given language."""
+    """Load and return the spaCy tokenizer for the specified language (cached)."""
     model = MODEL_MAP.get(lang)
     if not model:
         logger.warning(f"No spaCy model found for '{lang}', skipping tokenization.")
@@ -34,6 +36,7 @@ def get_tokenizer(lang: str):
         return None
 
 def load_checkpoint(checkpoint_path: Path) -> int:
+    """Read the saved checkpoint index from file if it exists."""
     if checkpoint_path.exists():
         try:
             return int(checkpoint_path.read_text().strip())
@@ -42,12 +45,13 @@ def load_checkpoint(checkpoint_path: Path) -> int:
     return 0
 
 def save_checkpoint(checkpoint_path: Path, idx: int):
+    """Save the current index to checkpoint file."""
     checkpoint_path.write_text(str(idx))
 
 def collapse_phrases(text: str) -> str:
     """
-    Remove repeated adjacent sequences of words.
-    e.g. "I am here I am here" -> "I am here"
+    Remove adjacent repeated phrases.
+    For example: "I am here I am here" -> "I am here"
     """
     pattern = re.compile(r'\b((?:\w+\s+){2,}?)\1', re.IGNORECASE)
     while True:
@@ -58,25 +62,24 @@ def collapse_phrases(text: str) -> str:
     return text
 
 def clean_text(text: str) -> str:
-    # 1) Normalize Unicode -> ASCII
+    """
+    Apply a series of cleaning operations on the input text:
+    - Normalize unicode
+    - Remove placeholders and punctuation
+    - Split digits and letters
+    - Remove repetitions
+    - Lowercase and strip extra spaces
+    """
     text = unicodedata.normalize('NFKD', text)
     text = text.encode('ascii', 'ignore').decode('ascii')
-    # 2) Remove placeholders
     text = re.sub(r'PHONE_NUMBER_\d+', '', text)
-    # 3) Remove punctuation
     text = re.sub(r"[^\w\d\s]", ' ', text)
-    # 4) Separate letters/numbers and isolate numbers
     text = re.sub(r"(?<=\D)(?=\d)|(?<=\d)(?=\D)", ' ', text)
     text = re.sub(r"(\d+)", r" \1 ", text)
-    # 5) Remove repeated numbers
     text = re.sub(r"\b(\d+)( \1\b)+", r"\1", text)
-    # 6) Remove repeated words
     text = re.sub(r"\b(\w+)( \1\b)+", r"\1", text)
-    # 7) Collapse repeated phrases
     text = collapse_phrases(text)
-    # 8) Lowercase
     text = text.lower()
-    # 9) Collapse multiple spaces
     text = re.sub(r"\s+", ' ', text).strip()
     return text
 
@@ -87,7 +90,12 @@ def preprocess(
     batch_size: int = typer.Option(100, help="Batch size"),
     checkpoint_file: str = typer.Option('.checkpoint', help="Checkpoint file"),
 ):
-    """Clean messages and apply multilingual segmentation with batching and checkpointing."""
+    """
+    Preprocess messages:
+    - Clean each message
+    - Tokenize based on detected language
+    - Support batch processing with checkpointing
+    """
     in_path = Path(input_dir)
     out_path = Path(output_dir)
     cp_path = Path(checkpoint_file)
@@ -110,7 +118,6 @@ def preprocess(
                 new_messages = []
                 for msg in data.get('messages', []):
                     cleaned = clean_text(msg.get('text', ''))
-                    # Only keep non-empty cleaned messages
                     if cleaned:
                         if tokenizer:
                             tokens = [token.text for token in tokenizer(cleaned)]
