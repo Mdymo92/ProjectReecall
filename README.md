@@ -1,10 +1,7 @@
 # Test technique Reecall
 ![Python Badge](https://img.shields.io/badge/Python-3.13-%233776AB?logo=python&logoColor=%233776AB)
 
-## Dependencies
-- [make](https://www.gnu.org/software/make/). make here is optional as all operations on `venv` can be done as usual, it was only used to give a better developer experience.
-- [python3.13](https://docs.python.org/3/whatsnew/3.13.html)
-- [python3.13-venv](https://docs.python.org/3/tutorial/venv.html)
+
 
 ## Executer le projet 
 ### 1) Cloner le repo et créer l’environnement virtuel
@@ -16,10 +13,13 @@
 `venv\Scripts\activate.bat` (# Sur Windows (CMD))
 
 ### 3) 🧪 Installer les dépendances
-`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
+- [make](https://www.gnu.org/software/make/). L’utilisation de `make` ici est optionnelle car toutes les opérations sur l’environnement virtuel (`venv`) peuvent être effectuées normalement ; il a seulement été utilisé pour offrir une meilleure expérience développeur.
+- [python3.13](https://docs.python.org/3/whatsnew/3.13.html)
+- [python3.13-venv](https://docs.python.org/3/tutorial/venv.html)
 
 ### 🔐 Variables d’environnement
-Ajoutez une clé OpenAI dans un fichier `.env` situé dans le dossier `src` : 
+Ajoutez une clé OpenAI (non Free Tier) dans un fichier `.env` à créer dans le dossier `src` : 
 
 `OPENAI_API_KEY=...`
 
