@@ -16,8 +16,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Données brutes ou intermédiaires
-data/
+
 
 # Configuration locale de l’IDE
 .vscode/
