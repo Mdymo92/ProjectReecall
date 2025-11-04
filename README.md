@@ -1,8 +1,7 @@
 # Projet Reecall (Ilyes Diny)
+Développement d’une pipeline NLP modulaire permettant d’analyser et de labelliser des conversations de centre d’appel, basée sur un LLM et une taxonomie hiérarchique personnalisable.
+
 ![Python Badge](https://img.shields.io/badge/Python-3.13-%233776AB?logo=python&logoColor=%233776AB)
-
-
-
 ## Executer le projet 
 ### 1) Cloner le repo et créer l’environnement virtuel
 - `git clone <https://github.com/Mdymo92/TestReecall.git>` 
