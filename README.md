@@ -1,5 +1,5 @@
 # Projet Reecall (Ilyes Diny)
-Développement d’une pipeline NLP modulaire permettant d’analyser et de labelliser des conversations de centre d’appel, basée sur un LLM et une taxonomie hiérarchique personnalisable.
+Ce projet présente une pipeline d’IA conversationnelle conçue pour analyser et labelliser des conversations de centre d’appel, en combinant des modèles de langage (LLM) et une logique de taxonomie hiérarchique.
 
 ![Python Badge](https://img.shields.io/badge/Python-3.13-%233776AB?logo=python&logoColor=%233776AB)
 ## Executer le projet 
